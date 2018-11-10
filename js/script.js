@@ -69,8 +69,8 @@ function On1Click(){
 			//var body = document.getElementById("message").innerHTML;
 			//var jung = new RegExp("<b>([^<]+)");
 			//var b = body.match(jung)[1];
-			while(/([^|]+)|([^\n\r]+)/.test(body)){
-				var jung = /([^|]+)|([^\n\r]+)/.exec(body);
+			while(/([^|]+).([^\n\r]+)/.test(body)){
+				var jung = /([^|]+).([^\n\r]+)/.exec(body);
 				body = body.replace(jung[0],'');
 				if(new RegExp(recipe).exec(jung[1]) == recipe){
 					output = output+'<a href="'+jung[2]+'" target="_blank">'+jung[1]+'</a></br>'
