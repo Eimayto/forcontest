@@ -52,13 +52,7 @@ var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
 var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1250?seq=1250';
 var _USER_ID_ = '';
 </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1557771002660658",
-    enable_page_level_ads: true
-  });
-</script>
+
 </head>
 <body>
 <script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
@@ -112,7 +106,7 @@ function doRTKeyword()
                     </div>
                     </form>
                     <div class="gnb_search_word">
-<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=동치미">동치미</a></li><li><a href="/recipe/list.html?q=잡채">잡채</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=무생채">무생채</a></li><li><a href="/recipe/list.html?q=꼬막무침">꼬막무침</a></li><li><a href="/recipe/list.html?q=백종원">백종원</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
                         </div>
@@ -657,12 +651,24 @@ function deleteBBS()
 <!--
 $(document).ready(function()
 {
-    EZ.countLog('event_bbs_view_right','web','read','225');
+    EZ.countLog('event_bbs_view_right','web','read','227');
 });
 //-->
 </script>
 <div style="margin:10px;">
-    <a href="/event/225?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','225');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/02/2f91c105fd9cb6f785d92e1e021d2e611.jpg" style="width:100%;"></a>
+    <a href="/event/227?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','227');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/09/f1d36f8d5b6c3698908b814d466edaa01.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','226');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/226?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','226');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/06/78d4179c9365b93d4f5b24d0f6b60bf21.jpg" style="width:100%;"></a>
 </div>
 
 <script type="text/javascript">
@@ -675,18 +681,6 @@ $(document).ready(function()
 </script>
 <div style="margin:10px;">
     <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
-</div>
-
-<script type="text/javascript">
-<!--
-$(document).ready(function()
-{
-    EZ.countLog('event_bbs_view_right','web','read','222');
-});
-//-->
-</script>
-<div style="margin:10px;">
-    <a href="/event/222?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','222');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/19/90e70f656669ea35b11e894d148374511.jpg" style="width:100%;"></a>
 </div>
 
 <script type="text/javascript">
@@ -901,11 +895,11 @@ function customerPropose()
     <div class="container">
         <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
         <ul class="btm_stats">
-            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>355</b></li>
-            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,135</b></li>
-            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,261</b></li>
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>357</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,139</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,817</b></li>
             <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
-            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,229,725,894</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,236,082,799</b></li>
         </ul>
         <div class="btm_mail">
             <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>

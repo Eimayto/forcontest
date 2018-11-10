@@ -52,13 +52,7 @@ var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
 var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1170?seq=1170';
 var _USER_ID_ = '';
 </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1557771002660658",
-    enable_page_level_ads: true
-  });
-</script>
+
 </head>
 <body>
 <script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
@@ -112,7 +106,7 @@ function doRTKeyword()
                     </div>
                     </form>
                     <div class="gnb_search_word">
-<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=동치미">동치미</a></li><li><a href="/recipe/list.html?q=잡채">잡채</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=무생채">무생채</a></li><li><a href="/recipe/list.html?q=꼬막무침">꼬막무침</a></li><li><a href="/recipe/list.html?q=백종원">백종원</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
                         </div>
@@ -840,12 +834,24 @@ function deleteBBS()
 <!--
 $(document).ready(function()
 {
-    EZ.countLog('event_bbs_view_right','web','read','225');
+    EZ.countLog('event_bbs_view_right','web','read','227');
 });
 //-->
 </script>
 <div style="margin:10px;">
-    <a href="/event/225?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','225');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/02/2f91c105fd9cb6f785d92e1e021d2e611.jpg" style="width:100%;"></a>
+    <a href="/event/227?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','227');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/09/f1d36f8d5b6c3698908b814d466edaa01.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','226');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/226?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','226');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/06/78d4179c9365b93d4f5b24d0f6b60bf21.jpg" style="width:100%;"></a>
 </div>
 
 <script type="text/javascript">
@@ -858,18 +864,6 @@ $(document).ready(function()
 </script>
 <div style="margin:10px;">
     <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
-</div>
-
-<script type="text/javascript">
-<!--
-$(document).ready(function()
-{
-    EZ.countLog('event_bbs_view_right','web','read','222');
-});
-//-->
-</script>
-<div style="margin:10px;">
-    <a href="/event/222?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','222');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/19/90e70f656669ea35b11e894d148374511.jpg" style="width:100%;"></a>
 </div>
 
 <script type="text/javascript">
@@ -977,4 +971,138 @@ function getViewRecipeList(page)
         hstr += '</div>';
     }
     hstr += '</div>';
-    if(page != 1 && curVRPag
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>357</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,139</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,817</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,236,082,799</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>

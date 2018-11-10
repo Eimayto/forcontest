@@ -52,13 +52,7 @@ var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
 var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1063?seq=1063';
 var _USER_ID_ = '';
 </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1557771002660658",
-    enable_page_level_ads: true
-  });
-</script>
+
 </head>
 <body>
 <script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
@@ -112,7 +106,7 @@ function doRTKeyword()
                     </div>
                     </form>
                     <div class="gnb_search_word">
-<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=동치미">동치미</a></li><li><a href="/recipe/list.html?q=잡채">잡채</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=무생채">무생채</a></li><li><a href="/recipe/list.html?q=꼬막무침">꼬막무침</a></li><li><a href="/recipe/list.html?q=백종원">백종원</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
                         </div>
@@ -566,7 +560,7 @@ function deleteBBS()
     <div class="talk_list">
         <h2>“내년, 주목할만한 팝업과 콜라보 이어져…” – 해외 미식산업 뉴스 7선</h2>
         <div class="row view_btn st2">
-            <p class="info_writer">셰프뉴스<span>|</span>2015-12-28 오후 13:24<span>|</span><span class="cate_view">90</span><span>|</span><span class="cate_comment">0</span></p>
+            <p class="info_writer">셰프뉴스<span>|</span>2015-12-28 오후 13:24<span>|</span><span class="cate_view">92</span><span>|</span><span class="cate_comment">0</span></p>
             <div class="view_btn_r">
                 <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
                 <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
@@ -582,4 +576,360 @@ function deleteBBS()
             </div>
         </div>
         <div class="talk_content">
-            <p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"></p><div style="text-align: center;"><img src="http://recipe.ezmember.co.kr/cache/bbs/2015/12/28/166bbcaa762670a346de420ac0971867.jpg" style="max-width:100%;"></div><br><p></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">최근 한달 사이 해외 미식 산업에서는 어떤 소식이 있었을까요? 세계 각지에 있는 유명 셰프와 레스토랑이 앞다퉈 내년 계획을 알렸는데요. 셰프뉴스에서 세계 미식시장의 흐름을 한눈에 알아볼 수 있도록 뉴스를 모았습니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"></h4><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">1. 얼리니아<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Alinea</em>의 팝업 소식</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><a href="http://chefnews.kr/wp/wp-content/uploads/2015/12/alineaMadrid_md-copy1.jpg" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(68, 68, 68); text-decoration: none; transition: all 0.2s ease-in-out;"><img class="size-medium wp-image-10316 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/alineaMadrid_md-copy1-660x393.jpg" alt="alineaMadrid_md copy1" width="660" height="393" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></a></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">미국 시카고에 있는 얼리니아의 전 직원이 팝업 레스토랑을 운영하기 위해 스페인으로 떠난다는 소식입니다. 얼리니아를 이끌고 있는 그랜트 애커츠<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Grant Achatz</em></span>&nbsp;셰프는 한 외신과의 인터뷰를 통해 “이번 여행으로 다른 문화와 식재료를 알 수 있을 것”이라며 이번 팝업 레스토랑의 취지를 설명했습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">스페인 팝업 레스토랑의 오픈 기간은 내년 1월12일부터 2월 6일까지며, 마드리드시에 있는&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">NH</em>호텔 유로빌딩에서 진행됩니다. 이 기간 동안 호텔에 있는 유명 레스토랑인 다이버<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">XO</em><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Diver XO</em></span>와의 콜라보도 계획하고 있습니다. 콜라보는 1월 12~16일까지만 운영합니다.<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">더 자세한 내용은 관련 기사 링크를 통해 확인해볼 수 있습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">관련기사&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http
+            <p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"></p><div style="text-align: center;"><img src="http://recipe.ezmember.co.kr/cache/bbs/2015/12/28/166bbcaa762670a346de420ac0971867.jpg" style="max-width:100%;"></div><br><p></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">최근 한달 사이 해외 미식 산업에서는 어떤 소식이 있었을까요? 세계 각지에 있는 유명 셰프와 레스토랑이 앞다퉈 내년 계획을 알렸는데요. 셰프뉴스에서 세계 미식시장의 흐름을 한눈에 알아볼 수 있도록 뉴스를 모았습니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"></h4><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">1. 얼리니아<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Alinea</em>의 팝업 소식</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><a href="http://chefnews.kr/wp/wp-content/uploads/2015/12/alineaMadrid_md-copy1.jpg" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(68, 68, 68); text-decoration: none; transition: all 0.2s ease-in-out;"><img class="size-medium wp-image-10316 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/alineaMadrid_md-copy1-660x393.jpg" alt="alineaMadrid_md copy1" width="660" height="393" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></a></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">미국 시카고에 있는 얼리니아의 전 직원이 팝업 레스토랑을 운영하기 위해 스페인으로 떠난다는 소식입니다. 얼리니아를 이끌고 있는 그랜트 애커츠<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Grant Achatz</em></span>&nbsp;셰프는 한 외신과의 인터뷰를 통해 “이번 여행으로 다른 문화와 식재료를 알 수 있을 것”이라며 이번 팝업 레스토랑의 취지를 설명했습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">스페인 팝업 레스토랑의 오픈 기간은 내년 1월12일부터 2월 6일까지며, 마드리드시에 있는&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">NH</em>호텔 유로빌딩에서 진행됩니다. 이 기간 동안 호텔에 있는 유명 레스토랑인 다이버<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">XO</em><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Diver XO</em></span>와의 콜라보도 계획하고 있습니다. 콜라보는 1월 12~16일까지만 운영합니다.<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">더 자세한 내용은 관련 기사 링크를 통해 확인해볼 수 있습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">관련기사&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://www.eater.com/2015/11/20/9772670/more-details-alinea-madrid-pop-up" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.eater.com/2015/11/20/9772670/more-details-alinea-madrid-pop-up</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">스페인 팝업이 끝나면 얼리니아는 다시 미국으로 돌아갑니다. 하지만, 원래 얼리니아가 있던 시카고가 아닌 마이애미로 간다는 군요. 마이애미 팝업은 내년 2월, 페나 호텔<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Faena Hotel</em></span>에서 열릴 예정이라고 알려졌습니다.<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">이 역시 관련 기사를 통해 자세히 알아보세요. 예약을 할 수 있는 홈페이지도 마련했군요.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">마드리드 예매&nbsp;홈페이지&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="https://alineamadrid.tocktix.com/#/home" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">https://alineamadrid.tocktix.com/#/home</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">마이애미 예매&nbsp;홈페이지<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);">&nbsp;<a href="http://alineainresidence.com/miami/" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://alineainresidence.com/miami/</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">2. 마시모 보투라<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Massimo Bottura</em>&nbsp;셰프의 무료급식소&nbsp;운영 계획 발표</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="size-medium wp-image-10313 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/Massimo-bottura-660x487.jpg" alt="Lo chef Massimo Bottura durante una conferenza all'Istituto Italiano di cultura a Parigi, 17 Novembre 2013. ANSA/ CRISTNA LATESSA" width="660" height="487" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">이탈리아가 낳은 천재 셰프 마시모 보투라가 지난 여름 밀라노 엑스포에서 했던 무료 급식소의 성공적인 결과에 힘입어 추가로 무료 급식소<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Soup Kitchen</em></span>를 추가로 운영할 계획이라고 말했습니다. 외신에 따르면 이탈리아 토리노와 미국 뉴욕시에서 그의 무료급식소를 볼 수 있겠네요. 지난 행사에 대한 기사는 셰프뉴스&lt;링크&gt;에서 확인할 수 있습니다. 또한 지난 밀라노 엑스포에서 함께 했었던 이탈리아 카톨릭 자선 단체와 협업할 계획이라는군요. 아쉽게도 정확한 장소와 일시는 미정입니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">관련기사:<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);">&nbsp;<a href="http://www.ansa.it/english/news/lifestyle/food_wine/2015/11/11/bottura-to-open-two-more-soup-kitchens_9b7cfc2b-9d43-4c20-b854-51a15a6d63b8.html" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.ansa.it/english/news/lifestyle/food_wine/2015/11/11/bottura-to-open-two-more-soup-kitchens_9b7cfc2b-9d43-4c20-b854-51a15a6d63b8.html</a></span></p><h3 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 24px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"></h3><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">3. 알버트 아드리아<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Albert Adria</em>&nbsp;셰프의 런던 팝업</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="size-full wp-image-10312 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/albert.jpg" alt="albert" width="534" height="303" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">얼마 전&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://chefnews.kr/archives/9988" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">한국에도 방문했었던</a></span>&nbsp;알버트 아드리아 셰프가 런던에서 새로운 시도를 한다는 소식입니다. 영국 런던에 있는 카페 로얄<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Café Royal</em></span>의 150주년을 기념할 수 도 있는 이번 팝업은 알버트 셰프의 첫 해외 팝업 소식이라 더 많은 관심을 얻었습니다. 내년 2월부터 50일 동안 손님을 맞을 텐데요, 온라인 예약도 가능한 상태입니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">예매 홈페이지:&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://www.50daysbyalbertadria.com/" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.50daysbyalbertadria.com/</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h3 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 24px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">4. 아시아의 떠오르는 레스토랑 6곳에 한국 밍글스가 포함</span></strong></h3><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="size-full wp-image-10311 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/Mingles-dish-DCI-2015-2.jpg" alt="Mingles-dish-DCI-2015-2" width="620" height="400" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">세계에서 가장 뛰어난 레스토랑을 선정하는 월드 50 베스트 레스토랑에서 눈 여겨 볼 만한 아시아 레스토랑 6곳을 선정했습니다. 이 중에 강민구 셰프가 운영하고 있는 밍글스가 포함되어 관심을 얻었는데요. 6군데 레스토랑은 모두 각 나라의 고유한 음식을 현대적인 해석으로 표현하고 있다는 특징이 있습니다. 한국 외에 일본 홍콩, 마카오가 포함되었습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">관련기사:&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://www.theworlds50best.com/blog/News/discover-six-rising-stars-of-asias-dining-scene.html" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.theworlds50best.com/blog/News/discover-six-rising-stars-of-asias-dining-scene.html</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h3 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 24px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">5. 조엘 호부숑<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Joël Robuchon</em>&nbsp;셰프, 국제 요리학교 설립 계획</span></strong></h3><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><a href="http://chefnews.kr/wp/wp-content/uploads/2015/12/joel1.jpg" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(68, 68, 68); text-decoration: none; transition: all 0.2s ease-in-out;"><img class="size-medium wp-image-10315 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/joel1-660x440.jpg" alt="joel1" width="660" height="440" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></a></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">프랑스인으로서 수많은 미슐랭 별을 보유한 레스토랑 그룹의 수장인 조엘 호부숑 셰프가 원대한 계획을 발표했습니다. 바로 국제 요리학교를 설립하는 것입니다. 학교는 프랑스 중부에 있는 몽모리용<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Montmorillon</em></span>&nbsp;지역에 설립할 예정이라고 합니다. 교육은 전문 요리부터 소믈리에, 홀 스텝까지 레스토랑 전분야에 이릅니다. 또한 2달에서 3년간의 교육기간의 차등을 두어서 조건별로 입학할 수 있다고 합니다. 그런데 학교를 건립하는데 들어가게 될 예산이 무려 6900만 달러에 달합니다. 우리나라 돈으로 800억이 넘는군요.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">기사:&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://www.eater.com/2015/11/23/9782182/joel-robuchon-international-culinary-school-france" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.eater.com/2015/11/23/9782182/joel-robuchon-international-culinary-school-france</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h3 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 24px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">6. E.M.P.</em>에서 캐주얼 레스토랑 메이드 나이스<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Made Nice</em>&nbsp;오픈 예정</strong></span></h3><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="size-medium wp-image-10309 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/Hero-Eleven-Madison-Park-Will-Guidara-Daniel-Humm-Fast-Casual-Restaurant-Opening-Made-Nice-660x495.jpg" alt="Hero-Eleven-Madison-Park-Will-Guidara-Daniel-Humm-Fast-Casual-Restaurant-Opening-Made-Nice" width="660" height="495" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">일레븐 메디슨 파크<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Eleven Madison Park</em></span>의 다니엘 흄<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Daniel Humm</em></span>&nbsp;셰프와 레스토랑 공동소유주인 윌 기다라<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Will Guidara</em></span>가 새로운 캐쥬얼 레스토랑을 오픈할 예정이라고 합니다. 또한 2012년 뉴욕 노마드 호텔에 문을 연 노마드<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Nomad</em></span>&nbsp;레스토랑을&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">LA</em>에도 열 계획이라고 합니다. 내년은&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">EMP</em>의 추진력을 엿볼 수 있는 한 해가 될 것 같습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">우선 노마드&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">LA</em>점은 2017년 가을에 오픈 할 계획이고, 번화가에 있는 지안니니 플레이스<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Giannini Place complex</em></span>가 유력한 장소로 알려져 있습니다. 뉴욕에서 선보이던 메뉴를 기반으로&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">LA</em>만의 독특한 식문화를 함께 즐길 수 있도록 메뉴를 구성하고 있다는 소식입니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">EMP</em>의 흄 셰프는 노마드 외에 새로운 시도를 하고 있습니다. 뉴욕에 새로운 캐주얼 다이닝 오픈 소식이 그것인데요. 이름하여 메이드 나이스<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Made Nice</em></span>입니다. 이미 데이빗 창, 다니엘 패터슨, 로이 최 셰프 간의 콜라보가 익숙한 미식가들에게 한가지 더 흥미로운 소식이 아닐 수 없을 겁니다. 메뉴의 가격은 $10~$15가 될 예정이고,&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">EMP</em>의 수셰프인 대니 디스테파노<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Danny DiStefano</em></span>가 주방을 책임진다고 합니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Nomad LA</em>관련 기사:&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://www.tastingtable.com/dine/national/the-nomad-bar-restaurant-nyc-la-restaurant-news-restaurant-openings" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.tastingtable.com/dine/national/the-nomad-bar-restaurant-nyc-la-restaurant-news-restaurant-openings</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">새로운 캐주얼 다이닝 기사:&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://www.tastingtable.com/dine/national/eleven-madison-park-team-opening-fast-casual-restaurant-made-nice" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">http://www.tastingtable.com/dine/national/eleven-madison-park-team-opening-fast-casual-restaurant-made-nice</a></span></p><h3 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 24px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"></h3><h3 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 24px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">7. 르네 레드제피&nbsp;<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Rene Redzepi</em>셰프의 두번째 레스토랑의 메뉴를 공개</strong></span></h3><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="size-medium wp-image-10308 aligncenter tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2015/12/rene-660x438.jpg" alt="rene" width="660" height="438" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">지난 9월,&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://chefnews.kr/archives/8269" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">노마<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Noma</em>의 폐업을 예고</a></span>한 르네 레드제피 셰프. 그가 최근 페이스 북에 새로운 레스토랑에서 선보일 메뉴 사진을 공개했습니다. 새로운 레스토랑의 이름은 ‘108’(예정)으로 정해졌습니다. 레스토랑의 오픈 소식을 구체적으로 전하면서 많은 미식가들의 기대를 더욱 증폭시키는군요. 사진을 통해 미리 레스토랑의 분위기를 느껴 볼까요?</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">관련 기사 :&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="https://www.finedininglovers.com/blog/news-trends/rene-redzepi-108-restaurant/" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">https://www.finedininglovers.com/blog/news-trends/rene-redzepi-108-restaurant/</a></span></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">108 페이스 북:&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="https://www.facebook.com/108cph/" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">https://www.facebook.com/108cph/</a></span></p><p style="font-size: 14px;">· 셰프뉴스에서 보기 : <a href="http://chefnews.kr/archives/10279" target="_blank">http://chefnews.kr/archives/10279</a></p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1079"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1062"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="1063">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','227');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/227?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','227');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/09/f1d36f8d5b6c3698908b814d466edaa01.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','226');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/226?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','226');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/06/78d4179c9365b93d4f5b24d0f6b60bf21.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>357</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,139</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,817</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,236,082,799</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>
