@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="어묵꼬치탕/어묵탕/오뎅탕?!ㅋㅋby 서재인겨울철 길거리를 지날때면 항상 유혹(?)해오는 꼬지어묵들..요즘은 가격이 비싸서 맘놓고 배불리 먹지도 못하는듯해요..집에서도 간단하게~ 그리고 푸짐하게^^어묵꼬치탕 만들어 보았답니다.▶ 레시피 보러가기꼬치오뎅탕 만드는법,어묵탕황금레시피by 꽃청춘이주부​겨울이되면 생각나는 음식하면~​호빵,호떡,붕어빵,.....(아 먹고싶네요 ㅋㅋㅋ)​특히 포장마차떡볶이집에서 먹는 꼬치오뎅!!!!!​집에서 먹는거랑 틀리게 꼬칭오뎅은 밖에서 먹으면 그리도 맛난지 ~​서서 떡볶이 1인분시켜서 종이컵에 국물 담아서 오뎅꼬치 집어먹다보면 ​나도모르게 3-4개는 기본으로 먹게 된다죠 ㅋㅋㅋㅋㅋ​​오늘은 집에서도 즐길수 있는 꼬치오뎅탕 만드는법을 소개할께요!▶ 레시피 보러가기얼큰간단 오뎅탕by 한결이명절음식으로 느끼한 속을 달래주는 얼큰한 오뎅탕 !▶ 레시피 보러가기뜨끈~한 국물 "어묵탕" [어묵꼬지/오뎅탕/오뎅꼬지/분식/떡볶이/어묵탕]by 찬미▶ 레시피 보러가기오뎅탕도 멋찌게 by 눈나무숲겨울에 어울리는 오뎅탕 ..하지만 이쁘고 멋찌게 만들면 더 맛나겠지여? ▶ 레시피 보러가기오뎅탕 by 쥬쥬씨이렇게 추운날은 집에서 뜨끈한 오뎅탕 끓여서 먹으면 아주 별미겠다 싶어서, 바깥음식의 유혹을 뿌리치고 집으로 직행!!▶ 레시피 보러가기뜨끈한 국물의 꽃게 오뎅탕 by 윤꽃게 오뎅탕을 끓인후 매운 청양고추를 넣어 끓이기 전에 아이것은 조금 떠놨습니다. 부드러운 오뎅에 국물이 맛있다며 맛있게 먹는 아이 모습에 행복이 전해져 옵니다.▶ 레시피 보러가기초간단~어묵탕-딸에게# / 오뎅탕 /부산어묵by 노란장미▶ 레시피 보러가기유부를 넣은 오뎅탕 만들기by kim12통통한 유부 주머니와 함께 끓인 오뎅탕▶ 레시피 보러가기">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>오뎅탕 끓이는 법 황금레시피 모음</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1470" />
+<meta property="kakao:title" content="오뎅탕 끓이는 법 황금레시피 모음" />
+<meta property="kakao:description" content="어묵꼬치탕/어묵탕/오뎅탕?!ㅋㅋby 서재인겨울철 길거리를 지날때면 항상 유혹(?)해오는 꼬지어묵들..요즘은 가격이 비싸서 맘놓고 배불리 먹지도 못하는듯해요..집에서도 간단하게~ 그리고 푸짐하게^^어묵꼬치탕 만들어 보았답니다.▶ 레시피 보러가기꼬치오뎅탕 만드는법,어묵탕황금레시피by 꽃청춘이주부​겨울이되면 생각나는 음식하면~​호빵,호떡,붕어빵,.....(아 먹고싶네요 ㅋㅋㅋ)​특히 포장마차떡볶이집에서 먹는 꼬치오뎅!!!!!​집에서 먹는거랑 틀리게 꼬칭오뎅은 밖에서 먹으면 그리도 맛난지 ~​서서 떡볶이 1인분시켜서 종이컵에 국물 담아서 오뎅꼬치 집어먹다보면 ​나도모르게 3-4개는 기본으로 먹게 된다죠 ㅋㅋㅋㅋㅋ​​오늘은 집에서도 즐길수 있는 꼬치오뎅탕 만드는법을 소개할께요!▶ 레시피 보러가기얼큰간단 오뎅탕by 한결이명절음식으로 느끼한 속을 달래주는 얼큰한 오뎅탕 !▶ 레시피 보러가기뜨끈~한 국물 "어묵탕" [어묵꼬지/오뎅탕/오뎅꼬지/분식/떡볶이/어묵탕]by 찬미▶ 레시피 보러가기오뎅탕도 멋찌게 by 눈나무숲겨울에 어울리는 오뎅탕 ..하지만 이쁘고 멋찌게 만들면 더 맛나겠지여? ▶ 레시피 보러가기오뎅탕 by 쥬쥬씨이렇게 추운날은 집에서 뜨끈한 오뎅탕 끓여서 먹으면 아주 별미겠다 싶어서, 바깥음식의 유혹을 뿌리치고 집으로 직행!!▶ 레시피 보러가기뜨끈한 국물의 꽃게 오뎅탕 by 윤꽃게 오뎅탕을 끓인후 매운 청양고추를 넣어 끓이기 전에 아이것은 조금 떠놨습니다. 부드러운 오뎅에 국물이 맛있다며 맛있게 먹는 아이 모습에 행복이 전해져 옵니다.▶ 레시피 보러가기초간단~어묵탕-딸에게# / 오뎅탕 /부산어묵by 노란장미▶ 레시피 보러가기유부를 넣은 오뎅탕 만들기by kim12통통한 유부 주머니와 함께 끓인 오뎅탕▶ 레시피 보러가기" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1470" />
+<meta property="og:title" content="오뎅탕 끓이는 법 황금레시피 모음" />
+<meta property="og:image" content="http://recipe.ezmember.co.kr/cache/recipe/2016/01/12/944e3b05dfcd81af4d58cc00f7c3825b1.jpg" />
+<meta property="og:description" content="어묵꼬치탕/어묵탕/오뎅탕?!ㅋㅋby 서재인겨울철 길거리를 지날때면 항상 유혹(?)해오는 꼬지어묵들..요즘은 가격이 비싸서 맘놓고 배불리 먹지도 못하는듯해요..집에서도 간단하게~ 그리고 푸짐하게^^어묵꼬치탕 만들어 보았답니다.▶ 레시피 보러가기꼬치오뎅탕 만드는법,어묵탕황금레시피by 꽃청춘이주부​겨울이되면 생각나는 음식하면~​호빵,호떡,붕어빵,.....(아 먹고싶네요 ㅋㅋㅋ)​특히 포장마차떡볶이집에서 먹는 꼬치오뎅!!!!!​집에서 먹는거랑 틀리게 꼬칭오뎅은 밖에서 먹으면 그리도 맛난지 ~​서서 떡볶이 1인분시켜서 종이컵에 국물 담아서 오뎅꼬치 집어먹다보면 ​나도모르게 3-4개는 기본으로 먹게 된다죠 ㅋㅋㅋㅋㅋ​​오늘은 집에서도 즐길수 있는 꼬치오뎅탕 만드는법을 소개할께요!▶ 레시피 보러가기얼큰간단 오뎅탕by 한결이명절음식으로 느끼한 속을 달래주는 얼큰한 오뎅탕 !▶ 레시피 보러가기뜨끈~한 국물 '어묵탕' [어묵꼬지/오뎅탕/오뎅꼬지/분식/떡볶이/어묵탕]by 찬미▶ 레시피 보러가기오뎅탕도 멋찌게 by 눈나무숲겨울에 어울리는 오뎅탕 ..하지만 이쁘고 멋찌게 만들면 더 맛나겠지여? ▶ 레시피 보러가기오뎅탕 by 쥬쥬씨이렇게 추운날은 집에서 뜨끈한 오뎅탕 끓여서 먹으면 아주 별미겠다 싶어서, 바깥음식의 유혹을 뿌리치고 집으로 직행!!▶ 레시피 보러가기뜨끈한 국물의 꽃게 오뎅탕 by 윤꽃게 오뎅탕을 끓인후 매운 청양고추를 넣어 끓이기 전에 아이것은 조금 떠놨습니다. 부드러운 오뎅에 국물이 맛있다며 맛있게 먹는 아이 모습에 행복이 전해져 옵니다.▶ 레시피 보러가기초간단~어묵탕-딸에게# / 오뎅탕 /부산어묵by 노란장미▶ 레시피 보러가기유부를 넣은 오뎅탕 만들기by kim12통통한 유부 주머니와 함께 끓인 오뎅탕▶ 레시피 보러가기" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="오뎅탕 끓이는 법 황금레시피 모음" />
+<meta name="twitter:description" content="어묵꼬치탕/어묵탕/오뎅탕?!ㅋㅋby 서재인겨울철 길거리를 지날때면 항상 유혹(?)해오는 꼬지어묵들..요즘은 가격이 비싸서 맘놓고 배불리 먹지도 못하는듯해요..집에서도 간단하게~ 그리고 푸짐하게^^어묵꼬치탕 만들어 보았답니다.▶ 레시피 보러가기꼬치오뎅탕 만드는법,어묵탕황금레시피by 꽃청춘이주부​겨울이되면 생각나는 음식하면~​호빵,호떡,붕어빵,.....(아 먹고싶네요 ㅋㅋㅋ)​특히 포장마차떡볶이집에서 먹는 꼬치오뎅!!!!!​집에서 먹는거랑 틀리게 꼬칭오뎅은 밖에서 먹으면 그리도 맛난지 ~​서서 떡볶이 1인분시켜서 종이컵에 국물 담아서 오뎅꼬치 집어먹다보면 ​나도모르게 3-4개는 기본으로 먹게 된다죠 ㅋㅋㅋㅋㅋ​​오늘은 집에서도 즐길수 있는 꼬치오뎅탕 만드는법을 소개할께요!▶ 레시피 보러가기얼큰간단 오뎅탕by 한결이명절음식으로 느끼한 속을 달래주는 얼큰한 오뎅탕 !▶ 레시피 보러가기뜨끈~한 국물 '어묵탕' [어묵꼬지/오뎅탕/오뎅꼬지/분식/떡볶이/어묵탕]by 찬미▶ 레시피 보러가기오뎅탕도 멋찌게 by 눈나무숲겨울에 어울리는 오뎅탕 ..하지만 이쁘고 멋찌게 만들면 더 맛나겠지여? ▶ 레시피 보러가기오뎅탕 by 쥬쥬씨이렇게 추운날은 집에서 뜨끈한 오뎅탕 끓여서 먹으면 아주 별미겠다 싶어서, 바깥음식의 유혹을 뿌리치고 집으로 직행!!▶ 레시피 보러가기뜨끈한 국물의 꽃게 오뎅탕 by 윤꽃게 오뎅탕을 끓인후 매운 청양고추를 넣어 끓이기 전에 아이것은 조금 떠놨습니다. 부드러운 오뎅에 국물이 맛있다며 맛있게 먹는 아이 모습에 행복이 전해져 옵니다.▶ 레시피 보러가기초간단~어묵탕-딸에게# / 오뎅탕 /부산어묵by 노란장미▶ 레시피 보러가기유부를 넣은 오뎅탕 만들기by kim12통통한 유부 주머니와 함께 끓인 오뎅탕▶ 레시피 보러가기" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://recipe.ezmember.co.kr/cache/recipe/2016/01/12/944e3b05dfcd81af4d58cc00f7c3825b1.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1470?seq=1470';
+var _USER_ID_ = '';
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1557771002660658",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1470&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1470",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/1470';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/1470';
+    var title = '오뎅탕 끓이는 법 황금레시피 모음';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=1470",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="1470">
+<input type="hidden" name="bid" value="4">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>오뎅탕 끓이는 법 황금레시피 모음</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">만개의레시피<span>|</span>2016-03-22 오후 23:38<span>|</span><span class="cate_view">837</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=4"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1471"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1469"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <p></p><div class="rrcollect"><b>어묵꼬치탕/어묵탕/오뎅탕?!ㅋㅋ</b><br><span style="font-size:12px;color:#999;">by 서재인</span><br><p>겨울철 길거리를 지날때면 항상 유혹(?)해오는 꼬지어묵들..요즘은 가격이 비싸서 맘놓고 배불리 먹지도 못하는듯해요..집에서도 간단하게~ 그리고 푸짐하게^^어묵꼬치탕 만들어 보았답니다.</p>▶ <a href="http://www.10000recipe.com/link.html?seq=6841468">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=6841468"><img src="http://recipe.ezmember.co.kr/cache/recipe/2016/01/12/944e3b05dfcd81af4d58cc00f7c3825b1.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>꼬치오뎅탕 만드는법,어묵탕황금레시피</b><br><span style="font-size:12px;color:#999;">by 꽃청춘이주부</span><br><p>​겨울이되면 생각나는 음식하면~​호빵,호떡,붕어빵,.....(아 먹고싶네요 ㅋㅋㅋ)​특히 포장마차떡볶이집에서 먹는 꼬치오뎅!!!!!​집에서 먹는거랑 틀리게 꼬칭오뎅은 밖에서 먹으면 그리도 맛난지 ~​서서 떡볶이 1인분시켜서 종이컵에 국물 담아서 오뎅꼬치 집어먹다보면 ​나도모르게 3-4개는 기본으로 먹게 된다죠 ㅋㅋㅋㅋㅋ​​오늘은 집에서도 즐길수 있는 꼬치오뎅탕 만드는법을 소개할께요!</p>▶ <a href="http://www.10000recipe.com/link.html?seq=6838670">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=6838670"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/11/25/3b0d6e0c443c09294f5e2bb2293205a21.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>얼큰간단 오뎅탕</b><br><span style="font-size:12px;color:#999;">by 한결이</span><br><p>명절음식으로 느끼한 속을 달래주는 얼큰한 오뎅탕 !</p>▶ <a href="http://www.10000recipe.com/link.html?seq=3316060">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=3316060"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/06/08/0c852cef167196d8a70ff50ca7f707c0.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>뜨끈~한 국물 "어묵탕" [어묵꼬지/오뎅탕/오뎅꼬지/분식/떡볶이/어묵탕]</b><br><span style="font-size:12px;color:#999;">by 찬미</span><br>▶ <a href="http://www.10000recipe.com/link.html?seq=4538570">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=4538570"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/06/05/327762ba3fb030c1822275da1d434fdd.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>오뎅탕도 멋찌게 </b><br><span style="font-size:12px;color:#999;">by 눈나무숲</span><br><p>겨울에 어울리는 오뎅탕 ..하지만 이쁘고 멋찌게 만들면 더 맛나겠지여? </p>▶ <a href="http://www.10000recipe.com/link.html?seq=6842319">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=6842319"><img src="http://recipe.ezmember.co.kr/cache/recipe/2016/01/29/d58f5b038f38d6e0a98f5a04a1e0f1491.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>오뎅탕 </b><br><span style="font-size:12px;color:#999;">by 쥬쥬씨</span><br><p>이렇게 추운날은 집에서 뜨끈한 오뎅탕 끓여서 먹으면 아주 별미겠다 싶어서, 바깥음식의 유혹을 뿌리치고 집으로 직행!!</p>▶ <a href="http://www.10000recipe.com/link.html?seq=6562758">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=6562758"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/05/22/8841198ee0fcf29791a570f14e487c5b1.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>뜨끈한 국물의 꽃게 오뎅탕 </b><br><span style="font-size:12px;color:#999;">by 윤</span><br><p>꽃게 오뎅탕을 끓인후 매운 청양고추를 넣어 끓이기 전에 아이것은 조금 떠놨습니다. 부드러운 오뎅에 국물이 맛있다며 맛있게 먹는 아이 모습에 행복이 전해져 옵니다.</p>▶ <a href="http://www.10000recipe.com/link.html?seq=4387263">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=4387263"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/06/08/d9d850c10e487f7e59e6e481f763b767.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>초간단~어묵탕-딸에게# / 오뎅탕 /부산어묵</b><br><span style="font-size:12px;color:#999;">by 노란장미</span><br>▶ <a href="http://www.10000recipe.com/link.html?seq=3206156">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=3206156"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/06/08/d9f3c778031016a63dd15268f028b75b.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><b>유부를 넣은 오뎅탕 만들기</b><br><span style="font-size:12px;color:#999;">by kim12</span><br><p>통통한 유부 주머니와 함께 끓인 오뎅탕</p>▶ <a href="http://www.10000recipe.com/link.html?seq=6549388">레시피 보러가기</a><br><a href="http://www.10000recipe.com/link.html?seq=6549388"><img src="http://recipe.ezmember.co.kr/cache/recipe/2015/04/08/70add89e4f3cae0071b5c5765557784c1.jpg" style="max-width:600px;"></a></div><div class="rrcollect"><br></div><p></p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토�

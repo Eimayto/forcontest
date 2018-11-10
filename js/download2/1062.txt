@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="지난달 잔류 농약 허용기준을 초과한 수입 바나나가 시중에 대량 유통되면서 농산물의 먹거리 안전성이 대두됐다. 농약과 과일에 대한 소비자들의 관심이 높아지면서 유기농 식품에 대한 선호도가 갈수록 높아지고 있는 현실이다.일반 식품과 유기농 제품의 영양성분은 크게 다르지 않으나 가격은 유기농이1.5배 이상 비싸다. 하지만 여전히 대부분의 소비자들은 유기농 식품이 더 건강하고 안전하다고 생각하기 때문에 비싸도 구매를 하고 있다. 과연 모든 유기농 식품이 건강에 도움을 줄 수 있을까?최근 유럽에서는 유기농 식품에 대한 불안이 확산되고 있다. 2011년 스페인에서는 유기농 채소에서 장출혈성대장균(EHEC)이 발견돼 2천여 명이 감염되고 24명이 사망한 사건이 있었다. 같은 해에 미국에서도 유기농으로 재배한 콜로라도산 멜론이 리스테리아균에 오염돼 72명이 감염되고 이 중 16명이 사망한 사건이 있었다.이런 사건에 의해 친환경, 저농약, 유기농 농법 재배가 안전하다는 지나친 믿음이 맹점을 낳는다는 주장에 힘이 실리기도 했다.식품 안전 측면에서는 유기농이 오히려 불리한 측면이 있다. 유기농산물에 존재할 수 있는 세균 및 바이러스 또는 기생충이 잔류 농약보다 치명적일 수 있다는 게 주장의 근거다. 미국 환경보호청에서 실시한 식품원인 질병조사에 따르면, 잔류 농약과 같은 화학물질에 의한 질병 감염 위험은 전체 발병량의 3%에 불과했지만, 자연식품 자체에서 옮긴 세균에 의한 감염은 총 발생량의 90%에 달하는 것으로 나타났다. (관련 링크)유기농 재배 방식으로 자란 식품과 농약을 사용해 재배한 식품에서 영양학적인 차이가 크지 않다는 주장도 있다. 대형 유통브랜드에서 소비심리를 자극하는 수단으로 전락한 경우가 대부분이라는 것이다. 유기농 제품이라고 표기되어 있지만 실제로 확인해보면 유기농 성분은 소량에 불과하거나 알 수 없는 화학첨가물 용어들이 써있기도 한다.안전한 식품 섭취를 위해서는 농약의 유무보다는 허용 기준치에 대한 올바른 이해가 필요하다. 국내에서 구입할 수 있는 식품의 농약 잔류 허용 기준치는 식품의약품약안전처 에서 확인할 수 있다.비록 유기농이 아니더라도 건강하게 소비를 하면서 즐겁게 먹을 수 있는 식재료도 많이 있다. 그 중 9가지를 소개 한다. 아래에 소개할 식품은 모두 잔류 농약을 걱정하지 않아도 되는 식품이다. 식용법에 대한 기본적인 이해가 있다면, 굳이 더 비싼 금액을 지불하지 않아도 된다. | 아보카도sauce : ceoking0308.tistory.com미국의 비영리 환경단체 EWG(Environmental Working Group)의 연구에 의하면 아보카도는 당신이 살 수 있는 가장 깨끗한 농산물중 하나이다. 오직 1%의 아보카도에서만이 소량의 잔류농약이 검출됐다. 만약 유기농 아보카도를 산다면 유기농 스티커에 값을 지불하는 거나 마찬가지다. | 키위sauce : kofpi.tistory.com농약이 사과, 복숭아와 같은 과일의 껍질에 스며들수는 있지만 키위는 해로운 화학물질로부터 과육을 보호할 만큼 두껍고 강한 껍질을 가졌다. 때문에 껍질을 벗기고 먹거나 요리에 사용해도 무방하다. | 망고sauce : nurinamu.tistory.com키위와 마찬가지로 망고의 껍질 또한 농약으로부터 과육을 보호해준다. 화학성분의 영향을 크게 받지는 않는다. | 해산물sauce : mongsanpo.net자연산 해산물의 식이를 조절하는것은 불가능하므로 해산물을 유기농이라 이름 붙이기는 어렵다. 다만 양식으로 길러진 해산물의 경우 잠재적으로는 유기농이 될 수는 있겠지만 해양에는 수많은 오염물질이 있기 때문에 전세계적으로 많은 논란이 있는 상태다.만약 해산물에 유기농 상표가 붙어있는 것을 시장에서 봤다면 한번쯤 의심해 볼 만하다. 여전히 해산물에 대한 유기농법은 시행착오 단계에 있기 때문에 전적으로 믿어선 안된다. | 옥수수sauce : lotus.cheongju.go.kr옥수수에는 많은 양의 농약이 살포되지만 옥수수의 껍질은 농약으로부터 안쪽에 있는 옥수수 알갱이를 보호해준다. 미농무부 테스트 결과 99%의 옥수수샘플에서 소량의 농약도 발견되지 않았다. | 아스파라거스sauce : buonapappa.net사실 해충은 아스파라거스를 좋아하지 않는다. 즉 적은 농약만이 사용된다는 점이다. 사람이 일생 동안 그 식품을 섭취해도 전혀 해가 없는 수준의 잔류농약 그룹에 아스파라거스가 포함되어 있다. | 퀴노아sauce : enews.imbc.com퀴노아는 다양한 영양소를 고루 지닌 슈퍼푸드superfood로 각광받으며, 현재 뜨고 있는 식재료다. 어린이들의 이유식은 물론 임산부와 노인들의 건강식으로도 폭넓게 활용되고 있다. 퀴노아는 본연의 거친 맛으로 인해 해충이 없으므로 농약이 필요가 없다. 다만 혹시 모르니 씻어 먹어야 한다. | 양배추sauce : blogand.me양배추는 자연적으로 벌레, 독소로부터 자신을 보호해주는 겉잎을 가지고 있다. 유기농 양배추가 아닌 일반 양배추를 사서 겉잎만 떼서 버리고 아낀 돈을 생각하며 기분 좋은 마음으로 먹으면 되겠다. | 수박sauce : ekklim.co.kr양배추와 유사하게 수박도 화학성분으로부터 보호해주는 강력한 껍질을 가지고 있다. 물로 씻어 껍질을 벗겨서 먹으면 된다.Editor’s Note: 해당 콘텐츠는 해외 매체 thrillist.com의 &lt;BUYING THESE ORGANIC FOODS IS A WASTE OF MONEY&gt; 콘텐츠를 번역, 편집했음을 밝힙니다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10269">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>굳이 유기농으로 고르지 않아도 되는 식재료 9가지</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1062" />
+<meta property="kakao:title" content="굳이 유기농으로 고르지 않아도 되는 식재료 9가지" />
+<meta property="kakao:description" content="지난달 잔류 농약 허용기준을 초과한 수입 바나나가 시중에 대량 유통되면서 농산물의 먹거리 안전성이 대두됐다. 농약과 과일에 대한 소비자들의 관심이 높아지면서 유기농 식품에 대한 선호도가 갈수록 높아지고 있는 현실이다.일반 식품과 유기농 제품의 영양성분은 크게 다르지 않으나 가격은 유기농이1.5배 이상 비싸다. 하지만 여전히 대부분의 소비자들은 유기농 식품이 더 건강하고 안전하다고 생각하기 때문에 비싸도 구매를 하고 있다. 과연 모든 유기농 식품이 건강에 도움을 줄 수 있을까?최근 유럽에서는 유기농 식품에 대한 불안이 확산되고 있다. 2011년 스페인에서는 유기농 채소에서 장출혈성대장균(EHEC)이 발견돼 2천여 명이 감염되고 24명이 사망한 사건이 있었다. 같은 해에 미국에서도 유기농으로 재배한 콜로라도산 멜론이 리스테리아균에 오염돼 72명이 감염되고 이 중 16명이 사망한 사건이 있었다.이런 사건에 의해 친환경, 저농약, 유기농 농법 재배가 안전하다는 지나친 믿음이 맹점을 낳는다는 주장에 힘이 실리기도 했다.식품 안전 측면에서는 유기농이 오히려 불리한 측면이 있다. 유기농산물에 존재할 수 있는 세균 및 바이러스 또는 기생충이 잔류 농약보다 치명적일 수 있다는 게 주장의 근거다. 미국 환경보호청에서 실시한 식품원인 질병조사에 따르면, 잔류 농약과 같은 화학물질에 의한 질병 감염 위험은 전체 발병량의 3%에 불과했지만, 자연식품 자체에서 옮긴 세균에 의한 감염은 총 발생량의 90%에 달하는 것으로 나타났다. (관련 링크)유기농 재배 방식으로 자란 식품과 농약을 사용해 재배한 식품에서 영양학적인 차이가 크지 않다는 주장도 있다. 대형 유통브랜드에서 소비심리를 자극하는 수단으로 전락한 경우가 대부분이라는 것이다. 유기농 제품이라고 표기되어 있지만 실제로 확인해보면 유기농 성분은 소량에 불과하거나 알 수 없는 화학첨가물 용어들이 써있기도 한다.안전한 식품 섭취를 위해서는 농약의 유무보다는 허용 기준치에 대한 올바른 이해가 필요하다. 국내에서 구입할 수 있는 식품의 농약 잔류 허용 기준치는 식품의약품약안전처 에서 확인할 수 있다.비록 유기농이 아니더라도 건강하게 소비를 하면서 즐겁게 먹을 수 있는 식재료도 많이 있다. 그 중 9가지를 소개 한다. 아래에 소개할 식품은 모두 잔류 농약을 걱정하지 않아도 되는 식품이다. 식용법에 대한 기본적인 이해가 있다면, 굳이 더 비싼 금액을 지불하지 않아도 된다. | 아보카도sauce : ceoking0308.tistory.com미국의 비영리 환경단체 EWG(Environmental Working Group)의 연구에 의하면 아보카도는 당신이 살 수 있는 가장 깨끗한 농산물중 하나이다. 오직 1%의 아보카도에서만이 소량의 잔류농약이 검출됐다. 만약 유기농 아보카도를 산다면 유기농 스티커에 값을 지불하는 거나 마찬가지다. | 키위sauce : kofpi.tistory.com농약이 사과, 복숭아와 같은 과일의 껍질에 스며들수는 있지만 키위는 해로운 화학물질로부터 과육을 보호할 만큼 두껍고 강한 껍질을 가졌다. 때문에 껍질을 벗기고 먹거나 요리에 사용해도 무방하다. | 망고sauce : nurinamu.tistory.com키위와 마찬가지로 망고의 껍질 또한 농약으로부터 과육을 보호해준다. 화학성분의 영향을 크게 받지는 않는다. | 해산물sauce : mongsanpo.net자연산 해산물의 식이를 조절하는것은 불가능하므로 해산물을 유기농이라 이름 붙이기는 어렵다. 다만 양식으로 길러진 해산물의 경우 잠재적으로는 유기농이 될 수는 있겠지만 해양에는 수많은 오염물질이 있기 때문에 전세계적으로 많은 논란이 있는 상태다.만약 해산물에 유기농 상표가 붙어있는 것을 시장에서 봤다면 한번쯤 의심해 볼 만하다. 여전히 해산물에 대한 유기농법은 시행착오 단계에 있기 때문에 전적으로 믿어선 안된다. | 옥수수sauce : lotus.cheongju.go.kr옥수수에는 많은 양의 농약이 살포되지만 옥수수의 껍질은 농약으로부터 안쪽에 있는 옥수수 알갱이를 보호해준다. 미농무부 테스트 결과 99%의 옥수수샘플에서 소량의 농약도 발견되지 않았다. | 아스파라거스sauce : buonapappa.net사실 해충은 아스파라거스를 좋아하지 않는다. 즉 적은 농약만이 사용된다는 점이다. 사람이 일생 동안 그 식품을 섭취해도 전혀 해가 없는 수준의 잔류농약 그룹에 아스파라거스가 포함되어 있다. | 퀴노아sauce : enews.imbc.com퀴노아는 다양한 영양소를 고루 지닌 슈퍼푸드superfood로 각광받으며, 현재 뜨고 있는 식재료다. 어린이들의 이유식은 물론 임산부와 노인들의 건강식으로도 폭넓게 활용되고 있다. 퀴노아는 본연의 거친 맛으로 인해 해충이 없으므로 농약이 필요가 없다. 다만 혹시 모르니 씻어 먹어야 한다. | 양배추sauce : blogand.me양배추는 자연적으로 벌레, 독소로부터 자신을 보호해주는 겉잎을 가지고 있다. 유기농 양배추가 아닌 일반 양배추를 사서 겉잎만 떼서 버리고 아낀 돈을 생각하며 기분 좋은 마음으로 먹으면 되겠다. | 수박sauce : ekklim.co.kr양배추와 유사하게 수박도 화학성분으로부터 보호해주는 강력한 껍질을 가지고 있다. 물로 씻어 껍질을 벗겨서 먹으면 된다.Editor’s Note: 해당 콘텐츠는 해외 매체 thrillist.com의 &lt;BUYING THESE ORGANIC FOODS IS A WASTE OF MONEY&gt; 콘텐츠를 번역, 편집했음을 밝힙니다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10269" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1062" />
+<meta property="og:title" content="굳이 유기농으로 고르지 않아도 되는 식재료 9가지" />
+<meta property="og:image" content="http://recipe1.ezmember.co.kr/cache/bbs/2015/12/28/2641cacce72c59233c3393bba36a9827.jpg" />
+<meta property="og:description" content="지난달 잔류 농약 허용기준을 초과한 수입 바나나가 시중에 대량 유통되면서 농산물의 먹거리 안전성이 대두됐다. 농약과 과일에 대한 소비자들의 관심이 높아지면서 유기농 식품에 대한 선호도가 갈수록 높아지고 있는 현실이다.일반 식품과 유기농 제품의 영양성분은 크게 다르지 않으나 가격은 유기농이1.5배 이상 비싸다. 하지만 여전히 대부분의 소비자들은 유기농 식품이 더 건강하고 안전하다고 생각하기 때문에 비싸도 구매를 하고 있다. 과연 모든 유기농 식품이 건강에 도움을 줄 수 있을까?최근 유럽에서는 유기농 식품에 대한 불안이 확산되고 있다. 2011년 스페인에서는 유기농 채소에서 장출혈성대장균(EHEC)이 발견돼 2천여 명이 감염되고 24명이 사망한 사건이 있었다. 같은 해에 미국에서도 유기농으로 재배한 콜로라도산 멜론이 리스테리아균에 오염돼 72명이 감염되고 이 중 16명이 사망한 사건이 있었다.이런 사건에 의해 친환경, 저농약, 유기농 농법 재배가 안전하다는 지나친 믿음이 맹점을 낳는다는 주장에 힘이 실리기도 했다.식품 안전 측면에서는 유기농이 오히려 불리한 측면이 있다. 유기농산물에 존재할 수 있는 세균 및 바이러스 또는 기생충이 잔류 농약보다 치명적일 수 있다는 게 주장의 근거다. 미국 환경보호청에서 실시한 식품원인 질병조사에 따르면, 잔류 농약과 같은 화학물질에 의한 질병 감염 위험은 전체 발병량의 3%에 불과했지만, 자연식품 자체에서 옮긴 세균에 의한 감염은 총 발생량의 90%에 달하는 것으로 나타났다. (관련 링크)유기농 재배 방식으로 자란 식품과 농약을 사용해 재배한 식품에서 영양학적인 차이가 크지 않다는 주장도 있다. 대형 유통브랜드에서 소비심리를 자극하는 수단으로 전락한 경우가 대부분이라는 것이다. 유기농 제품이라고 표기되어 있지만 실제로 확인해보면 유기농 성분은 소량에 불과하거나 알 수 없는 화학첨가물 용어들이 써있기도 한다.안전한 식품 섭취를 위해서는 농약의 유무보다는 허용 기준치에 대한 올바른 이해가 필요하다. 국내에서 구입할 수 있는 식품의 농약 잔류 허용 기준치는 식품의약품약안전처 에서 확인할 수 있다.비록 유기농이 아니더라도 건강하게 소비를 하면서 즐겁게 먹을 수 있는 식재료도 많이 있다. 그 중 9가지를 소개 한다. 아래에 소개할 식품은 모두 잔류 농약을 걱정하지 않아도 되는 식품이다. 식용법에 대한 기본적인 이해가 있다면, 굳이 더 비싼 금액을 지불하지 않아도 된다. | 아보카도sauce : ceoking0308.tistory.com미국의 비영리 환경단체 EWG(Environmental Working Group)의 연구에 의하면 아보카도는 당신이 살 수 있는 가장 깨끗한 농산물중 하나이다. 오직 1%의 아보카도에서만이 소량의 잔류농약이 검출됐다. 만약 유기농 아보카도를 산다면 유기농 스티커에 값을 지불하는 거나 마찬가지다. | 키위sauce : kofpi.tistory.com농약이 사과, 복숭아와 같은 과일의 껍질에 스며들수는 있지만 키위는 해로운 화학물질로부터 과육을 보호할 만큼 두껍고 강한 껍질을 가졌다. 때문에 껍질을 벗기고 먹거나 요리에 사용해도 무방하다. | 망고sauce : nurinamu.tistory.com키위와 마찬가지로 망고의 껍질 또한 농약으로부터 과육을 보호해준다. 화학성분의 영향을 크게 받지는 않는다. | 해산물sauce : mongsanpo.net자연산 해산물의 식이를 조절하는것은 불가능하므로 해산물을 유기농이라 이름 붙이기는 어렵다. 다만 양식으로 길러진 해산물의 경우 잠재적으로는 유기농이 될 수는 있겠지만 해양에는 수많은 오염물질이 있기 때문에 전세계적으로 많은 논란이 있는 상태다.만약 해산물에 유기농 상표가 붙어있는 것을 시장에서 봤다면 한번쯤 의심해 볼 만하다. 여전히 해산물에 대한 유기농법은 시행착오 단계에 있기 때문에 전적으로 믿어선 안된다. | 옥수수sauce : lotus.cheongju.go.kr옥수수에는 많은 양의 농약이 살포되지만 옥수수의 껍질은 농약으로부터 안쪽에 있는 옥수수 알갱이를 보호해준다. 미농무부 테스트 결과 99%의 옥수수샘플에서 소량의 농약도 발견되지 않았다. | 아스파라거스sauce : buonapappa.net사실 해충은 아스파라거스를 좋아하지 않는다. 즉 적은 농약만이 사용된다는 점이다. 사람이 일생 동안 그 식품을 섭취해도 전혀 해가 없는 수준의 잔류농약 그룹에 아스파라거스가 포함되어 있다. | 퀴노아sauce : enews.imbc.com퀴노아는 다양한 영양소를 고루 지닌 슈퍼푸드superfood로 각광받으며, 현재 뜨고 있는 식재료다. 어린이들의 이유식은 물론 임산부와 노인들의 건강식으로도 폭넓게 활용되고 있다. 퀴노아는 본연의 거친 맛으로 인해 해충이 없으므로 농약이 필요가 없다. 다만 혹시 모르니 씻어 먹어야 한다. | 양배추sauce : blogand.me양배추는 자연적으로 벌레, 독소로부터 자신을 보호해주는 겉잎을 가지고 있다. 유기농 양배추가 아닌 일반 양배추를 사서 겉잎만 떼서 버리고 아낀 돈을 생각하며 기분 좋은 마음으로 먹으면 되겠다. | 수박sauce : ekklim.co.kr양배추와 유사하게 수박도 화학성분으로부터 보호해주는 강력한 껍질을 가지고 있다. 물로 씻어 껍질을 벗겨서 먹으면 된다.Editor’s Note: 해당 콘텐츠는 해외 매체 thrillist.com의 &lt;BUYING THESE ORGANIC FOODS IS A WASTE OF MONEY&gt; 콘텐츠를 번역, 편집했음을 밝힙니다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10269" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="굳이 유기농으로 고르지 않아도 되는 식재료 9가지" />
+<meta name="twitter:description" content="지난달 잔류 농약 허용기준을 초과한 수입 바나나가 시중에 대량 유통되면서 농산물의 먹거리 안전성이 대두됐다. 농약과 과일에 대한 소비자들의 관심이 높아지면서 유기농 식품에 대한 선호도가 갈수록 높아지고 있는 현실이다.일반 식품과 유기농 제품의 영양성분은 크게 다르지 않으나 가격은 유기농이1.5배 이상 비싸다. 하지만 여전히 대부분의 소비자들은 유기농 식품이 더 건강하고 안전하다고 생각하기 때문에 비싸도 구매를 하고 있다. 과연 모든 유기농 식품이 건강에 도움을 줄 수 있을까?최근 유럽에서는 유기농 식품에 대한 불안이 확산되고 있다. 2011년 스페인에서는 유기농 채소에서 장출혈성대장균(EHEC)이 발견돼 2천여 명이 감염되고 24명이 사망한 사건이 있었다. 같은 해에 미국에서도 유기농으로 재배한 콜로라도산 멜론이 리스테리아균에 오염돼 72명이 감염되고 이 중 16명이 사망한 사건이 있었다.이런 사건에 의해 친환경, 저농약, 유기농 농법 재배가 안전하다는 지나친 믿음이 맹점을 낳는다는 주장에 힘이 실리기도 했다.식품 안전 측면에서는 유기농이 오히려 불리한 측면이 있다. 유기농산물에 존재할 수 있는 세균 및 바이러스 또는 기생충이 잔류 농약보다 치명적일 수 있다는 게 주장의 근거다. 미국 환경보호청에서 실시한 식품원인 질병조사에 따르면, 잔류 농약과 같은 화학물질에 의한 질병 감염 위험은 전체 발병량의 3%에 불과했지만, 자연식품 자체에서 옮긴 세균에 의한 감염은 총 발생량의 90%에 달하는 것으로 나타났다. (관련 링크)유기농 재배 방식으로 자란 식품과 농약을 사용해 재배한 식품에서 영양학적인 차이가 크지 않다는 주장도 있다. 대형 유통브랜드에서 소비심리를 자극하는 수단으로 전락한 경우가 대부분이라는 것이다. 유기농 제품이라고 표기되어 있지만 실제로 확인해보면 유기농 성분은 소량에 불과하거나 알 수 없는 화학첨가물 용어들이 써있기도 한다.안전한 식품 섭취를 위해서는 농약의 유무보다는 허용 기준치에 대한 올바른 이해가 필요하다. 국내에서 구입할 수 있는 식품의 농약 잔류 허용 기준치는 식품의약품약안전처 에서 확인할 수 있다.비록 유기농이 아니더라도 건강하게 소비를 하면서 즐겁게 먹을 수 있는 식재료도 많이 있다. 그 중 9가지를 소개 한다. 아래에 소개할 식품은 모두 잔류 농약을 걱정하지 않아도 되는 식품이다. 식용법에 대한 기본적인 이해가 있다면, 굳이 더 비싼 금액을 지불하지 않아도 된다. | 아보카도sauce : ceoking0308.tistory.com미국의 비영리 환경단체 EWG(Environmental Working Group)의 연구에 의하면 아보카도는 당신이 살 수 있는 가장 깨끗한 농산물중 하나이다. 오직 1%의 아보카도에서만이 소량의 잔류농약이 검출됐다. 만약 유기농 아보카도를 산다면 유기농 스티커에 값을 지불하는 거나 마찬가지다. | 키위sauce : kofpi.tistory.com농약이 사과, 복숭아와 같은 과일의 껍질에 스며들수는 있지만 키위는 해로운 화학물질로부터 과육을 보호할 만큼 두껍고 강한 껍질을 가졌다. 때문에 껍질을 벗기고 먹거나 요리에 사용해도 무방하다. | 망고sauce : nurinamu.tistory.com키위와 마찬가지로 망고의 껍질 또한 농약으로부터 과육을 보호해준다. 화학성분의 영향을 크게 받지는 않는다. | 해산물sauce : mongsanpo.net자연산 해산물의 식이를 조절하는것은 불가능하므로 해산물을 유기농이라 이름 붙이기는 어렵다. 다만 양식으로 길러진 해산물의 경우 잠재적으로는 유기농이 될 수는 있겠지만 해양에는 수많은 오염물질이 있기 때문에 전세계적으로 많은 논란이 있는 상태다.만약 해산물에 유기농 상표가 붙어있는 것을 시장에서 봤다면 한번쯤 의심해 볼 만하다. 여전히 해산물에 대한 유기농법은 시행착오 단계에 있기 때문에 전적으로 믿어선 안된다. | 옥수수sauce : lotus.cheongju.go.kr옥수수에는 많은 양의 농약이 살포되지만 옥수수의 껍질은 농약으로부터 안쪽에 있는 옥수수 알갱이를 보호해준다. 미농무부 테스트 결과 99%의 옥수수샘플에서 소량의 농약도 발견되지 않았다. | 아스파라거스sauce : buonapappa.net사실 해충은 아스파라거스를 좋아하지 않는다. 즉 적은 농약만이 사용된다는 점이다. 사람이 일생 동안 그 식품을 섭취해도 전혀 해가 없는 수준의 잔류농약 그룹에 아스파라거스가 포함되어 있다. | 퀴노아sauce : enews.imbc.com퀴노아는 다양한 영양소를 고루 지닌 슈퍼푸드superfood로 각광받으며, 현재 뜨고 있는 식재료다. 어린이들의 이유식은 물론 임산부와 노인들의 건강식으로도 폭넓게 활용되고 있다. 퀴노아는 본연의 거친 맛으로 인해 해충이 없으므로 농약이 필요가 없다. 다만 혹시 모르니 씻어 먹어야 한다. | 양배추sauce : blogand.me양배추는 자연적으로 벌레, 독소로부터 자신을 보호해주는 겉잎을 가지고 있다. 유기농 양배추가 아닌 일반 양배추를 사서 겉잎만 떼서 버리고 아낀 돈을 생각하며 기분 좋은 마음으로 먹으면 되겠다. | 수박sauce : ekklim.co.kr양배추와 유사하게 수박도 화학성분으로부터 보호해주는 강력한 껍질을 가지고 있다. 물로 씻어 껍질을 벗겨서 먹으면 된다.Editor’s Note: 해당 콘텐츠는 해외 매체 thrillist.com의 &lt;BUYING THESE ORGANIC FOODS IS A WASTE OF MONEY&gt; 콘텐츠를 번역, 편집했음을 밝힙니다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10269" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://recipe1.ezmember.co.kr/cache/bbs/2015/12/28/2641cacce72c59233c3393bba36a9827.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1062?seq=1062';
+var _USER_ID_ = '';
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1557771002660658",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1062&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1062",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+com

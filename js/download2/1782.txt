@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="철인의요리(料理の鉄人), 1993년 일본에서 만들어진 요리 대결 방송이다. 특정한 재료를 주제로 전문 셰프들이 나와 요리 대결을 펼치는 이 방송은 첫 방송 이후로 9년간 309편이 제작되었다. 이 방송 포맷은 아이언셰프Iron Chef라는 이름으로 바뀌어 타국으로도 뻗어 나갔는데, 2001년도에는 미국에서, 2010년도에는 영국과 호주에서, 2012년도에는 베트남과 태국에서, 각 나라마다의 아이언셰프 방송이 만들어졌다.2012년 방영된 태국 아이언셰프Iron Chef Thailand, 된소리가 강한 태국어 방송 중에서도 또렷한 한국어가 들렸다.“SK의 스타일을 보여드리겠습니다. 지켜봐라!”당시 W 호텔 소속으로 모던 일식요리를 하고 있던 최신근 셰프였다. 새로운 레스토랑 오픈을 앞두고 잠시 한국에 들렀다는 그를 만났다. |생선을 다리미로 익혀? 기발한 아이디어가 카메라의 시선을 빼앗았다.“아이롱이라고 하잖아요. 스팀 나오는 다리미. 그걸로 다시마 사이에 재워 둔 생선살을 그냥 쫙!”카메라가 놓칠 리 없다. 비록 주방에서는 해본 적도 없던 기이한 행동이었지만, 색다른 장면을 기대한 시청자에게는 더없이 좋은 장면이다.태국에서는 최신근이라는 이름보다 이니셜 SK로 더 유명하다. 손님과 교감하며 초밥을 쥐어주는 오마카세를 자주 해서인지, 오픈 키친의 경험이 많아서인지 카메라 앞에서도 여유로운 모습이다.“방송에 나가려니 겁도 많이 났죠. 아버지가 ‘하고 싶은 일을 해라. 도전하다 보면 돈은 못 벌 수는 있어도, 나중에 후회하는 일은 없을 거다’라고 말했던 조언이 생각나서 출연하기로 했어요”태국의 한 매체는 그의 요리를 ‘진화한 테크닉을 바탕으로 재료 간의 조합을 영리하게 풀었다’고 설명한다.새로운 스타일의 아시안 퀴진을 선보이고 싶다는 진취적인 그에게 어떻게 요리를 시작하게 되었냐 물으니 “처음엔 요리사를 할 생각이 없었다”는 의외의 대답이 나왔다. | 생계를 위한 요리에서 자아실현을 위한 요리로처음부터 요리사를 원한 건 아니었다. 보디빌딩 선수를 준비했으나 허리를 다쳐 진로를 틀어야 했고, 고등학생 때 친구를 따라 들른 요리학교 유학 설명회가 계기였다. “상담만 받아도 공짜로 밥 먹을 수 있다는 친구의 꼬임에 속아서 갔어요. 근데 그 설명회가 제 요리사로서의 첫 시작이 될 줄은 당시에는 상상도 못 했죠.” 그가 진학한 곳은 일본에서 가장 오래된 요리학교, 핫토리 영양 전문학교다.20대 초반의 나이에 학업과 생계를 짊어져야 한다는 것은 벅찬 일이었다. 신문 배달과 초밥집 막내를 전전하며 졸업할 수 있는 출석 일수를 겨우 맞췄다. 입에 풀칠하느라 3년 동안 배운 것이라곤 어깨너머로 배운 초밥 잡는 법이 전부였다. 그래도 이 요리를 포기하지 않았던 건 “한국에 돌아가게 되더라도 이 기술만 있으면 굶어 죽지 않겠다”는 기대가 있었기 때문이다.일본에서의 3년 유학 생활을 마치고 돌아온 그는 조선호텔 조리부에 입사했다. 한국의 일식은 그가 배운 것과 조금 달랐다. 일본 현지의 방식이 아닌 한국식 일식이라는 조금 변형된 형태로 일해야 했다. 처음부터 배운다는 생각으로 다시 시작하는 수고로움은 당연히 감당해야 할 부분이라 생각했다. 하지만 새로운 요리를 배울 기회가 적고, 주방 밖에서 얻을 수 있는 자극이 없는, 쳇바퀴 같은 생활은 성에 차지 않았다.“당시에는 새로운 요리를 접할 기회도 적었고, 새로운 요리를 배우려면 뭐부터 시작해야 할지도 모르던 시절이었어요. 그래서 수입 원서가 있는 대형서점을 가끔 찾아갔는데, 거기서 그 책을 본 거죠.” 지금도 요리가 막힐 때면 가끔 꺼내 읽는다는 아키라 백 셰프의 책이었다.“일식 요리사, 운동을 하다가 늦은 나이에 요리를 시작했다는 점이 저랑 비슷하다고 생각했습니다.” 최신근 셰프는 그 자리에 서서 두 시간 동안 한 발짝도 움직이지 않고 책을 다 읽었다고 한다. 한국에서 안정적으로 요리를 계속할지, 틀을 깨고 나가 새로운 도전을 해야 할지 선택해야 했던 그는 돌파구를 찾은 느낌이 들었을 것이다. | 무작정 달려들어 얻어낸 일식의 새로운 패러다임책에 쓰여 있는 이메일 주소로 이메일을 보냈다. 열흘 만에 받은 답변에는 ‘열심히 해라. 응원한다’는 식의 상투적인 내용만 적혀있었다.“당시 호텔을 나와서 대기업에서 일하던 중이었는데 한 달 만에 사표 쓰고 미국행 비행기 표를 샀어요. 가서 부딪혀보자. 아무것도 모르고 그냥 갔어요. 미국에서 일하려면 워크퍼밋(EAD : 미국에 일시 거주 중인 외국인에게 주는 근로 허가증)이 필요하다는 것조차 몰랐어요.”그가 옐로 테일Yellow Tail에 처음 찾아간 날은 새해 첫날이었다. 라스베이거스의 유명 호텔 벨라지오 내에 있는 레스토랑답게 홀에는 신년을 축하하는 사람들로 가득했다. 최신근 셰프는 겨우 바에 자리를 잡았다. 좁은 바 테이블에 앉아 셰프 테이스팅 메뉴를 주문했다. 혼자 온 동양인이 16만 원의 코스 요리를 시키자 주변 사람들은 쳐다보며 수군댔다. 개의치 않았다.“음식을 가지고 오는 서버에게 셰프를 만나러 왔다고 말했고, 잠시 후 셰프가 나오더라고요. 저는 만나자마자 여기서 일하고 싶다고. 어떻게 하면 되냐고 다짜고짜 물었어요.”어떻게든 미국땅에서 요리를 해보고 싶었다. 한국으로 돌아가더라도 이미 직장을 제 발로 나왔고, 그렇지 않아도 수중에 돌아갈 비행기 표를 살 돈도 없었다. 여차해서 주방일을 구하지 못하면 들고 간 200만 원어치 칼 가방이라도 팔아 다른 직업을 알아볼 각오마저 했다고 한다.다행히도 아키라 백 셰프 아래에서 무급 스타지 기회를 얻었고, 2013년에는 태국에 있는 W 리조트 꼬사무이Retreat Koh Samui에 주방장Chef de Cuisine까지 맡게 되었으니 무턱대고 떠났던 것 치고는 결과가 나쁘지 않아 보인다. | 앞으로도 한국보다는 해외에서 더 활동할 것이젠 한국으로 돌아오기엔 현지인들에게 너무 큰 사랑을 받고 있다. 곧 말레이시아 쿠알라룸푸르에 새로 오픈할 레스토랑 준비에 한창이라며 사진을 보내왔다.요리사라면 으레 음식을 만드는 종업원으로 여겨지는데 온 벽과 대문에 사진을 도배해놓으니 어색한 느낌이 든다. 스타덤으로 레스토랑을 홍보하기 위한 것이라고 해석하려 해도 과하다는 느낌을 지우기 힘들었다. 하지만 ‘레스토랑과 셰프, 어느 정도의 역할 구분이 필요하진 않을까?’라고 생각했던 고정관념은 최신근 셰프를 만나면서 깨어지게 되었다. 레스토랑이 곧 셰프고, 셰프가 곧 레스토랑이고, 손님의 입장에선 전혀 구분이 없다.주야장천 요리만 하느라 손님은 내다보지 못하는 요리사가 싫어 해외로 발길을 돌렸던 그는, 새로 오픈하는 레스토랑의 총 책임자를 넘어 한 레스토랑의 정체성 그 자체가 되어 있는 듯하다.매사에 거침없이 결정하고 자신감 넘쳐 보이는 최신근 셰프. 요리가 무엇인지도 모르는 상태로 요리를 시작했고, 자신이 추구하는 이상적인 요리가 있었다기보다는 생계를 유지하기 위한 방도를 찾기 위해 해외로 나간 셈이다. 3년 유학생활을 마치고 한국으로 돌아왔을 때도, 호텔을 나와 미국으로 갔을 때도, 미국에서 다시 태국으로 옮길 때도 겁이 나지 않았던 적은 없었다고 솔직히 말한다.“우리가 알고 있는 유명한 셰프들도 다 이런 공포를 경험했고, 고생도 말로 못 할 정도로 했을 거에요. 앞으로 요리하는 학생들이 새로운 도전을 앞두고 겁이 날 때는 이 점을 기억했으면 좋겠어요. 잘 모르니 두려울 수밖에 없죠. 근데 그걸 이겨내야 도전인 거에요.”· 셰프뉴스에서 보기 : http://chefnews.kr/archives/11817">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>‘아이언셰프 다리미 퍼포먼스의 주인공’ 최신근(SK choi) 셰프를 만나다</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1782" />
+<meta property="kakao:title" content="‘아이언셰프 다리미 퍼포먼스의 주인공’ 최신근(SK choi) 셰프를 만나다" />
+<meta property="kakao:description" content="철인의요리(料理の鉄人), 1993년 일본에서 만들어진 요리 대결 방송이다. 특정한 재료를 주제로 전문 셰프들이 나와 요리 대결을 펼치는 이 방송은 첫 방송 이후로 9년간 309편이 제작되었다. 이 방송 포맷은 아이언셰프Iron Chef라는 이름으로 바뀌어 타국으로도 뻗어 나갔는데, 2001년도에는 미국에서, 2010년도에는 영국과 호주에서, 2012년도에는 베트남과 태국에서, 각 나라마다의 아이언셰프 방송이 만들어졌다.2012년 방영된 태국 아이언셰프Iron Chef Thailand, 된소리가 강한 태국어 방송 중에서도 또렷한 한국어가 들렸다.“SK의 스타일을 보여드리겠습니다. 지켜봐라!”당시 W 호텔 소속으로 모던 일식요리를 하고 있던 최신근 셰프였다. 새로운 레스토랑 오픈을 앞두고 잠시 한국에 들렀다는 그를 만났다. |생선을 다리미로 익혀? 기발한 아이디어가 카메라의 시선을 빼앗았다.“아이롱이라고 하잖아요. 스팀 나오는 다리미. 그걸로 다시마 사이에 재워 둔 생선살을 그냥 쫙!”카메라가 놓칠 리 없다. 비록 주방에서는 해본 적도 없던 기이한 행동이었지만, 색다른 장면을 기대한 시청자에게는 더없이 좋은 장면이다.태국에서는 최신근이라는 이름보다 이니셜 SK로 더 유명하다. 손님과 교감하며 초밥을 쥐어주는 오마카세를 자주 해서인지, 오픈 키친의 경험이 많아서인지 카메라 앞에서도 여유로운 모습이다.“방송에 나가려니 겁도 많이 났죠. 아버지가 ‘하고 싶은 일을 해라. 도전하다 보면 돈은 못 벌 수는 있어도, 나중에 후회하는 일은 없을 거다’라고 말했던 조언이 생각나서 출연하기로 했어요”태국의 한 매체는 그의 요리를 ‘진화한 테크닉을 바탕으로 재료 간의 조합을 영리하게 풀었다’고 설명한다.새로운 스타일의 아시안 퀴진을 선보이고 싶다는 진취적인 그에게 어떻게 요리를 시작하게 되었냐 물으니 “처음엔 요리사를 할 생각이 없었다”는 의외의 대답이 나왔다. | 생계를 위한 요리에서 자아실현을 위한 요리로처음부터 요리사를 원한 건 아니었다. 보디빌딩 선수를 준비했으나 허리를 다쳐 진로를 틀어야 했고, 고등학생 때 친구를 따라 들른 요리학교 유학 설명회가 계기였다. “상담만 받아도 공짜로 밥 먹을 수 있다는 친구의 꼬임에 속아서 갔어요. 근데 그 설명회가 제 요리사로서의 첫 시작이 될 줄은 당시에는 상상도 못 했죠.” 그가 진학한 곳은 일본에서 가장 오래된 요리학교, 핫토리 영양 전문학교다.20대 초반의 나이에 학업과 생계를 짊어져야 한다는 것은 벅찬 일이었다. 신문 배달과 초밥집 막내를 전전하며 졸업할 수 있는 출석 일수를 겨우 맞췄다. 입에 풀칠하느라 3년 동안 배운 것이라곤 어깨너머로 배운 초밥 잡는 법이 전부였다. 그래도 이 요리를 포기하지 않았던 건 “한국에 돌아가게 되더라도 이 기술만 있으면 굶어 죽지 않겠다”는 기대가 있었기 때문이다.일본에서의 3년 유학 생활을 마치고 돌아온 그는 조선호텔 조리부에 입사했다. 한국의 일식은 그가 배운 것과 조금 달랐다. 일본 현지의 방식이 아닌 한국식 일식이라는 조금 변형된 형태로 일해야 했다. 처음부터 배운다는 생각으로 다시 시작하는 수고로움은 당연히 감당해야 할 부분이라 생각했다. 하지만 새로운 요리를 배울 기회가 적고, 주방 밖에서 얻을 수 있는 자극이 없는, 쳇바퀴 같은 생활은 성에 차지 않았다.“당시에는 새로운 요리를 접할 기회도 적었고, 새로운 요리를 배우려면 뭐부터 시작해야 할지도 모르던 시절이었어요. 그래서 수입 원서가 있는 대형서점을 가끔 찾아갔는데, 거기서 그 책을 본 거죠.” 지금도 요리가 막힐 때면 가끔 꺼내 읽는다는 아키라 백 셰프의 책이었다.“일식 요리사, 운동을 하다가 늦은 나이에 요리를 시작했다는 점이 저랑 비슷하다고 생각했습니다.” 최신근 셰프는 그 자리에 서서 두 시간 동안 한 발짝도 움직이지 않고 책을 다 읽었다고 한다. 한국에서 안정적으로 요리를 계속할지, 틀을 깨고 나가 새로운 도전을 해야 할지 선택해야 했던 그는 돌파구를 찾은 느낌이 들었을 것이다. | 무작정 달려들어 얻어낸 일식의 새로운 패러다임책에 쓰여 있는 이메일 주소로 이메일을 보냈다. 열흘 만에 받은 답변에는 ‘열심히 해라. 응원한다’는 식의 상투적인 내용만 적혀있었다.“당시 호텔을 나와서 대기업에서 일하던 중이었는데 한 달 만에 사표 쓰고 미국행 비행기 표를 샀어요. 가서 부딪혀보자. 아무것도 모르고 그냥 갔어요. 미국에서 일하려면 워크퍼밋(EAD : 미국에 일시 거주 중인 외국인에게 주는 근로 허가증)이 필요하다는 것조차 몰랐어요.”그가 옐로 테일Yellow Tail에 처음 찾아간 날은 새해 첫날이었다. 라스베이거스의 유명 호텔 벨라지오 내에 있는 레스토랑답게 홀에는 신년을 축하하는 사람들로 가득했다. 최신근 셰프는 겨우 바에 자리를 잡았다. 좁은 바 테이블에 앉아 셰프 테이스팅 메뉴를 주문했다. 혼자 온 동양인이 16만 원의 코스 요리를 시키자 주변 사람들은 쳐다보며 수군댔다. 개의치 않았다.“음식을 가지고 오는 서버에게 셰프를 만나러 왔다고 말했고, 잠시 후 셰프가 나오더라고요. 저는 만나자마자 여기서 일하고 싶다고. 어떻게 하면 되냐고 다짜고짜 물었어요.”어떻게든 미국땅에서 요리를 해보고 싶었다. 한국으로 돌아가더라도 이미 직장을 제 발로 나왔고, 그렇지 않아도 수중에 돌아갈 비행기 표를 살 돈도 없었다. 여차해서 주방일을 구하지 못하면 들고 간 200만 원어치 칼 가방이라도 팔아 다른 직업을 알아볼 각오마저 했다고 한다.다행히도 아키라 백 셰프 아래에서 무급 스타지 기회를 얻었고, 2013년에는 태국에 있는 W 리조트 꼬사무이Retreat Koh Samui에 주방장Chef de Cuisine까지 맡게 되었으니 무턱대고 떠났던 것 치고는 결과가 나쁘지 않아 보인다. | 앞으로도 한국보다는 해외에서 더 활동할 것이젠 한국으로 돌아오기엔 현지인들에게 너무 큰 사랑을 받고 있다. 곧 말레이시아 쿠알라룸푸르에 새로 오픈할 레스토랑 준비에 한창이라며 사진을 보내왔다.요리사라면 으레 음식을 만드는 종업원으로 여겨지는데 온 벽과 대문에 사진을 도배해놓으니 어색한 느낌이 든다. 스타덤으로 레스토랑을 홍보하기 위한 것이라고 해석하려 해도 과하다는 느낌을 지우기 힘들었다. 하지만 ‘레스토랑과 셰프, 어느 정도의 역할 구분이 필요하진 않을까?’라고 생각했던 고정관념은 최신근 셰프를 만나면서 깨어지게 되었다. 레스토랑이 곧 셰프고, 셰프가 곧 레스토랑이고, 손님의 입장에선 전혀 구분이 없다.주야장천 요리만 하느라 손님은 내다보지 못하는 요리사가 싫어 해외로 발길을 돌렸던 그는, 새로 오픈하는 레스토랑의 총 책임자를 넘어 한 레스토랑의 정체성 그 자체가 되어 있는 듯하다.매사에 거침없이 결정하고 자신감 넘쳐 보이는 최신근 셰프. 요리가 무엇인지도 모르는 상태로 요리를 시작했고, 자신이 추구하는 이상적인 요리가 있었다기보다는 생계를 유지하기 위한 방도를 찾기 위해 해외로 나간 셈이다. 3년 유학생활을 마치고 한국으로 돌아왔을 때도, 호텔을 나와 미국으로 갔을 때도, 미국에서 다시 태국으로 옮길 때도 겁이 나지 않았던 적은 없었다고 솔직히 말한다.“우리가 알고 있는 유명한 셰프들도 다 이런 공포를 경험했고, 고생도 말로 못 할 정도로 했을 거에요. 앞으로 요리하는 학생들이 새로운 도전을 앞두고 겁이 날 때는 이 점을 기억했으면 좋겠어요. 잘 모르니 두려울 수밖에 없죠. 근데 그걸 이겨내야 도전인 거에요.”· 셰프뉴스에서 보기 : http://chefnews.kr/archives/11817" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1782" />
+<meta property="og:title" content="‘아이언셰프 다리미 퍼포먼스의 주인공’ 최신근(SK choi) 셰프를 만나다" />
+<meta property="og:image" content="http://recipe1.ezmember.co.kr/cache/bbs/2016/06/22/f216751813feff063d6b1af44759a169.jpg" />
+<meta property="og:description" content="철인의요리(料理の鉄人), 1993년 일본에서 만들어진 요리 대결 방송이다. 특정한 재료를 주제로 전문 셰프들이 나와 요리 대결을 펼치는 이 방송은 첫 방송 이후로 9년간 309편이 제작되었다. 이 방송 포맷은 아이언셰프Iron Chef라는 이름으로 바뀌어 타국으로도 뻗어 나갔는데, 2001년도에는 미국에서, 2010년도에는 영국과 호주에서, 2012년도에는 베트남과 태국에서, 각 나라마다의 아이언셰프 방송이 만들어졌다.2012년 방영된 태국 아이언셰프Iron Chef Thailand, 된소리가 강한 태국어 방송 중에서도 또렷한 한국어가 들렸다.“SK의 스타일을 보여드리겠습니다. 지켜봐라!”당시 W 호텔 소속으로 모던 일식요리를 하고 있던 최신근 셰프였다. 새로운 레스토랑 오픈을 앞두고 잠시 한국에 들렀다는 그를 만났다. |생선을 다리미로 익혀? 기발한 아이디어가 카메라의 시선을 빼앗았다.“아이롱이라고 하잖아요. 스팀 나오는 다리미. 그걸로 다시마 사이에 재워 둔 생선살을 그냥 쫙!”카메라가 놓칠 리 없다. 비록 주방에서는 해본 적도 없던 기이한 행동이었지만, 색다른 장면을 기대한 시청자에게는 더없이 좋은 장면이다.태국에서는 최신근이라는 이름보다 이니셜 SK로 더 유명하다. 손님과 교감하며 초밥을 쥐어주는 오마카세를 자주 해서인지, 오픈 키친의 경험이 많아서인지 카메라 앞에서도 여유로운 모습이다.“방송에 나가려니 겁도 많이 났죠. 아버지가 ‘하고 싶은 일을 해라. 도전하다 보면 돈은 못 벌 수는 있어도, 나중에 후회하는 일은 없을 거다’라고 말했던 조언이 생각나서 출연하기로 했어요”태국의 한 매체는 그의 요리를 ‘진화한 테크닉을 바탕으로 재료 간의 조합을 영리하게 풀었다’고 설명한다.새로운 스타일의 아시안 퀴진을 선보이고 싶다는 진취적인 그에게 어떻게 요리를 시작하게 되었냐 물으니 “처음엔 요리사를 할 생각이 없었다”는 의외의 대답이 나왔다. | 생계를 위한 요리에서 자아실현을 위한 요리로처음부터 요리사를 원한 건 아니었다. 보디빌딩 선수를 준비했으나 허리를 다쳐 진로를 틀어야 했고, 고등학생 때 친구를 따라 들른 요리학교 유학 설명회가 계기였다. “상담만 받아도 공짜로 밥 먹을 수 있다는 친구의 꼬임에 속아서 갔어요. 근데 그 설명회가 제 요리사로서의 첫 시작이 될 줄은 당시에는 상상도 못 했죠.” 그가 진학한 곳은 일본에서 가장 오래된 요리학교, 핫토리 영양 전문학교다.20대 초반의 나이에 학업과 생계를 짊어져야 한다는 것은 벅찬 일이었다. 신문 배달과 초밥집 막내를 전전하며 졸업할 수 있는 출석 일수를 겨우 맞췄다. 입에 풀칠하느라 3년 동안 배운 것이라곤 어깨너머로 배운 초밥 잡는 법이 전부였다. 그래도 이 요리를 포기하지 않았던 건 “한국에 돌아가게 되더라도 이 기술만 있으면 굶어 죽지 않겠다”는 기대가 있었기 때문이다.일본에서의 3년 유학 생활을 마치고 돌아온 그는 조선호텔 조리부에 입사했다. 한국의 일식은 그가 배운 것과 조금 달랐다. 일본 현지의 방식이 아닌 한국식 일식이라는 조금 변형된 형태로 일해야 했다. 처음부터 배운다는 생각으로 다시 시작하는 수고로움은 당연히 감당해야 할 부분이라 생각했다. 하지만 새로운 요리를 배울 기회가 적고, 주방 밖에서 얻을 수 있는 자극이 없는, 쳇바퀴 같은 생활은 성에 차지 않았다.“당시에는 새로운 요리를 접할 기회도 적었고, 새로운 요리를 배우려면 뭐부터 시작해야 할지도 모르던 시절이었어요. 그래서 수입 원서가 있는 대형서점을 가끔 찾아갔는데, 거기서 그 책을 본 거죠.” 지금도 요리가 막힐 때면 가끔 꺼내 읽는다는 아키라 백 셰프의 책이었다.“일식 요리사, 운동을 하다가 늦은 나이에 요리를 시작했다는 점이 저랑 비슷하다고 생각했습니다.” 최신근 셰프는 그 자리에 서서 두 시간 동안 한 발짝도 움직이지 않고 책을 다 읽었다고 한다. 한국에서 안정적으로 요리를 계속할지, 틀을 깨고 나가 새로운 도전을 해야 할지 선택해야 했던 그는 돌파구를 찾은 느낌이 들었을 것이다. | 무작정 달려들어 얻어낸 일식의 새로운 패러다임책에 쓰여 있는 이메일 주소로 이메일을 보냈다. 열흘 만에 받은 답변에는 ‘열심히 해라. 응원한다’는 식의 상투적인 내용만 적혀있었다.“당시 호텔을 나와서 대기업에서 일하던 중이었는데 한 달 만에 사표 쓰고 미국행 비행기 표를 샀어요. 가서 부딪혀보자. 아무것도 모르고 그냥 갔어요. 미국에서 일하려면 워크퍼밋(EAD : 미국에 일시 거주 중인 외국인에게 주는 근로 허가증)이 필요하다는 것조차 몰랐어요.”그가 옐로 테일Yellow Tail에 처음 찾아간 날은 새해 첫날이었다. 라스베이거스의 유명 호텔 벨라지오 내에 있는 레스토랑답게 홀에는 신년을 축하하는 사람들로 가득했다. 최신근 셰프는 겨우 바에 자리를 잡았다. 좁은 바 테이블에 앉아 셰프 테이스팅 메뉴를 주문했다. 혼자 온 동양인이 16만 원의 코스 요리를 시키자 주변 사람들은 쳐다보며 수군댔다. 개의치 않았다.“음식을 가지고 오는 서버에게 셰프를 만나러 왔다고 말했고, 잠시 후 셰프가 나오더라고요. 저는 만나자마자 여기서 일하고 싶다고. 어떻게 하면 되냐고 다짜고짜 물었어요.”어떻게든 미국땅에서 요리를 해보고 싶었다. 한국으로 돌아가더라도 이미 직장을 제 발로 나왔고, 그렇지 않아도 수중에 돌아갈 비행기 표를 살 돈도 없었다. 여차해서 주방일을 구하지 못하면 들고 간 200만 원어치 칼 가방이라도 팔아 다른 직업을 알아볼 각오마저 했다고 한다.다행히도 아키라 백 셰프 아래에서 무급 스타지 기회를 얻었고, 2013년에는 태국에 있는 W 리조트 꼬사무이Retreat Koh Samui에 주방장Chef de Cuisine까지 맡게 되었으니 무턱대고 떠났던 것 치고는 결과가 나쁘지 않아 보인다. | 앞으로도 한국보다는 해외에서 더 활동할 것이젠 한국으로 돌아오기엔 현지인들에게 너무 큰 사랑을 받고 있다. 곧 말레이시아 쿠알라룸푸르에 새로 오픈할 레스토랑 준비에 한창이라며 사진을 보내왔다.요리사라면 으레 음식을 만드는 종업원으로 여겨지는데 온 벽과 대문에 사진을 도배해놓으니 어색한 느낌이 든다. 스타덤으로 레스토랑을 홍보하기 위한 것이라고 해석하려 해도 과하다는 느낌을 지우기 힘들었다. 하지만 ‘레스토랑과 셰프, 어느 정도의 역할 구분이 필요하진 않을까?’라고 생각했던 고정관념은 최신근 셰프를 만나면서 깨어지게 되었다. 레스토랑이 곧 셰프고, 셰프가 곧 레스토랑이고, 손님의 입장에선 전혀 구분이 없다.주야장천 요리만 하느라 손님은 내다보지 못하는 요리사가 싫어 해외로 발길을 돌렸던 그는, 새로 오픈하는 레스토랑의 총 책임자를 넘어 한 레스토랑의 정체성 그 자체가 되어 있는 듯하다.매사에 거침없이 결정하고 자신감 넘쳐 보이는 최신근 셰프. 요리가 무엇인지도 모르는 상태로 요리를 시작했고, 자신이 추구하는 이상적인 요리가 있었다기보다는 생계를 유지하기 위한 방도를 찾기 위해 해외로 나간 셈이다. 3년 유학생활을 마치고 한국으로 돌아왔을 때도, 호텔을 나와 미국으로 갔을 때도, 미국에서 다시 태국으로 옮길 때도 겁이 나지 않았던 적은 없었다고 솔직히 말한다.“우리가 알고 있는 유명한 셰프들도 다 이런 공포를 경험했고, 고생도 말로 못 할 정도로 했을 거에요. 앞으로 요리하는 학생들이 새로운 도전을 앞두고 겁이 날 때는 이 점을 기억했으면 좋겠어요. 잘 모르니 두려울 수밖에 없죠. 근데 그걸 이겨내야 도전인 거에요.”· 셰프뉴스에서 보기 : http://chefnews.kr/archives/11817" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="‘아이언셰프 다리미 퍼포먼스의 주인공’ 최신근(SK choi) 셰프를 만나다" />
+<meta name="twitter:description" content="철인의요리(料理の鉄人), 1993년 일본에서 만들어진 요리 대결 방송이다. 특정한 재료를 주제로 전문 셰프들이 나와 요리 대결을 펼치는 이 방송은 첫 방송 이후로 9년간 309편이 제작되었다. 이 방송 포맷은 아이언셰프Iron Chef라는 이름으로 바뀌어 타국으로도 뻗어 나갔는데, 2001년도에는 미국에서, 2010년도에는 영국과 호주에서, 2012년도에는 베트남과 태국에서, 각 나라마다의 아이언셰프 방송이 만들어졌다.2012년 방영된 태국 아이언셰프Iron Chef Thailand, 된소리가 강한 태국어 방송 중에서도 또렷한 한국어가 들렸다.“SK의 스타일을 보여드리겠습니다. 지켜봐라!”당시 W 호텔 소속으로 모던 일식요리를 하고 있던 최신근 셰프였다. 새로운 레스토랑 오픈을 앞두고 잠시 한국에 들렀다는 그를 만났다. |생선을 다리미로 익혀? 기발한 아이디어가 카메라의 시선을 빼앗았다.“아이롱이라고 하잖아요. 스팀 나오는 다리미. 그걸로 다시마 사이에 재워 둔 생선살을 그냥 쫙!”카메라가 놓칠 리 없다. 비록 주방에서는 해본 적도 없던 기이한 행동이었지만, 색다른 장면을 기대한 시청자에게는 더없이 좋은 장면이다.태국에서는 최신근이라는 이름보다 이니셜 SK로 더 유명하다. 손님과 교감하며 초밥을 쥐어주는 오마카세를 자주 해서인지, 오픈 키친의 경험이 많아서인지 카메라 앞에서도 여유로운 모습이다.“방송에 나가려니 겁도 많이 났죠. 아버지가 ‘하고 싶은 일을 해라. 도전하다 보면 돈은 못 벌 수는 있어도, 나중에 후회하는 일은 없을 거다’라고 말했던 조언이 생각나서 출연하기로 했어요”태국의 한 매체는 그의 요리를 ‘진화한 테크닉을 바탕으로 재료 간의 조합을 영리하게 풀었다’고 설명한다.새로운 스타일의 아시안 퀴진을 선보이고 싶다는 진취적인 그에게 어떻게 요리를 시작하게 되었냐 물으니 “처음엔 요리사를 할 생각이 없었다”는 의외의 대답이 나왔다. | 생계를 위한 요리에서 자아실현을 위한 요리로처음부터 요리사를 원한 건 아니었다. 보디빌딩 선수를 준비했으나 허리를 다쳐 진로를 틀어야 했고, 고등학생 때 친구를 따라 들른 요리학교 유학 설명회가 계기였다. “상담만 받아도 공짜로 밥 먹을 수 있다는 친구의 꼬임에 속아서 갔어요. 근데 그 설명회가 제 요리사로서의 첫 시작이 될 줄은 당시에는 상상도 못 했죠.” 그가 진학한 곳은 일본에서 가장 오래된 요리학교, 핫토리 영양 전문학교다.20대 초반의 나이에 학업과 생계를 짊어져야 한다는 것은 벅찬 일이었다. 신문 배달과 초밥집 막내를 전전하며 졸업할 수 있는 출석 일수를 겨우 맞췄다. 입에 풀칠하느라 3년 동안 배운 것이라곤 어깨너머로 배운 초밥 잡는 법이 전부였다. 그래도 이 요리를 포기하지 않았던 건 “한국에 돌아가게 되더라도 이 기술만 있으면 굶어 죽지 않겠다”는 기대가 있었기 때문이다.일본에서의 3년 유학 생활을 마치고 돌아온 그는 조선호텔 조리부에 입사했다. 한국의 일식은 그가 배운 것과 조금 달랐다. 일본 현지의 방식이 아닌 한국식 일식이라는 조금 변형된 형태로 일해야 했다. 처음부터 배운다는 생각으로 다시 시작하는 수고로움은 당연히 감당해야 할 부분이라 생각했다. 하지만 새로운 요리를 배울 기회가 적고, 주방 밖에서 얻을 수 있는 자극이 없는, 쳇바퀴 같은 생활은 성에 차지 않았다.“당시에는 새로운 요리를 접할 기회도 적었고, 새로운 요리를 배우려면 뭐부터 시작해야 할지도 모르던 시절이었어요. 그래서 수입 원서가 있는 대형서점을 가끔 찾아갔는데, 거기서 그 책을 본 거죠.” 지금도 요리가 막힐 때면 가끔 꺼내 읽는다는 아키라 백 셰프의 책이었다.“일식 요리사, 운동을 하다가 늦은 나이에 요리를 시작했다는 점이 저랑 비슷하다고 생각했습니다.” 최신근 셰프는 그 자리에 서서 두 시간 동안 한 발짝도 움직이지 않고 책을 다 읽었다고 한다. 한국에서 안정적으로 요리를 계속할지, 틀을 깨고 나가 새로운 도전을 해야 할지 선택해야 했던 그는 돌파구를 찾은 느낌이 들었을 것이다. | 무작정 달려들어 얻어낸 일식의 새로운 패러다임책에 쓰여 있는 이메일 주소로 이메일을 보냈다. 열흘 만에 받은 답변에는 ‘열심히 해라. 응원한다’는 식의 상투적인 내용만 적혀있었다.“당시 호텔을 나와서 대기업에서 일하던 중이었는데 한 달 만에 사표 쓰고 미국행 비행기 표를 샀어요. 가서 부딪혀보자. 아무것도 모르고 그냥 갔어요. 미국에서 일하려면 워크퍼밋(EAD : 미국에 일시 거주 중인 외국인에게 주는 근로 허가증)이 필요하다는 것조차 몰랐어요.”그가 옐로 테일Yellow Tail에 처음 찾아간 날은 새해 첫날이었다. 라스베이거스의 유명 호텔 벨라지오 내에 있는 레스토랑답게 홀에는 신년을 축하하는 사람들로 가득했다. 최신근 셰프는 겨우 바에 자리를 잡았다. 좁은 바 테이블에 앉아 셰프 테이스팅 메뉴를 주문했다. 혼자 온 동양인이 16만 원의 코스 요리를 시키자 주변 사람들은 쳐다보며 수군댔다. 개의치 않았다.“음식을 가지고 오는 서버에게 셰프를 만나러 왔다고 말했고, 잠시 후 셰프가 나오더라고요. 저는 만나자마자 여기서 일하고 싶다고. 어떻게 하면 되냐고 다짜고짜 물었어요.”어떻게든 미국땅에서 요리를 해보고 싶었다. 한국으로 돌아가더라도 이미 직장을 제 발로 나왔고, 그렇지 않아도 수중에 돌아갈 비행기 표를 살 돈도 없었다. 여차해서 주방일을 구하지 못하면 들고 간 200만 원어치 칼 가방이라도 팔아 다른 직업을 알아볼 각오마저 했다고 한다.다행히도 아키라 백 셰프 아래에서 무급 스타지 기회를 얻었고, 2013년에는 태국에 있는 W 리조트 꼬사무이Retreat Koh Samui에 주방장Chef de Cuisine까지 맡게 되었으니 무턱대고 떠났던 것 치고는 결과가 나쁘지 않아 보인다. | 앞으로도 한국보다는 해외에서 더 활동할 것이젠 한국으로 돌아오기엔 현지인들에게 너무 큰 사랑을 받고 있다. 곧 말레이시아 쿠알라룸푸르에 새로 오픈할 레스토랑 준비에 한창이라며 사진을 보내왔다.요리사라면 으레 음식을 만드는 종업원으로 여겨지는데 온 벽과 대문에 사진을 도배해놓으니 어색한 느낌이 든다. 스타덤으로 레스토랑을 홍보하기 위한 것이라고 해석하려 해도 과하다는 느낌을 지우기 힘들었다. 하지만 ‘레스토랑과 셰프, 어느 정도의 역할 구분이 필요하진 않을까?’라고 생각했던 고정관념은 최신근 셰프를 만나면서 깨어지게 되었다. 레스토랑이 곧 셰프고, 셰프가 곧 레스토랑이고, 손님의 입장에선 전혀 구분이 없다.주야장천 요리만 하느라 손님은 내다보지 못하는 요리사가 싫어 해외로 발길을 돌렸던 그는, 새로 오픈하는 레스토랑의 총 책임자를 넘어 한 레스토랑의 정체성 그 자체가 되어 있는 듯하다.매사에 거침없이 결정하고 자신감 넘쳐 보이는 최신근 셰프. 요리가 무엇인지도 모르는 상태로 요리를 시작했고, 자신이 추구하는 이상적인 요리가 있었다기보다는 생계를 유지하기 위한 방도를 찾기 위해 해외로 나간 셈이다. 3년 유학생활을 마치고 한국으로 돌아왔을 때도, 호텔을 나와 미국으로 갔을 때도, 미국에서 다시 태국으로 옮길 때도 겁이 나지 않았던 적은 없었다고 솔직히 말한다.“우리가 알고 있는 유명한 셰프들도 다 이런 공포를 경험했고, 고생도 말로 못 할 정도로 했을 거에요. 앞으로 요리하는 학생들이 새로운 도전을 앞두고 겁이 날 때는 이 점을 기억했으면 좋겠어요. 잘 모르니 두려울 수밖에 없죠. 근데 그걸 이겨내야 도전인 거에요.”· 셰프뉴스에서 보기 : http://chefnews.kr/archives/11817" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://recipe1.ezmember.co.kr/cache/bbs/2016/06/22/f216751813feff063d6b1af44759a169.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1782?seq=1782';
+var _USER_ID_ = '';
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1557771002660658",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1782&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1782",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/1782';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/1782';
+    var title = '‘아이언셰프 다리미 퍼포먼스의 주인공’ 최신근(SK choi) 셰프를 만나다';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=1782",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="1782">
+<input type="hidden" name="bid" value="2">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>‘아이언셰프 다리미 퍼포먼스의 주인공’ 최신근(SK choi) 셰프를 만나다</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">셰프뉴스<span>|</span>2016-06-22 오후 14:46<span>|</span><span class="cate_view">139</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1817"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1777"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"></p><div style="text-align: center;"><img src="http://recipe.ezmember.co.kr/cache/bbs/2016/06/22/f216751813feff063d6b1af44759a169.jpg"style="max-width:100%;"></div><br><p></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">철인의요리(料理の鉄人), 1993년 일본에서 만들어진 요리 대결 방송이다. 특정한 재료를 주제로 전문 셰프들이 나와 요리 대결을 펼치는 이 방송은 첫 방송 이후로 9년간 309편이 제작되었다. 이 방송 포맷은 아이언셰프<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Iron Chef</em></span>라는 이름으로 바뀌어 타국으로도 뻗어 나갔는데, 2001년도에는 미국에서, 2010년도에는 영국과 호주에서, 2012년도에는 베트남과 태국에서, 각 나라마다의 아이언셰프 방송이 만들어졌다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">2012년 방영된 태국 아이언셰프<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Iron Chef Thailand</em></span>, 된소리가 강한 태국어 방송 중에서도 또렷한 한국어가 들렸다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-full wp-image-11843 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/20160406_020624.gif" alt="20160406_020624" width="376" height="300" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“SK의 스타일을 보여드리겠습니다. 지켜봐라!”<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">당시 W 호텔 소속으로 모던 일식요리를 하고 있던 최신근 셰프였다.&nbsp;새로운 레스토랑 오픈을 앞두고 잠시 한국에 들렀다는 그를 만났다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-medium wp-image-11822 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7778-660x440.jpg" alt="IMG_7778" width="660" height="440" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7778-660x440.jpg 660w, http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7778-768x512.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7778.jpg 800w" sizes="(max-width: 660px) 100vw, 660px" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">|생선을 다리미로 익혀? 기발한 아이디어가 카메라의 시선을 빼앗았다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="alignright wp-image-11829 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_20131209_145313-copy-330x500.jpg" alt="IMG_20131209_145313 copy" width="250" height="379" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_20131209_145313-copy-330x500.jpg 330w, http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_20131209_145313-copy.jpg 408w" sizes="(max-width: 250px) 100vw, 250px" style="padding: 0px; margin: 5px 0px 5px 25px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; float: right; display: inline; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“아이롱이라고 하잖아요. 스팀 나오는 다리미. 그걸로 다시마 사이에 재워 둔 생선살을 그냥 쫙!”</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">카메라가 놓칠 리 없다. 비록 주방에서는 해본 적도 없던 기이한 행동이었지만, 색다른 장면을 기대한 시청자에게는 더없이 좋은 장면이다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">태국에서는 최신근이라는 이름보다 이니셜 SK로 더 유명하다. 손님과 교감하며 초밥을 쥐어주는 오마카세를 자주 해서인지, 오픈 키친의 경험이 많아서인지 카메라 앞에서도 여유로운 모습이다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“방송에 나가려니 겁도 많이 났죠. 아버지가 ‘하고 싶은 일을 해라. 도전하다 보면 돈은 못 벌 수는 있어도, 나중에 후회하는 일은 없을 거다’라고 말했던 조언이 생각나서 출연하기로 했어요”</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://at-bangkok.com/chef-sk-introduces-the-new-menu-at-namu" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">태국의 한 매체</a></span>는 그의 요리를 ‘진화한 테크닉을 바탕으로 재료 간의 조합을 영리하게 풀었다’고 설명한다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">새로운 스타일의 아시안 퀴진을 선보이고 싶다는 진취적인 그에게 어떻게 요리를 시작하게 되었냐 물으니 “처음엔 요리사를 할 생각이 없었다”는 의외의 대답이 나왔다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 생계를 위한 요리에서 자아실현을 위한 요리로</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">처음부터 요리사를 원한 건 아니었다. 보디빌딩 선수를 준비했으나 허리를 다쳐 진로를 틀어야 했고,&nbsp;고등학생 때&nbsp;친구를 따라 들른 요리학교 유학 설명회가 계기였다. “상담만 받아도 공짜로 밥 먹을 수 있다는 친구의 꼬임에 속아서 갔어요. 근데 그 설명회가 제 요리사로서의 첫 시작이 될 줄은 당시에는 상상도 못 했죠.” 그가 진학한 곳은 일본에서 가장 오래된 요리학교, 핫토리 영양 전문학교다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">20대 초반의 나이에 학업과 생계를 짊어져야 한다는 것은 벅찬 일이었다. 신문 배달과 초밥집 막내를 전전하며 졸업할 수 있는 출석 일수를 겨우 맞췄다. 입에 풀칠하느라 3년 동안 배운 것이라곤 어깨너머로 배운 초밥 잡는 법이 전부였다. 그래도 이 요리를 포기하지 않았던 건 “한국에 돌아가게 되더라도 이 기술만 있으면 굶어 죽지 않겠다”는 기대가 있었기 때문이다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">일본에서의 3년 유학 생활을 마치고 돌아온 그는 조선호텔 조리부에 입사했다. 한국의 일식은 그가 배운 것과 조금 달랐다. 일본 현지의 방식이 아닌 한국식 일식이라는 조금 변형된 형태로 일해야 했다. 처음부터 배운다는 생각으로 다시 시작하는 수고로움은 당연히 감당해야 할 부분이라 생각했다. 하지만 새로운 요리를 배울 기회가 적고, 주방 밖에서 얻을 수 있는 자극이 없는, 쳇바퀴 같은 생활은 성에 차지 않았다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“당시에는 새로운 요리를 접할 기회도 적었고, 새로운 요리를 배우려면 뭐부터 시작해야 할지도 모르던 시절이었어요. 그래서 수입 원서가 있는 대형서점을 가끔 찾아갔는데, 거기서 그 책을 본 거죠.” 지금도 요리가 막힐 때면 가끔 꺼내 읽는다는 아키라 백 셰프의 책이었다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“일식 요리사, 운동을 하다가 늦은 나이에 요리를 시작했다는 점이 저랑 비슷하다고 생각했습니다.” 최신근 셰프는 그 자리에 서서 두 시간 동안 한 발짝도 움직이지 않고 책을 다 읽었다고 한다.&nbsp;한국에서 안정적으로 요리를 계속할지, 틀을 깨고 나가 새로운 도전을 해야 할지 선택해야 했던 그는 돌파구를 찾은 느낌이 들었을 것이다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-medium wp-image-11821 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7781-660x440.jpg" alt="IMG_7781" width="660" height="440" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7781-660x440.jpg 660w, http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7781-768x512.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7781.jpg 800w" sizes="(max-width: 660px) 100vw, 660px" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 무작정 달려들어 얻어낸 일식의 새로운 패러다임</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">책에 쓰여 있는 이메일 주소로 이메일을 보냈다. 열흘 만에 받은 답변에는 ‘열심히 해라. 응원한다’는 식의 상투적인 내용만 적혀있었다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“당시 호텔을 나와서 대기업에서 일하던 중이었는데 한 달 만에 사표 쓰고 미국행 비행기 표를 샀어요. 가서 부딪혀보자. 아무것도 모르고 그냥 갔어요. 미국에서 일하려면 워크퍼밋(<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">EAD&nbsp;</em>: 미국에 일시 거주 중인&nbsp;외국인에게 주는 근로 허가증)이 필요하다는 것조차 몰랐어요.”</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">그가 옐로 테일<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Yellow Tail</em></span>에 처음 찾아간 날은 새해 첫날이었다. 라스베이거스의 유명 호텔 벨라지오 내에 있는 레스토랑답게 홀에는 신년을 축하하는 사람들로 가득했다. 최신근 셰프는 겨우 바에 자리를 잡았다. 좁은 바 테이블에 앉아 셰프 테이스팅 메뉴를 주문했다. 혼자 온 동양인이 16만 원의 코스 요리를 시키자 주변 사람들은 쳐다보며 수군댔다. 개의치 않았다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“음식을 가지고 오는 서버에게 셰프를 만나러 왔다고 말했고, 잠시 후 셰프가 나오더라고요. 저는 만나자마자 여기서 일하고 싶다고. 어떻게 하면 되냐고 다짜고짜 물었어요.”</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">어떻게든 미국땅에서 요리를 해보고 싶었다. 한국으로 돌아가더라도 이미 직장을 제 발로 나왔고, 그렇지 않아도 수중에 돌아갈 비행기 표를 살 돈도 없었다. 여차해서 주방일을 구하지 못하면 들고 간 200만 원어치 칼 가방이라도 팔아 다른 직업을 알아볼 각오마저 했다고 한다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">다행히도 아키라 백 셰프 아래에서 무급 스타지 기회를 얻었고,&nbsp;2013년에는 태국에 있는 W 리조트 꼬사무이<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Retreat Koh Samui</em></span>에 &nbsp;주방장<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Chef de Cuisine</em></span>까지 맡게 되었으니 무턱대고 떠났던 것 치고는 결과가 나쁘지 않아 보인다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-medium wp-image-11834 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/12241785_953885511352658_4530854533451556856_n-500x500.jpg" alt="12241785_953885511352658_4530854533451556856_n" width="500" height="500" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/12241785_953885511352658_4530854533451556856_n-500x500.jpg 500w, http://chefnews.kr/wp/wp-content/uploads/2016/04/12241785_953885511352658_4530854533451556856_n-150x150.jpg 150w, http://chefnews.kr/wp/wp-content/uploads/2016/04/12241785_953885511352658_4530854533451556856_n.jpg 526w" sizes="(max-width: 500px) 100vw, 500px" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">| 앞으로도 한국보다는 해외에서 더 활동할 것</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">이젠 한국으로 돌아오기엔 현지인들에게 너무 큰 사랑을 받고 있다. 곧 말레이시아 쿠알라룸푸르에 새로 오픈할 레스토랑 준비에 한창이라며 사진을 보내왔다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-medium wp-image-11833 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/12832444_1537752246555544_7070295368104368073_n-489x500.jpg" alt="12832444_1537752246555544_7070295368104368073_n" width="489" height="500" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/12832444_1537752246555544_7070295368104368073_n-489x500.jpg 489w, http://chefnews.kr/wp/wp-content/uploads/2016/04/12832444_1537752246555544_7070295368104368073_n-768x786.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/12832444_1537752246555544_7070295368104368073_n.jpg 938w" sizes="(max-width: 489px) 100vw, 489px" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">요리사라면 으레 음식을 만드는 종업원으로 여겨지는데 온 벽과 대문에 사진을 도배해놓으니 어색한 느낌이 든다. 스타덤으로 레스토랑을 홍보하기 위한 것이라고 해석하려 해도 과하다는 느낌을 지우기 힘들었다. 하지만 ‘레스토랑과 셰프, 어느 정도의 역할 구분이 필요하진 않을까?’라고 생각했던 고정관념은 최신근 셰프를 만나면서 깨어지게 되었다. 레스토랑이 곧 셰프고, 셰프가 곧 레스토랑이고, 손님의 입장에선 전혀 구분이 없다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">주야장천 요리만 하느라 손님은 내다보지 못하는 요리사가 싫어 해외로 발길을 돌렸던 그는, 새로 오픈하는 레스토랑의 총 책임자를 넘어 한 레스토랑의 정체성 그 자체가 되어 있는 듯하다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-full wp-image-11820 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7791.jpg" alt="IMG_7791" width="600" height="900" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7791.jpg 600w, http://chefnews.kr/wp/wp-content/uploads/2016/04/IMG_7791-333x500.jpg 333w" sizes="(max-width: 600px) 100vw, 600px" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">매사에 거침없이 결정하고 자신감 넘쳐 보이는 최신근 셰프. 요리가 무엇인지도 모르는 상태로 요리를 시작했고, 자신이 추구하는 이상적인 요리가 있었다기보다는 생계를 유지하기 위한 방도를 찾기 위해 해외로 나간 셈이다. 3년 유학생활을 마치고 한국으로 돌아왔을 때도, 호텔을 나와 미국으로 갔을 때도, 미국에서 다시 태국으로 옮길 때도 겁이 나지 않았던 적은 없었다고 솔직히 말한다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“우리가 알고 있는 유명한 셰프들도 다 이런 공포를 경험했고, 고생도 말로 못 할 정도로 했을 거에요. 앞으로 요리하는 학생들이 새로운 도전을 앞두고 겁이 날 때는 이 점을 기억했으면 좋겠어요. 잘 모르니 두려울 수밖에 없죠. 근데 그걸 이겨내야 도전인 거에요.”</p><p style="font-size: 14px;">· 셰프뉴스에서 보기 : http://chefnews.kr/archives/11817</p><p></p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1817"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1777"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="1782">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','225');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/225?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','225');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/02/2f91c105fd9cb6f785d92e1e021d2e611.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','222');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/222?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','222');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/19/90e70f656669ea35b11e894d148374511.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>355</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,135</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,261</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,229,725,894</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>

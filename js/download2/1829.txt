@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="훌륭한 레스토랑이 되기 위해서는 몇 가지의 조건이 충족되어야 한다. 홀을 책임지는 날렵하고 매력적인 서버, 노련하게 손님을 응대할 수 있는 매니저, 고된 환경 속에서도 훌륭한 음식으로 식당의 정체성을 보여주는 요리사들까지.아마 주방에서 일해보지 않은 사람이라면 “주말 저녁은 정말 바빠”라는 말을 온전히 이해하지 못할 것이다. 끊이지 않는 자존심 싸움, 암호와 같은 주방 사투리들, 피보다 진한 동료애도 마찬가지다. 주방의 상황을 알지 못하는 사람들에겐 “요리사들은 대개 월요일 저녁에야 시간을 낼 수 있다”는 것도 매번 설명해줘야 한다.주변에 그런 답답한 사람이 있다면, 이 글의 주소(http://chefnews.kr/archives/12065)를 복사해서 전달해주자. 1. 요리사에게는 팁이 돌아가지 않는다.(업장에 따라 다르지만) 대개 홀에서 받은 팁을 주방 직원들과 나눠 가지라고 강요하는 것은 업계의 금칙이다. 그래서 주방 직원이 홀 직원보다 보통 적은 임금을 얻게 된다.2. “모임이 토요일 저녁이라고? 미안해. 난 불참이야”“금요일도 마찬가지야. 하지만 월요일은 될 것 같은데?”여러분들의 불금과 불토는 요리사 없이 존재할 수 없습니다.source : thrillist.com3. (정신적+육체적)×고통대부분의 직업은 정신적으로 힘들거나, 육체적으로 힘들거나, 둘 중 하나에 해당할 것이다. 요리사는 이 두 가지 고통을 한 번에 겪는다. 요리사의 진로 이탈률이 높은 이유 중 하나다.4. “죽었어요? 감옥에 갔나요? 병원에 있어요? 세 가지에 해당하지 않는데 왜 출근을 안 하죠?”이외에는 어떤 변명도 결근 사유가 될 수 없다. 요리사도 가끔 아픈 날이 있고, 숙취가 있는 날도 있고, 가족행사가 있는 날도 있다. 여느 사람들과 마찬가지로 사랑하는 연인에게 이별통보를 받고 슬픔에 잠길 때도 있다. 하지만 고용주는 당신이 출근하길 원한다. 당신이 없으면 주방이 돌아가지 않는다.5. 상처를 달고 산다.찔리고, 베이고, 데이고. 늘어나는 상처와 함께 손의 감각도 점점 무뎌져 간다.source : heavytable.com6. 말을 많이 하는 것은 의무다.말을 정말 많이 해야 한다. 불필요하다는 생각이 들더라도 계속 말해야 한다.“조심하세요”, “지나갑니다”, “뜨겁습니다” “coner”, “behind”, “sharp”, “beside”, “hot”자신의 위치를 알리거나 위험 상황을 대처할 수 있는 말은 더욱 많이 해야 한다.7. “야~ 식당 차리면 대박 나겠는데?”라는 말은 절대 믿으면 안 된다.친구나 가족들이 식당을 오픈하라고 부추기더라도 절대 해선 안 된다. 그들은 맛있다는 표현을 과장되게 한 것일 뿐이다. 식당을 경영하는 것, 이윤을 남길 수 있는 음식을 하는 것은 단순히 요리 실력만 있다고 해서 되는 일이 아니다.8. 쉴 새 없이 10시간 동안 서 있어야 한다.당연히 모든 작업을 서서 한다. 고생스럽겠다고? 고생스럽다고? 냉동고가 고장난 날, 검열 오는 날, 동료가 손가락 잘라 먹은 날에 비하면 가만히 서서 일할 수 있는 날은 운이 좋은 편이다.9. 덕을 베풀면 보답 받게 될 것이다.조리복을 입지 않은 사람은 주방에 존재하지 않는 사람마냥 대우받는다. 그들에게도 친절함을 베풀면 어떤 방식으로든 그 보답이 돌아오기 마련이다.10. 쉴 시간이 있으면 청소할 시간도 있다.식당, 주방, 동료 이 3박자가 프로페셔널함을 갖출수록 내가 할 일은 많아진다.11. “YES” or “NO”커뮤니케이션은 명확하게. 크고 명료한 목소리를 낼 것.12. 긴박감과 정밀함금융회사에 다니는 김아무개씨는 제한된 시간까지 보고서를 작성하지 못했다. 어떤 일이 벌어지는가? 그는 혼자 야근을 하게 된다.주방에서 일하는 박아무개씨가 제한된 시간까지 생선손질을 마치지 못했다. 어떤 일이 벌어지는가? 주방은 멈춘다.source : culinationmagazine.com13. 휴일은 여가를 위한 날이 아니다.세탁하는 날이다.14. 온종일 음식을 만들지만, 셰프는 그걸 먹지 않는다.대부분 요리사는 3살 배기 꼬마처럼 먹는다. 수십 접시를 간 보고 나면 식욕이 싹 가시는 경우가 허다하다. 설사 식욕이 생기더라도 음식을 만들어 먹기보단 남아 있는 음식을 대충 먹기를 택한다.source : thrillist.com15. 적은 양을 요리하는 게 더 힘들다.수백 명의 음식을 요리하던 요리사는 한두 명이 먹는 음식을 만드는 게 오히려 힘들다.16. 서비스시간 전에 98%의 준비를 마쳐 놓는다.저녁식사 시간을 위해 온종일 식재료를 준비했다. 완벽히 준비를 마친 주방에 요구 사항이 요란한 스페셜 오더가 들어온다면 지난 6시간 동안 준비한 리듬은 모두 깨지고 만다.17. 리뷰는 다 챙겨본다.대부분 요리사는 자아도취에 빠져있다. 그런 요리사에게 정신적으로 가장 큰 타격을 줄 수 있는 방법은 악플을 남기는 것이다.18. 처치곤란한 재료가 많다고 해서 꼭 스페셜 메뉴를 만들어야 하는 건 아니다.주방에선 종종 처치 곤란한 재료가 많으면 ‘셰프의 스페셜 메뉴’ 따위를 급조해서 처분하곤 한다. 굳이 이 방법이 아니더라도 스탭밀로 먹어도 되고, 새로운 메뉴 연습용으로 사용해도 된다.19. 메뉴는 주방시설에 의해 결정된다.주방은 좁은데 스테이크용 그릴이 너무 크다? 그렇다면 그릴 샐러드를 메뉴에 추가하는 게 좋은 아이디어가 될 것 같다. 식당의 메뉴는 주방 시설의 한계를 넘어설 순 없다.source : popsugar.com20. “돈 더 주는 데로 옮겨”라는 상식이 통하지 않는다.요리사들은 급여를 기준으로 직장을 선택하지 않는다.21. 기울어진 주방 바닥. 서있기만 해도 피로하다.배수가 잘되어야 하는 주방의 바닥은 하수구 쪽으로 경사져있다. 평소엔 눈치채지 못할 만큼이지만 이 구조가 알게 모르게 균형을 잡기 위한 에너지를 소비시킨다. 일을 마치고 집에 돌아왔을 때 마라톤을 뛴 것처럼 다리가 아프다.22. 이끌든지, 따르든지, 비키든지.일을 계속하는 게 힘들다는 생각이 들 때면, 내 인생을 위한 길이 정녕 이 길인지 생각해보라. 이도 저도 아닌 상태로 억지로 일을 하는 것은 스스로에게도, 동료에게도 도움되지 않는다.23. 범법자. 변태. 중독자.앤서니 보댕은 키친 컨피덴셜Kitchen Confidential에서 “주방이야말로 사회 부적응자의 마지막 보루”라고 말해 논란을 일으켰다. 그들이 신체적 위해를 가하거나 돈을 훔치지 않는 이상, 같이 일하는 것을 나쁘게 여길 필요는 없다.24. 개인적인 공간 따위는 없다.없다.25. 얼마나 뜨겁든 간에 절대 떨어뜨리면 안 된다.차라리 화상을 입는다.26. 라벨링 강박증기억력을 맹신하지 않는다.27. 홀 매니저가 마감 10분 전이라 괜찮다고 해도 들어와서 앉지 말자.주방은 이미 청소 중이다. (분노)source : multicraftpropaint.com28. 야구팀, 축구팀, 단체로 그냥 걸어들어오지 마라.도착하기 30분 전에 전화 한 통 ‘꼭’ 부탁한다.29. 야한 농담은 성추행이 아니다.그리고 경계선은 있다. 야한 농담의 대상이 되었다고 해서 존중받지 못했다거나 놀림당했다고 생각하지 않는다. 요리사에게 야한 농담은 동료애 쪽에 가깝다.30. 골리거나 조롱하거나긴장을 해소하는 방법으로 골리는 것과 조롱하는 것, 두 가지 방법이 있다. 이 둘은 별 차이가 없어 보이지만 요리사에겐 각각의 용도가 따로 있다. 요리사의 일과에서 매우 중요한 것 중 하나다.31. 정말 덥다.식당 주방뿐만 아니라 가정집 주방에서도 8시간 동안 쉬지 않고 요리하면 덥다.source : brandfusion.ca32. 원가 계산 좀 하지 말자.손님은 음식에만 가격을 지불하는 것이 아니다. 임대비, 인테리어비, 인건비, 각종 세금이 모두 포함된 가격이다. 셀프로 배식 받아 설거지까지 해주고 가는 신사분이 아니라면 “원가가 30%도 안 된다”는 식의 이야기를 하시면 안 된다.33. 요리사와 사랑에 빠지긴 쉽다. 데이트는 어렵다.근무시간은 길고 불규칙하다. 보통 자정이 넘어서 마친다. 퇴근하더라도 피곤하고 지쳐있을 것이다. 피로는 보통 술로 떨치는데, 이런 습관이 데이트할 수 있는 삶과 점점 멀어지게 만든다.">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>주방에서 일한 적 없는 사람에게 일일이 설명해야 하는 사실들</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1829" />
+<meta property="kakao:title" content="주방에서 일한 적 없는 사람에게 일일이 설명해야 하는 사실들" />
+<meta property="kakao:description" content="훌륭한 레스토랑이 되기 위해서는 몇 가지의 조건이 충족되어야 한다. 홀을 책임지는 날렵하고 매력적인 서버, 노련하게 손님을 응대할 수 있는 매니저, 고된 환경 속에서도 훌륭한 음식으로 식당의 정체성을 보여주는 요리사들까지.아마 주방에서 일해보지 않은 사람이라면 “주말 저녁은 정말 바빠”라는 말을 온전히 이해하지 못할 것이다. 끊이지 않는 자존심 싸움, 암호와 같은 주방 사투리들, 피보다 진한 동료애도 마찬가지다. 주방의 상황을 알지 못하는 사람들에겐 “요리사들은 대개 월요일 저녁에야 시간을 낼 수 있다”는 것도 매번 설명해줘야 한다.주변에 그런 답답한 사람이 있다면, 이 글의 주소(http://chefnews.kr/archives/12065)를 복사해서 전달해주자. 1. 요리사에게는 팁이 돌아가지 않는다.(업장에 따라 다르지만) 대개 홀에서 받은 팁을 주방 직원들과 나눠 가지라고 강요하는 것은 업계의 금칙이다. 그래서 주방 직원이 홀 직원보다 보통 적은 임금을 얻게 된다.2. “모임이 토요일 저녁이라고? 미안해. 난 불참이야”“금요일도 마찬가지야. 하지만 월요일은 될 것 같은데?”여러분들의 불금과 불토는 요리사 없이 존재할 수 없습니다.source : thrillist.com3. (정신적+육체적)×고통대부분의 직업은 정신적으로 힘들거나, 육체적으로 힘들거나, 둘 중 하나에 해당할 것이다. 요리사는 이 두 가지 고통을 한 번에 겪는다. 요리사의 진로 이탈률이 높은 이유 중 하나다.4. “죽었어요? 감옥에 갔나요? 병원에 있어요? 세 가지에 해당하지 않는데 왜 출근을 안 하죠?”이외에는 어떤 변명도 결근 사유가 될 수 없다. 요리사도 가끔 아픈 날이 있고, 숙취가 있는 날도 있고, 가족행사가 있는 날도 있다. 여느 사람들과 마찬가지로 사랑하는 연인에게 이별통보를 받고 슬픔에 잠길 때도 있다. 하지만 고용주는 당신이 출근하길 원한다. 당신이 없으면 주방이 돌아가지 않는다.5. 상처를 달고 산다.찔리고, 베이고, 데이고. 늘어나는 상처와 함께 손의 감각도 점점 무뎌져 간다.source : heavytable.com6. 말을 많이 하는 것은 의무다.말을 정말 많이 해야 한다. 불필요하다는 생각이 들더라도 계속 말해야 한다.“조심하세요”, “지나갑니다”, “뜨겁습니다” “coner”, “behind”, “sharp”, “beside”, “hot”자신의 위치를 알리거나 위험 상황을 대처할 수 있는 말은 더욱 많이 해야 한다.7. “야~ 식당 차리면 대박 나겠는데?”라는 말은 절대 믿으면 안 된다.친구나 가족들이 식당을 오픈하라고 부추기더라도 절대 해선 안 된다. 그들은 맛있다는 표현을 과장되게 한 것일 뿐이다. 식당을 경영하는 것, 이윤을 남길 수 있는 음식을 하는 것은 단순히 요리 실력만 있다고 해서 되는 일이 아니다.8. 쉴 새 없이 10시간 동안 서 있어야 한다.당연히 모든 작업을 서서 한다. 고생스럽겠다고? 고생스럽다고? 냉동고가 고장난 날, 검열 오는 날, 동료가 손가락 잘라 먹은 날에 비하면 가만히 서서 일할 수 있는 날은 운이 좋은 편이다.9. 덕을 베풀면 보답 받게 될 것이다.조리복을 입지 않은 사람은 주방에 존재하지 않는 사람마냥 대우받는다. 그들에게도 친절함을 베풀면 어떤 방식으로든 그 보답이 돌아오기 마련이다.10. 쉴 시간이 있으면 청소할 시간도 있다.식당, 주방, 동료 이 3박자가 프로페셔널함을 갖출수록 내가 할 일은 많아진다.11. “YES” or “NO”커뮤니케이션은 명확하게. 크고 명료한 목소리를 낼 것.12. 긴박감과 정밀함금융회사에 다니는 김아무개씨는 제한된 시간까지 보고서를 작성하지 못했다. 어떤 일이 벌어지는가? 그는 혼자 야근을 하게 된다.주방에서 일하는 박아무개씨가 제한된 시간까지 생선손질을 마치지 못했다. 어떤 일이 벌어지는가? 주방은 멈춘다.source : culinationmagazine.com13. 휴일은 여가를 위한 날이 아니다.세탁하는 날이다.14. 온종일 음식을 만들지만, 셰프는 그걸 먹지 않는다.대부분 요리사는 3살 배기 꼬마처럼 먹는다. 수십 접시를 간 보고 나면 식욕이 싹 가시는 경우가 허다하다. 설사 식욕이 생기더라도 음식을 만들어 먹기보단 남아 있는 음식을 대충 먹기를 택한다.source : thrillist.com15. 적은 양을 요리하는 게 더 힘들다.수백 명의 음식을 요리하던 요리사는 한두 명이 먹는 음식을 만드는 게 오히려 힘들다.16. 서비스시간 전에 98%의 준비를 마쳐 놓는다.저녁식사 시간을 위해 온종일 식재료를 준비했다. 완벽히 준비를 마친 주방에 요구 사항이 요란한 스페셜 오더가 들어온다면 지난 6시간 동안 준비한 리듬은 모두 깨지고 만다.17. 리뷰는 다 챙겨본다.대부분 요리사는 자아도취에 빠져있다. 그런 요리사에게 정신적으로 가장 큰 타격을 줄 수 있는 방법은 악플을 남기는 것이다.18. 처치곤란한 재료가 많다고 해서 꼭 스페셜 메뉴를 만들어야 하는 건 아니다.주방에선 종종 처치 곤란한 재료가 많으면 ‘셰프의 스페셜 메뉴’ 따위를 급조해서 처분하곤 한다. 굳이 이 방법이 아니더라도 스탭밀로 먹어도 되고, 새로운 메뉴 연습용으로 사용해도 된다.19. 메뉴는 주방시설에 의해 결정된다.주방은 좁은데 스테이크용 그릴이 너무 크다? 그렇다면 그릴 샐러드를 메뉴에 추가하는 게 좋은 아이디어가 될 것 같다. 식당의 메뉴는 주방 시설의 한계를 넘어설 순 없다.source : popsugar.com20. “돈 더 주는 데로 옮겨”라는 상식이 통하지 않는다.요리사들은 급여를 기준으로 직장을 선택하지 않는다.21. 기울어진 주방 바닥. 서있기만 해도 피로하다.배수가 잘되어야 하는 주방의 바닥은 하수구 쪽으로 경사져있다. 평소엔 눈치채지 못할 만큼이지만 이 구조가 알게 모르게 균형을 잡기 위한 에너지를 소비시킨다. 일을 마치고 집에 돌아왔을 때 마라톤을 뛴 것처럼 다리가 아프다.22. 이끌든지, 따르든지, 비키든지.일을 계속하는 게 힘들다는 생각이 들 때면, 내 인생을 위한 길이 정녕 이 길인지 생각해보라. 이도 저도 아닌 상태로 억지로 일을 하는 것은 스스로에게도, 동료에게도 도움되지 않는다.23. 범법자. 변태. 중독자.앤서니 보댕은 키친 컨피덴셜Kitchen Confidential에서 “주방이야말로 사회 부적응자의 마지막 보루”라고 말해 논란을 일으켰다. 그들이 신체적 위해를 가하거나 돈을 훔치지 않는 이상, 같이 일하는 것을 나쁘게 여길 필요는 없다.24. 개인적인 공간 따위는 없다.없다.25. 얼마나 뜨겁든 간에 절대 떨어뜨리면 안 된다.차라리 화상을 입는다.26. 라벨링 강박증기억력을 맹신하지 않는다.27. 홀 매니저가 마감 10분 전이라 괜찮다고 해도 들어와서 앉지 말자.주방은 이미 청소 중이다. (분노)source : multicraftpropaint.com28. 야구팀, 축구팀, 단체로 그냥 걸어들어오지 마라.도착하기 30분 전에 전화 한 통 ‘꼭’ 부탁한다.29. 야한 농담은 성추행이 아니다.그리고 경계선은 있다. 야한 농담의 대상이 되었다고 해서 존중받지 못했다거나 놀림당했다고 생각하지 않는다. 요리사에게 야한 농담은 동료애 쪽에 가깝다.30. 골리거나 조롱하거나긴장을 해소하는 방법으로 골리는 것과 조롱하는 것, 두 가지 방법이 있다. 이 둘은 별 차이가 없어 보이지만 요리사에겐 각각의 용도가 따로 있다. 요리사의 일과에서 매우 중요한 것 중 하나다.31. 정말 덥다.식당 주방뿐만 아니라 가정집 주방에서도 8시간 동안 쉬지 않고 요리하면 덥다.source : brandfusion.ca32. 원가 계산 좀 하지 말자.손님은 음식에만 가격을 지불하는 것이 아니다. 임대비, 인테리어비, 인건비, 각종 세금이 모두 포함된 가격이다. 셀프로 배식 받아 설거지까지 해주고 가는 신사분이 아니라면 “원가가 30%도 안 된다”는 식의 이야기를 하시면 안 된다.33. 요리사와 사랑에 빠지긴 쉽다. 데이트는 어렵다.근무시간은 길고 불규칙하다. 보통 자정이 넘어서 마친다. 퇴근하더라도 피곤하고 지쳐있을 것이다. 피로는 보통 술로 떨치는데, 이런 습관이 데이트할 수 있는 삶과 점점 멀어지게 만든다." />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1829" />
+<meta property="og:title" content="주방에서 일한 적 없는 사람에게 일일이 설명해야 하는 사실들" />
+<meta property="og:image" content="http://recipe1.ezmember.co.kr/cache/bbs/2016/07/20/c67ffcd8c1a34d8d36d3c76da701e5f1.jpg" />
+<meta property="og:description" content="훌륭한 레스토랑이 되기 위해서는 몇 가지의 조건이 충족되어야 한다. 홀을 책임지는 날렵하고 매력적인 서버, 노련하게 손님을 응대할 수 있는 매니저, 고된 환경 속에서도 훌륭한 음식으로 식당의 정체성을 보여주는 요리사들까지.아마 주방에서 일해보지 않은 사람이라면 “주말 저녁은 정말 바빠”라는 말을 온전히 이해하지 못할 것이다. 끊이지 않는 자존심 싸움, 암호와 같은 주방 사투리들, 피보다 진한 동료애도 마찬가지다. 주방의 상황을 알지 못하는 사람들에겐 “요리사들은 대개 월요일 저녁에야 시간을 낼 수 있다”는 것도 매번 설명해줘야 한다.주변에 그런 답답한 사람이 있다면, 이 글의 주소(http://chefnews.kr/archives/12065)를 복사해서 전달해주자. 1. 요리사에게는 팁이 돌아가지 않는다.(업장에 따라 다르지만) 대개 홀에서 받은 팁을 주방 직원들과 나눠 가지라고 강요하는 것은 업계의 금칙이다. 그래서 주방 직원이 홀 직원보다 보통 적은 임금을 얻게 된다.2. “모임이 토요일 저녁이라고? 미안해. 난 불참이야”“금요일도 마찬가지야. 하지만 월요일은 될 것 같은데?”여러분들의 불금과 불토는 요리사 없이 존재할 수 없습니다.source : thrillist.com3. (정신적+육체적)×고통대부분의 직업은 정신적으로 힘들거나, 육체적으로 힘들거나, 둘 중 하나에 해당할 것이다. 요리사는 이 두 가지 고통을 한 번에 겪는다. 요리사의 진로 이탈률이 높은 이유 중 하나다.4. “죽었어요? 감옥에 갔나요? 병원에 있어요? 세 가지에 해당하지 않는데 왜 출근을 안 하죠?”이외에는 어떤 변명도 결근 사유가 될 수 없다. 요리사도 가끔 아픈 날이 있고, 숙취가 있는 날도 있고, 가족행사가 있는 날도 있다. 여느 사람들과 마찬가지로 사랑하는 연인에게 이별통보를 받고 슬픔에 잠길 때도 있다. 하지만 고용주는 당신이 출근하길 원한다. 당신이 없으면 주방이 돌아가지 않는다.5. 상처를 달고 산다.찔리고, 베이고, 데이고. 늘어나는 상처와 함께 손의 감각도 점점 무뎌져 간다.source : heavytable.com6. 말을 많이 하는 것은 의무다.말을 정말 많이 해야 한다. 불필요하다는 생각이 들더라도 계속 말해야 한다.“조심하세요”, “지나갑니다”, “뜨겁습니다” “coner”, “behind”, “sharp”, “beside”, “hot”자신의 위치를 알리거나 위험 상황을 대처할 수 있는 말은 더욱 많이 해야 한다.7. “야~ 식당 차리면 대박 나겠는데?”라는 말은 절대 믿으면 안 된다.친구나 가족들이 식당을 오픈하라고 부추기더라도 절대 해선 안 된다. 그들은 맛있다는 표현을 과장되게 한 것일 뿐이다. 식당을 경영하는 것, 이윤을 남길 수 있는 음식을 하는 것은 단순히 요리 실력만 있다고 해서 되는 일이 아니다.8. 쉴 새 없이 10시간 동안 서 있어야 한다.당연히 모든 작업을 서서 한다. 고생스럽겠다고? 고생스럽다고? 냉동고가 고장난 날, 검열 오는 날, 동료가 손가락 잘라 먹은 날에 비하면 가만히 서서 일할 수 있는 날은 운이 좋은 편이다.9. 덕을 베풀면 보답 받게 될 것이다.조리복을 입지 않은 사람은 주방에 존재하지 않는 사람마냥 대우받는다. 그들에게도 친절함을 베풀면 어떤 방식으로든 그 보답이 돌아오기 마련이다.10. 쉴 시간이 있으면 청소할 시간도 있다.식당, 주방, 동료 이 3박자가 프로페셔널함을 갖출수록 내가 할 일은 많아진다.11. “YES” or “NO”커뮤니케이션은 명확하게. 크고 명료한 목소리를 낼 것.12. 긴박감과 정밀함금융회사에 다니는 김아무개씨는 제한된 시간까지 보고서를 작성하지 못했다. 어떤 일이 벌어지는가? 그는 혼자 야근을 하게 된다.주방에서 일하는 박아무개씨가 제한된 시간까지 생선손질을 마치지 못했다. 어떤 일이 벌어지는가? 주방은 멈춘다.source : culinationmagazine.com13. 휴일은 여가를 위한 날이 아니다.세탁하는 날이다.14. 온종일 음식을 만들지만, 셰프는 그걸 먹지 않는다.대부분 요리사는 3살 배기 꼬마처럼 먹는다. 수십 접시를 간 보고 나면 식욕이 싹 가시는 경우가 허다하다. 설사 식욕이 생기더라도 음식을 만들어 먹기보단 남아 있는 음식을 대충 먹기를 택한다.source : thrillist.com15. 적은 양을 요리하는 게 더 힘들다.수백 명의 음식을 요리하던 요리사는 한두 명이 먹는 음식을 만드는 게 오히려 힘들다.16. 서비스시간 전에 98%의 준비를 마쳐 놓는다.저녁식사 시간을 위해 온종일 식재료를 준비했다. 완벽히 준비를 마친 주방에 요구 사항이 요란한 스페셜 오더가 들어온다면 지난 6시간 동안 준비한 리듬은 모두 깨지고 만다.17. 리뷰는 다 챙겨본다.대부분 요리사는 자아도취에 빠져있다. 그런 요리사에게 정신적으로 가장 큰 타격을 줄 수 있는 방법은 악플을 남기는 것이다.18. 처치곤란한 재료가 많다고 해서 꼭 스페셜 메뉴를 만들어야 하는 건 아니다.주방에선 종종 처치 곤란한 재료가 많으면 ‘셰프의 스페셜 메뉴’ 따위를 급조해서 처분하곤 한다. 굳이 이 방법이 아니더라도 스탭밀로 먹어도 되고, 새로운 메뉴 연습용으로 사용해도 된다.19. 메뉴는 주방시설에 의해 결정된다.주방은 좁은데 스테이크용 그릴이 너무 크다? 그렇다면 그릴 샐러드를 메뉴에 추가하는 게 좋은 아이디어가 될 것 같다. 식당의 메뉴는 주방 시설의 한계를 넘어설 순 없다.source : popsugar.com20. “돈 더 주는 데로 옮겨”라는 상식이 통하지 않는다.요리사들은 급여를 기준으로 직장을 선택하지 않는다.21. 기울어진 주방 바닥. 서있기만 해도 피로하다.배수가 잘되어야 하는 주방의 바닥은 하수구 쪽으로 경사져있다. 평소엔 눈치채지 못할 만큼이지만 이 구조가 알게 모르게 균형을 잡기 위한 에너지를 소비시킨다. 일을 마치고 집에 돌아왔을 때 마라톤을 뛴 것처럼 다리가 아프다.22. 이끌든지, 따르든지, 비키든지.일을 계속하는 게 힘들다는 생각이 들 때면, 내 인생을 위한 길이 정녕 이 길인지 생각해보라. 이도 저도 아닌 상태로 억지로 일을 하는 것은 스스로에게도, 동료에게도 도움되지 않는다.23. 범법자. 변태. 중독자.앤서니 보댕은 키친 컨피덴셜Kitchen Confidential에서 “주방이야말로 사회 부적응자의 마지막 보루”라고 말해 논란을 일으켰다. 그들이 신체적 위해를 가하거나 돈을 훔치지 않는 이상, 같이 일하는 것을 나쁘게 여길 필요는 없다.24. 개인적인 공간 따위는 없다.없다.25. 얼마나 뜨겁든 간에 절대 떨어뜨리면 안 된다.차라리 화상을 입는다.26. 라벨링 강박증기억력을 맹신하지 않는다.27. 홀 매니저가 마감 10분 전이라 괜찮다고 해도 들어와서 앉지 말자.주방은 이미 청소 중이다. (분노)source : multicraftpropaint.com28. 야구팀, 축구팀, 단체로 그냥 걸어들어오지 마라.도착하기 30분 전에 전화 한 통 ‘꼭’ 부탁한다.29. 야한 농담은 성추행이 아니다.그리고 경계선은 있다. 야한 농담의 대상이 되었다고 해서 존중받지 못했다거나 놀림당했다고 생각하지 않는다. 요리사에게 야한 농담은 동료애 쪽에 가깝다.30. 골리거나 조롱하거나긴장을 해소하는 방법으로 골리는 것과 조롱하는 것, 두 가지 방법이 있다. 이 둘은 별 차이가 없어 보이지만 요리사에겐 각각의 용도가 따로 있다. 요리사의 일과에서 매우 중요한 것 중 하나다.31. 정말 덥다.식당 주방뿐만 아니라 가정집 주방에서도 8시간 동안 쉬지 않고 요리하면 덥다.source : brandfusion.ca32. 원가 계산 좀 하지 말자.손님은 음식에만 가격을 지불하는 것이 아니다. 임대비, 인테리어비, 인건비, 각종 세금이 모두 포함된 가격이다. 셀프로 배식 받아 설거지까지 해주고 가는 신사분이 아니라면 “원가가 30%도 안 된다”는 식의 이야기를 하시면 안 된다.33. 요리사와 사랑에 빠지긴 쉽다. 데이트는 어렵다.근무시간은 길고 불규칙하다. 보통 자정이 넘어서 마친다. 퇴근하더라도 피곤하고 지쳐있을 것이다. 피로는 보통 술로 떨치는데, 이런 습관이 데이트할 수 있는 삶과 점점 멀어지게 만든다." />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="주방에서 일한 적 없는 사람에게 일일이 설명해야 하는 사실들" />
+<meta name="twitter:description" content="훌륭한 레스토랑이 되기 위해서는 몇 가지의 조건이 충족되어야 한다. 홀을 책임지는 날렵하고 매력적인 서버, 노련하게 손님을 응대할 수 있는 매니저, 고된 환경 속에서도 훌륭한 음식으로 식당의 정체성을 보여주는 요리사들까지.아마 주방에서 일해보지 않은 사람이라면 “주말 저녁은 정말 바빠”라는 말을 온전히 이해하지 못할 것이다. 끊이지 않는 자존심 싸움, 암호와 같은 주방 사투리들, 피보다 진한 동료애도 마찬가지다. 주방의 상황을 알지 못하는 사람들에겐 “요리사들은 대개 월요일 저녁에야 시간을 낼 수 있다”는 것도 매번 설명해줘야 한다.주변에 그런 답답한 사람이 있다면, 이 글의 주소(http://chefnews.kr/archives/12065)를 복사해서 전달해주자. 1. 요리사에게는 팁이 돌아가지 않는다.(업장에 따라 다르지만) 대개 홀에서 받은 팁을 주방 직원들과 나눠 가지라고 강요하는 것은 업계의 금칙이다. 그래서 주방 직원이 홀 직원보다 보통 적은 임금을 얻게 된다.2. “모임이 토요일 저녁이라고? 미안해. 난 불참이야”“금요일도 마찬가지야. 하지만 월요일은 될 것 같은데?”여러분들의 불금과 불토는 요리사 없이 존재할 수 없습니다.source : thrillist.com3. (정신적+육체적)×고통대부분의 직업은 정신적으로 힘들거나, 육체적으로 힘들거나, 둘 중 하나에 해당할 것이다. 요리사는 이 두 가지 고통을 한 번에 겪는다. 요리사의 진로 이탈률이 높은 이유 중 하나다.4. “죽었어요? 감옥에 갔나요? 병원에 있어요? 세 가지에 해당하지 않는데 왜 출근을 안 하죠?”이외에는 어떤 변명도 결근 사유가 될 수 없다. 요리사도 가끔 아픈 날이 있고, 숙취가 있는 날도 있고, 가족행사가 있는 날도 있다. 여느 사람들과 마찬가지로 사랑하는 연인에게 이별통보를 받고 슬픔에 잠길 때도 있다. 하지만 고용주는 당신이 출근하길 원한다. 당신이 없으면 주방이 돌아가지 않는다.5. 상처를 달고 산다.찔리고, 베이고, 데이고. 늘어나는 상처와 함께 손의 감각도 점점 무뎌져 간다.source : heavytable.com6. 말을 많이 하는 것은 의무다.말을 정말 많이 해야 한다. 불필요하다는 생각이 들더라도 계속 말해야 한다.“조심하세요”, “지나갑니다”, “뜨겁습니다” “coner”, “behind”, “sharp”, “beside”, “hot”자신의 위치를 알리거나 위험 상황을 대처할 수 있는 말은 더욱 많이 해야 한다.7. “야~ 식당 차리면 대박 나겠는데?”라는 말은 절대 믿으면 안 된다.친구나 가족들이 식당을 오픈하라고 부추기더라도 절대 해선 안 된다. 그들은 맛있다는 표현을 과장되게 한 것일 뿐이다. 식당을 경영하는 것, 이윤을 남길 수 있는 음식을 하는 것은 단순히 요리 실력만 있다고 해서 되는 일이 아니다.8. 쉴 새 없이 10시간 동안 서 있어야 한다.당연히 모든 작업을 서서 한다. 고생스럽겠다고? 고생스럽다고? 냉동고가 고장난 날, 검열 오는 날, 동료가 손가락 잘라 먹은 날에 비하면 가만히 서서 일할 수 있는 날은 운이 좋은 편이다.9. 덕을 베풀면 보답 받게 될 것이다.조리복을 입지 않은 사람은 주방에 존재하지 않는 사람마냥 대우받는다. 그들에게도 친절함을 베풀면 어떤 방식으로든 그 보답이 돌아오기 마련이다.10. 쉴 시간이 있으면 청소할 시간도 있다.식당, 주방, 동료 이 3박자가 프로페셔널함을 갖출수록 내가 할 일은 많아진다.11. “YES” or “NO”커뮤니케이션은 명확하게. 크고 명료한 목소리를 낼 것.12. 긴박감과 정밀함금융회사에 다니는 김아무개씨는 제한된 시간까지 보고서를 작성하지 못했다. 어떤 일이 벌어지는가? 그는 혼자 야근을 하게 된다.주방에서 일하는 박아무개씨가 제한된 시간까지 생선손질을 마치지 못했다. 어떤 일이 벌어지는가? 주방은 멈춘다.source : culinationmagazine.com13. 휴일은 여가를 위한 날이 아니다.세탁하는 날이다.14. 온종일 음식을 만들지만, 셰프는 그걸 먹지 않는다.대부분 요리사는 3살 배기 꼬마처럼 먹는다. 수십 접시를 간 보고 나면 식욕이 싹 가시는 경우가 허다하다. 설사 식욕이 생기더라도 음식을 만들어 먹기보단 남아 있는 음식을 대충 먹기를 택한다.source : thrillist.com15. 적은 양을 요리하는 게 더 힘들다.수백 명의 음식을 요리하던 요리사는 한두 명이 먹는 음식을 만드는 게 오히려 힘들다.16. 서비스시간 전에 98%의 준비를 마쳐 놓는다.저녁식사 시간을 위해 온종일 식재료를 준비했다. 완벽히 준비를 마친 주방에 요구 사항이 요란한 스페셜 오더가 들어온다면 지난 6시간 동안 준비한 리듬은 모두 깨지고 만다.17. 리뷰는 다 챙겨본다.대부분 요리사는 자아도취에 빠져있다. 그런 요리사에게 정신적으로 가장 큰 타격을 줄 수 있는 방법은 악플을 남기는 것이다.18. 처치곤란한 재료가 많다고 해서 꼭 스페셜 메뉴를 만들어야 하는 건 아니다.주방에선 종종 처치 곤란한 재료가 많으면 ‘셰프의 스페셜 메뉴’ 따위를 급조해서 처분하곤 한다. 굳이 이 방법이 아니더라도 스탭밀로 먹어도 되고, 새로운 메뉴 연습용으로 사용해도 된다.19. 메뉴는 주방시설에 의해 결정된다.주방은 좁은데 스테이크용 그릴이 너무 크다? 그렇다면 그릴 샐러드를 메뉴에 추가하는 게 좋은 아이디어가 될 것 같다. 식당의 메뉴는 주방 시설의 한계를 넘어설 순 없다.source : popsugar.com20. “돈 더 주는 데로 옮겨”라는 상식이 통하지 않는다.요리사들은 급여를 기준으로 직장을 선택하지 않는다.21. 기울어진 주방 바닥. 서있기만 해도 피로하다.배수가 잘되어야 하는 주방의 바닥은 하수구 쪽으로 경사져있다. 평소엔 눈치채지 못할 만큼이지만 이 구조가 알게 모르게 균형을 잡기 위한 에너지를 소비시킨다. 일을 마치고 집에 돌아왔을 때 마라톤을 뛴 것처럼 다리가 아프다.22. 이끌든지, 따르든지, 비키든지.일을 계속하는 게 힘들다는 생각이 들 때면, 내 인생을 위한 길이 정녕 이 길인지 생각해보라. 이도 저도 아닌 상태로 억지로 일을 하는 것은 스스로에게도, 동료에게도 도움되지 않는다.23. 범법자. 변태. 중독자.앤서니 보댕은 키친 컨피덴셜Kitchen Confidential에서 “주방이야말로 사회 부적응자의 마지막 보루”라고 말해 논란을 일으켰다. 그들이 신체적 위해를 가하거나 돈을 훔치지 않는 이상, 같이 일하는 것을 나쁘게 여길 필요는 없다.24. 개인적인 공간 따위는 없다.없다.25. 얼마나 뜨겁든 간에 절대 떨어뜨리면 안 된다.차라리 화상을 입는다.26. 라벨링 강박증기억력을 맹신하지 않는다.27. 홀 매니저가 마감 10분 전이라 괜찮다고 해도 들어와서 앉지 말자.주방은 이미 청소 중이다. (분노)source : multicraftpropaint.com28. 야구팀, 축구팀, 단체로 그냥 걸어들어오지 마라.도착하기 30분 전에 전화 한 통 ‘꼭’ 부탁한다.29. 야한 농담은 성추행이 아니다.그리고 경계선은 있다. 야한 농담의 대상이 되었다고 해서 존중받지 못했다거나 놀림당했다고 생각하지 않는다. 요리사에게 야한 농담은 동료애 쪽에 가깝다.30. 골리거나 조롱하거나긴장을 해소하는 방법으로 골리는 것과 조롱하는 것, 두 가지 방법이 있다. 이 둘은 별 차이가 없어 보이지만 요리사에겐 각각의 용도가 따로 있다. 요리사의 일과에서 매우 중요한 것 중 하나다.31. 정말 덥다.식당 주방뿐만 아니라 가정집 주방에서도 8시간 동안 쉬지 않고 요리하면 덥다.source : brandfusion.ca32. 원가 계산 좀 하지 말자.손님은 음식에만 가격을 지불하는 것이 아니다. 임대비, 인테리어비, 인건비, 각종 세금이 모두 포함된 가격이다. 셀프로 배식 받아 설거지까지 해주고 가는 신사분이 아니라면 “원가가 30%도 안 된다”는 식의 이야기를 하시면 안 된다.33. 요리사와 사랑에 빠지긴 쉽다. 데이트는 어렵다.근무시간은 길고 불규칙하다. 보통 자정이 넘어서 마친다. 퇴근하더라도 피곤하고 지쳐있을 것이다. 피로는 보통 술로 떨치는데, 이런 습관이 데이트할 수 있는 삶과 점점 멀어지게 만든다." />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://recipe1.ezmember.co.kr/cache/bbs/2016/07/20/c67ffcd8c1a34d8d36d3c76da701e5f1.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1829?seq=1829';
+var _USER_ID_ = '';
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1557771002660658",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1829&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1829",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/1829';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/1829';
+    var title = '주방에서 일한 적 없는 사람에게 일일이 설명해야 하는 사실들';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=1829",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="1829">
+<input type="hidden" name="bid" value="2">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>주방에서 일한 적 없는 사람에게 일일이 설명해야 하는 사실들</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">셰프뉴스<span>|</span>2016-07-20 오후 15:16<span>|</span><span class="cate_view">140</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1835"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1824"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"></p><div style="text-align: center;"><img src="http://recipe.ezmember.co.kr/cache/bbs/2016/07/20/c67ffcd8c1a34d8d36d3c76da701e5f1.jpg" style="max-width:100%;"></div><br><p></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">훌륭한 레스토랑이 되기 위해서는 몇 가지의 조건이 충족되어야 한다. 홀을 책임지는 날렵하고 매력적인 서버, 노련하게 손님을 응대할 수 있는 매니저, 고된 환경 속에서도 훌륭한 음식으로 식당의 정체성을 보여주는 요리사들까지.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">아마 주방에서 일해보지 않은 사람이라면 “주말 저녁은 정말 바빠”라는 말을 온전히 이해하지 못할 것이다. 끊이지 않는 자존심 싸움, 암호와 같은 주방 사투리들, 피보다 진한 동료애도 마찬가지다. 주방의 상황을 알지 못하는 사람들에겐 “요리사들은 대개 월요일 저녁에야 시간을 낼 수 있다”는 것도 매번 설명해줘야 한다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">주변에 그런 답답한 사람이 있다면, 이 글의 주소(<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><a href="http://chefnews.kr/archives/12065" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;style=" max-width:100%;""="">http://chefnews.kr/archives/12065</a></span>)를 복사해서 전달해주자.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">1. 요리사에게는 팁이 돌아가지 않는다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">(업장에 따라 다르지만) 대개 홀에서 받은 팁을 주방 직원들과 나눠 가지라고 강요하는 것은 업계의 금칙이다. 그래서 주방 직원이 홀 직원보다 보통 적은 임금을 얻게 된다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">2. “모임이 토요일 저녁이라고? 미안해. 난 불참이야”</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“금요일도 마찬가지야. 하지만 월요일은 될 것 같은데?”<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">여러분들의 불금과 불토는 요리사 없이 존재할 수 없습니다.</p><figure id="attachment_12082" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 637px; background-color: rgb(255, 255, 255);"><img class="wp-image-12082 size-full tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/11-2.jpg" alt="11" width="637" height="432" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/11-2.jpg 637w, http://chefnews.kr/wp/wp-content/uploads/2016/04/11-2-110x75.jpg 110w" sizes="(max-width: 637px) 100vw, 637px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;style=" max-width:100%;""=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : thrillist.com</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">3. (정신적+육체적)×고통</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">대부분의 직업은 정신적으로 힘들거나, 육체적으로 힘들거나, 둘 중 하나에 해당할 것이다. 요리사는 이 두 가지 고통을 한 번에 겪는다. 요리사의 진로 이탈률이 높은 이유 중 하나다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">4. “죽었어요? 감옥에 갔나요? 병원에 있어요? 세 가지에 해당하지 않는데 왜 출근을 안 하죠?”</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">이외에는 어떤 변명도 결근 사유가 될 수 없다. 요리사도 가끔 아픈 날이 있고, 숙취가 있는 날도 있고, 가족행사가 있는 날도 있다. 여느 사람들과 마찬가지로 사랑하는 연인에게 이별통보를 받고 슬픔에 잠길 때도 있다. 하지만 고용주는 당신이 출근하길 원한다. 당신이 없으면 주방이 돌아가지 않는다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">5. 상처를 달고 산다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">찔리고, 베이고, 데이고. 늘어나는 상처와 함께 손의 감각도 점점 무뎌져 간다.</p><figure id="attachment_12070" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 650px; background-color: rgb(255, 255, 255);"><img class="wp-image-12070 size-full tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/jamiemalone_duo.jpg" alt="jamiemalone_duo" width="650" height="432" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/jamiemalone_duo.jpg 650w, http://chefnews.kr/wp/wp-content/uploads/2016/04/jamiemalone_duo-310x205.jpg 310w" sizes="(max-width: 650px) 100vw, 650px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;style=" max-width:100%;""=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : heavytable.com</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">6. 말을 많이 하는 것은 의무다.</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">말을 정말 많이 해야 한다. 불필요하다는 생각이 들더라도 계속 말해야 한다.<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">“조심하세요”, “지나갑니다”, “뜨겁습니다” “coner”, “behind”, “sharp”, “beside”, “hot”<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">자신의 위치를 알리거나 위험 상황을 대처할 수 있는 말은 더욱 많이 해야 한다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">7. “야~ 식당 차리면 대박 나겠는데?”라는 말은 절대 믿으면 안 된다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">친구나 가족들이 식당을 오픈하라고 부추기더라도 절대 해선 안 된다. 그들은 맛있다는 표현을 과장되게 한 것일 뿐이다. 식당을 경영하는 것, 이윤을 남길 수 있는 음식을 하는 것은 단순히 요리 실력만 있다고 해서 되는 일이 아니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">8. 쉴 새 없이 10시간 동안 서 있어야 한다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">당연히 모든 작업을 서서 한다. 고생스럽겠다고?&nbsp;고생스럽다고? 냉동고가 고장난 날, 검열 오는 날, 동료가 손가락 잘라 먹은 날에 비하면 가만히 서서 일할 수 있는 날은 운이 좋은 편이다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">9. 덕을 베풀면 보답 받게 될 것이다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">조리복을 입지 않은 사람은 주방에 존재하지 않는 사람마냥 대우받는다. 그들에게도 친절함을 베풀면 어떤 방식으로든 그 보답이 돌아오기 마련이다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">10. 쉴 시간이 있으면 청소할 시간도 있다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">식당, 주방, 동료 이 3박자가 프로페셔널함을 갖출수록 내가 할 일은 많아진다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">11. “YES”&nbsp;or “NO”</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">커뮤니케이션은 명확하게. 크고 명료한 목소리를 낼 것.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">12. 긴박감과 정밀함</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">금융회사에 다니는 김아무개씨는 제한된 시간까지 보고서를 작성하지 못했다. 어떤 일이 벌어지는가? 그는 혼자 야근을 하게 된다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">주방에서 일하는 박아무개씨가 제한된 시간까지 생선손질을 마치지 못했다. 어떤 일이 벌어지는가? 주방은 멈춘다.</p><figure id="attachment_12078" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 660px; background-color: rgb(255, 255, 255);"><img class="wp-image-12078 size-medium tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/SOU-660x495.jpg" alt="SOU" width="660" height="495" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/SOU-660x495.jpg 660w, http://chefnews.kr/wp/wp-content/uploads/2016/04/SOU-768x576.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/SOU-1024x768.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;style=" max-width:100%;""=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : culinationmagazine.com</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">13. 휴일은 여가를 위한 날이 아니다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">세탁하는 날이다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">14. 온종일 음식을 만들지만, 셰프는 그걸 먹지 않는다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">대부분 요리사는 3살 배기 꼬마처럼 먹는다. 수십 접시를 간 보고 나면 식욕이 싹 가시는 경우가 허다하다. 설사 식욕이 생기더라도 음식을 만들어 먹기보단 남아 있는 음식을 대충 먹기를 택한다.</p><figure id="attachment_12081" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 639px; background-color: rgb(255, 255, 255);"><img class="wp-image-12081 size-full tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/%EC%BA%A1%EC%B2%98.jpg" alt="캡처" width="639" height="432" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/캡처.jpg 639w, http://chefnews.kr/wp/wp-content/uploads/2016/04/캡처-110x75.jpg 110w" sizes="(max-width: 639px) 100vw, 639px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;style=" max-width:100%;""=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : thrillist.com</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">15. 적은 양을 요리하는 게 더 힘들다.</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">수백 명의 음식을 요리하던 요리사는 한두 명이 먹는 음식을 만드는 게 오히려 힘들다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">16. 서비스시간 전에 98%의 준비를 마쳐 놓는다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">저녁식사 시간을 위해 온종일 식재료를 준비했다. 완벽히 준비를 마친 주방에 요구 사항이 요란한 스페셜 오더가 들어온다면 지난 6시간 동안 준비한 리듬은 모두 깨지고 만다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">17. 리뷰는 다 챙겨본다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">대부분 요리사는 자아도취에 빠져있다. 그런 요리사에게 정신적으로 가장 큰 타격을 줄 수 있는 방법은 악플을 남기는 것이다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">18. 처치곤란한 재료가 많다고 해서 꼭 스페셜 메뉴를 만들어야 하는 건 아니다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">주방에선 종종 처치 곤란한 재료가 많으면 ‘셰프의 스페셜 메뉴’ 따위를 급조해서 처분하곤 한다. 굳이 이 방법이 아니더라도 스탭밀로 먹어도 되고, 새로운 메뉴 연습용으로 사용해도 된다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">19. 메뉴는 주방시설에 의해 결정된다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">주방은 좁은데 스테이크용 그릴이 너무 크다? 그렇다면 그릴 샐러드를 메뉴에 추가하는 게 좋은 아이디어가 될 것 같다. 식당의 메뉴는 주방 시설의 한계를 넘어설 순 없다.</p><figure id="attachment_12080" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 550px; background-color: rgb(255, 255, 255);"><img class="wp-image-12080 size-full tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/6e64d753bf62c57a_DSC_0034.preview.jpg" alt="6e64d753bf62c57a_DSC_0034.preview" width="550" height="365" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/6e64d753bf62c57a_DSC_0034.preview.jpg 550w, http://chefnews.kr/wp/wp-content/uploads/2016/04/6e64d753bf62c57a_DSC_0034.preview-310x205.jpg 310w" sizes="(max-width: 550px) 100vw, 550px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;style=" max-width:100%;""=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : popsugar.com</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">20. “돈 더 주는 데로 옮겨”라는 상식이 통하지 않는다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">요리사들은 급여를 기준으로 직장을 선택하지 않는다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">21. 기울어진 주방 바닥. 서있기만 해도 피로하다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">배수가 잘되어야 하는 주방의 바닥은 하수구 쪽으로 경사져있다. 평소엔 눈치채지 못할 만큼이지만 이 구조가 알게 모르게 균형을 잡기 위한 에너지를 소비시킨다. 일을 마치고 집에 돌아왔을 때 마라톤을 뛴 것처럼 다리가 아프다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">22. 이끌든지, 따르든지, 비키든지.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">일을 계속하는 게 힘들다는 생각이 들 때면, 내 인생을 위한 길이 정녕 이 길인지 생각해보라. 이도 저도 아닌 상태로 억지로 일을 하는 것은 스스로에게도, 동료에게도 도움되지 않는다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">23. 범법자. 변태. 중독자.</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">앤서니 보댕은 키친 컨피덴셜<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Kitchen Confidential</em></span>에서 “주방이야말로 사회 부적응자의 마지막 보루”라고 말해 논란을 일으켰다. 그들이 신체적 위해를 가하거나 돈을 훔치지 않는 이상, 같이 일하는 것을 나쁘게 여길 필요는 없다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">24. 개인적인 공간 따위는 없다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">없다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">25. 얼마나 뜨겁든 간에 절대 떨어뜨리면 안 된다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">차라리 화상을 입는다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">26. 라벨링 강박증</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">기억력을 맹신하지 않는다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">27. 홀 매니저가 마감 10분 전이라 괜찮다고 해도 들어와서 앉지 말자.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">주방은 이미 청소 중이다. (분노)</p><figure id="attachment_12072" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 660px; background-color: rgb(255, 255, 255);"><img class="wp-image-12072 size-medium tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/20141024161309_16478-660x495.jpg" alt="20141024161309_16478" width="660" height="495" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/20141024161309_16478-660x495.jpg 660w, http://chefnews.kr/wp/wp-content/uploads/2016/04/20141024161309_16478-768x576.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/20141024161309_16478.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;style=" max-width:100%;""=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : multicraftpropaint.com</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">28. 야구팀, 축구팀, 단체로 그냥 걸어들어오지 마라.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">도착하기 30분 전에 전화 한 통 ‘꼭’ 부탁한다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">29. 야한 농담은 성추행이 아니다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">그리고 경계선은 있다. 야한 농담의 대상이 되었다고 해서 존중받지 못했다거나 놀림당했다고 생각하지 않는다. 요리사에게 야한 농담은 동료애 쪽에 가깝다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">30. 골리거나 조롱하거나</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">긴장을 해소하는 방법으로 골리는 것과 조롱하는 것, 두 가지 방법이 있다. 이 둘은 별 차이가 없어 보이지만 요리사에겐 각각의 용도가 따로 있다.&nbsp;요리사의 일과에서 매우 중요한 것 중 하나다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">31. 정말 덥다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">식당 주방뿐만 아니라 가정집 주방에서도 8시간 동안 쉬지 않고 요리하면 덥다.</p><figure id="attachment_12069" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 660px; background-color: rgb(255, 255, 255);"><img class="wp-image-12069 size-medium tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/Iron-Chefs-660x439.jpg" alt="Iron-Chefs" width="660" height="439" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/Iron-Chefs-660x439.jpg 660w, http://chefnews.kr/wp/wp-content/uploads/2016/04/Iron-Chefs-768x511.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/Iron-Chefs-1024x681.jpg 1024w, http://chefnews.kr/wp/wp-content/uploads/2016/04/Iron-Chefs-310x205.jpg 310w, http://chefnews.kr/wp/wp-content/uploads/2016/04/Iron-Chefs.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;"><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : brandfusion.ca</figcaption></figure><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">32. 원가 계산 좀 하지 말자.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">손님은 음식에만 가격을 지불하는 것이 아니다. 임대비, 인테리어비, 인건비, 각종 세금이 모두 포함된 가격이다. 셀프로 배식 받아 설거지까지 해주고 가는 신사분이 아니라면 “원가가 30%도 안 된다”는 식의 이야기를 하시면 안 된다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">33. 요리사와 사랑에 빠지긴 쉽다. 데이트는 어렵다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">근무시간은 길고 불규칙하다. 보통 자정이 넘어서 마친다. 퇴근하더라도 피곤하고 지쳐있을 것이다. 피로는 보통 술로 떨치는데, 이런 습관이 데이트할 수 있는 삶과 점점 멀어지게 만든다.</p><figure id="attachment_12067" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 660px; background-color: rgb(255, 255, 255);"><img class="wp-image-12067 size-medium tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/04/Busy-Kitchen-660x440.jpg" alt="" width="660" height="440" srcset="http://chefnews.kr/wp/wp-content/uploads/2016/04/Busy-Kitchen-660x440.jpg 660w, http://chefnews.kr/wp/wp-content/uploads/2016/04/Busy-Kitchen-768x512.jpg 768w, http://chefnews.kr/wp/wp-content/uploads/2016/04/Busy-Kitchen-1024x682.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out" ;"=""><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">source : deutscher-pruefdienst.de</figcaption>&lt;<p style="font-size: 14px;">/figure&gt;</p></figure>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1835"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1824"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="1829">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','225');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/225?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','225');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/02/2f91c105fd9cb6f785d92e1e021d2e611.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','222');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/222?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','222');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/19/90e70f656669ea35b11e894d148374511.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>355</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,135</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,261</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,229,725,894</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>

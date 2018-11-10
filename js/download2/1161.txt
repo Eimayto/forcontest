@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="간식이 단맛과 신맛의 조화라면 요리는 짠맛과 감칠맛의 조화라고 할 수 있다. 이중 단맛은 꿀이나 설탕, 신맛은 식초, 짠맛은 소금 등을 통해 아주 오래 전부터 그 맛의 정체가 드러났다. 소금이 사용된 것은 5,000년 전이고 꿀이나 설탕이 사용된 것도 4,000년 전, 식초가 사용된 것은 3,500년 전이다. 반면, 감칠맛의 정체가 밝혀진 것은 불과 100년 전으로 아주 최근의 일이다. 단백질은 20가지 아미노산으로 만들어 지는데 이중 가장 흔한 것이 글루탐산이고 이 글루탐산의 맛이 바로 감칠맛이다. 아주 맛있는 음식에는 뭔가 맛이 있게 하는 것이 들어 있는데 그 정체가 글루탐산임을 알아채는 데 수천 년이 걸린 것이다.구리하라 겐지 | 일본 아오모리대학교 교수 / 제공 = SBS 일요특선 다큐멘터리 감칠맛의 비밀우리가 감칠맛을 즐기는 가장 쉬운 방법은 고기를 먹는 것이다. 하지만 농경시대가 되고 인구가 증가하면서 고기는 귀한 것이 되었고, 고기 맛을 더 많이 즐기기 위해 각 국가별로 여러 가지 방법을 써서 육수를 만들어 먹었다. 육류에는 단백질 함량이 많다. 따라서 글루탐산의 양도 많다. 하지만 글루탐산의 99%는 단백질 상태로 존재하고 아미노산 상태로 존재하는 것은 1% 수준이다. 과일과 채소는 좀 다르다. 단백질의 비율이 낮아서 글루탐산의 양도 적다. 하지만 존재하는 글루탐산의 90% 이하가 단백질 상태이고 10% 이상은 아미노산 상태이다. 채소는 단백질 양은 적지만 그 대신 분해된 비율이 높아 그럭저럭 감칠맛 소재로 쓸 만하다. 샤브샤브 국물에 채소를 넣으면 감칠맛이 나는 이유이기도 하다. 그중에서도 토마토는 정말 별난 작물이다. 우유는 아미노산 상태로 존재하는 글루탐산의 비율이 0.2%에 불과하고 치즈로 만들어 충분한 숙성 과정을 거쳐 미생물에 의해 분해되어야 겨우 10% 정도의 글루탐산이 존재하는데 비하여 잘 익은 토마토는 무려 59%가 유리 글루탐산으로 존재한다. 토마토는 가히 감칠맛을 위해 존재하는 채소라 할 수 있다. 토마토 외에도 유리 글루탐산이 많은 재료들이 주로 요리에서 많은 사랑을 받았다. | 재료의 궁합을 맞춰 감칠맛을 증폭시키는 ‘상승작용’감칠맛에는 다른 맛에는 드문 재미있는 현상이 있다. 바로 감칠맛의 ‘상승작용’이다. 감칠맛을 내는 재료는 한 가지를 쓸 때보다 다른 재료와 궁합을 맞춰 같이 사용하면 양에 비해 감칠맛이 엄청나게 증가한다. 이것은 아미노산 계인 MSG와 핵산계인 IMP나 GMP가 만나서 일어나는 현상이다. 이노신산(IMP)이 MSG와 5:5로 만나면 감칠맛이 원래보다 7배까지 증폭된다. 핵산계 조미료는 가격이 비싸므로 타협해서 1:9 정도로 혼합해 주어도 감칠맛은 5배 이상 증가한다. 1:100으로만 혼합해도 2배가 증가한다. 그래서 MSG 위주의 다시마 국물을 낼 때 IMP가 풍부한 가쓰오부시나 멸치를 꼭 넣는 이유가 바로 이것이다. 이런 상승작용은 구아닐산(GMP)이 더 강력하다. 5:5 혼합이면 무려 30배나 증폭된다. 1:10이면 20배, 1:100일 때도 무려 5배나 증폭된다. 자체로는 별로 맛이 없는 버섯이 국물요리에 자주 등장하는 이유이다.감칠맛의 시너지 효과가 구체적으로 밝혀진 것은 1960년대다. 하지만 훨씬 오래전부터 요리사들은 경험적으로 알고 있었다. 세상의 맛있는 요리는 대부분 국물을 우려내는 과정이 있다. 국가별로 스타일만 조금 다를 뿐 효과는 동일하다. 일본은 다시마와 가쓰오부시를 결합해서 쓰고, 우리나라는 다시마와 멸치를 같이 쓰고, 중국은 채소와 닭고기 뼈를 조합해서 쓴다. 다양한 재료가 맛을 깊게 한다.MSG와 상승효과MSG –IMP 7배GMP 30배대표 재료고기류+++++닭 뼈 등 부산물도 이용생선류+++++멸치, 가쓰오부시게, 새우+++오징어, 문어+++말린오징어++++조개+++다시마++++말린 표고버섯++++++채소++토마토단백분해물++++된장, 간장, HVP김+++++&lt;감칠맛의 종류별로 많이 사용되는 재료&gt;국가글루탐산 원천　　이노신산 원천서양양파, 당근, 샐러리+ 소고기 사태일본다시마＋ 가쓰오부시중국배추, 파＋ 닭 뼈한국다시마+ 멸치&lt;국가별로 감칠맛의 재료를 조합하는 형태&gt;| 단백질을 분해해도 감칠맛이 증폭한다오래 가열할수록 감칠맛 성분은 많이 추출되지만 엄연히 한계가 있다. 감칠맛을 발견한 이케다 교수는 40kg의 다시마에서 겨우 30g을 생산할 수 있었다. 유리 글루탐산이 많지 않기 때문이다. 음식을 끓인다고 단백질이 마구 분해되어 유리 글루탐산이 팍팍 증가하지는 않는다. 효과적으로 단백질을 분해하는 방법을 찾아야 하는데 미생물에 있는 효소를 이용한 발효가 대표적인 방법이다. 우유의 단백질을 분해한 치즈, 콩의 단백질을 분해한 된장, 간장, 생선의 단백질을 분해한 젓갈이 대표적이다. 콩에는 단백질이 36.2%가 들어 있고 이중 글루탐산은 25%이다. 따라서 콩 100g에는 9g의 글루탐산이 들어 있는 셈이다. 이것을 모두 맛으로 느끼면 엄청나겠지만, 콩의 글루탐산은 거의 전부가 단백질로 결합(bound)된 상태라 감칠맛을 느끼기 힘들다. 그래서 콩을 삶아 메주를 만들고 미생물로 분해하여 장류로 만든다. 어떤 단백질이든 숙성이나 발효를 시키면 단백질이 분해되어 감칠맛 성분은 증가한다. 요즘 유행하는 소고기의 에이징이 바로 그런 효과를 노린 것이다. 우리가 유난히 콩을 소재로 한 된장, 간장 등의 장류를 많이 만들어 먹은 것은 콩이 가장 구하기 좋은 단백질원이었기 때문이다.제대로 발효시키는 것은 생각보다 어렵다. 요즘 젊은 주부들은 발효의 초보 단계인 김치 담그는 것조차 어려워한다. 옛날에는 지금처럼 요리 프로그램도 많지 않았다. 하지만 감칠맛에 대한 갈망이 그렇게 컸기 때문에 까다롭고 손이 많이 가는 발효식품을 그렇게 다양하게 만들어 먹었던 것이다. 예전 종갓집 음식의 맛의 비결도 대부분 까다롭게 발효시킨 장류에서 나온 것이었다. | 그래서 맛은 다양한 요소와 상호작용한다.맛과 향의 목적은 결국 그것을 먹을 것인지 말 것인지를 판단하기 위한 것이다. 이를 위해서는 여러 정보를 통합하여야 한다. 감각세포에서 감지한 신호는 사구체 영역에서 1차 연합을 이루고 각각의 감각연합에 전달된다. 여기까지는 독립된 감각이지만 후각, 미각, 청각, 시각, 촉각의 정보가 모두 모이는 곳이 있다. 바로 전두엽 중에서 눈 위쪽에 있는 ‘안와전두피질(OFC)’이라는 곳이다. 이곳에서 맛의 최종 판단이 이루어진다. 여기에서 모든 감각이 연합하기에 우리는 맛과 향을 구분하기 힘든 것이다. 과일에 단맛이 진하면 향도 진하게 느껴지고 신맛의 여부는 잘 느끼지 못한다. 사실 신맛이 약간 강해서 향이 강한 것인데도 그냥 달고 맛있다고만 느끼는 식이다. 떡볶이가 맛이 있다고 느끼지만 실제 그 떡볶이가 다른 것보다 단맛이 강해서인지 감칠맛이 강해서인지 잘 구분하지 못하는 이유이기도 하다. 이 현상을 이용하면 소금 섭취량을 줄일 수 있다. 소금과 MSG를 같이 넣으면 소금 양이 적어도 많은 것처럼 느낀다. MSG를 0.38% 넣으면 소금을 0.4%만 넣어도 0.9%를 넣은듯한 짠맛을 느낄 수 있다. 따라서 소금의 농도가 0.9~1% 정도에서 최적일 때 MSG를 넣게 되면 0.7~0.8%로 최적 농도가 낮아진다. 핵산계 조미료도 마찬가지 기능을 한다. 맛에 촉감(물성)마저 연결되어 단맛은 동일한 액체라도 점도가 더 높은 것으로 느끼게 하고, 신맛의 경우 점도가 낮은 것으로 느끼기도 한다. 즉 미각, 후각, 촉각, 온도 감각, 통각에 감정, 분위기, 쾌감과 문화까지 합해져서 맛을 만든다. 맛은 가장 복합적인 공감각의 현상인 것이다.MSG와 소금의 비율을 잘 조절하면 감칠맛을 7배까지 증폭시킬 수 있다.어떤 음식이던 쉰내 혹은 묵은 냄새가 나면 거의 실패했다고 봐야 한다. 사람들은 아주 약한 묵은내도 금방 알아채기 때문이다. 사람들이 신선한 재료를 좋아하는 것은 이 묵은 냄새를 싫어하기 때문이다. 사실 이 묵은내를 숨기는 효과적인 방법은 향신료를 첨가하는 것이다. 서양에서는 로즈마리 같은 향신료를 우리나라에서는 고추나 후추로 어느 정도 가려진다. 이 보다는 효과가 적지만 소금 또한 훌륭한 재료이다. 여전히 묵은 맛이 나지만 그래도 훨씬 먹을 만해진다. 음식에서 적절한 소금은 자체의 짠맛은 드러내지 않고 다른 재료의 좋은 풍미를 부각시키고 나쁜 맛을 눌러준다. 커피의 신맛도 적당한 수준에서는 향을 높이는 수단이고 커피의 쓴맛도 적당한 수준에서는 바디감을 높이는 좋은 맛으로 작동한다. 뛰어난 맛이란 결국 장점이 있으면 단점에 눈을 감는 우리 몸의 공감각 현상과 모호화 현상이 만든 작품인 셈이다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10697">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>“궁합만 잘 맞추면 감칠맛은 폭발한다” – 감칠맛 상승작용 공식</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1161" />
+<meta property="kakao:title" content="“궁합만 잘 맞추면 감칠맛은 폭발한다” – 감칠맛 상승작용 공식" />
+<meta property="kakao:description" content="간식이 단맛과 신맛의 조화라면 요리는 짠맛과 감칠맛의 조화라고 할 수 있다. 이중 단맛은 꿀이나 설탕, 신맛은 식초, 짠맛은 소금 등을 통해 아주 오래 전부터 그 맛의 정체가 드러났다. 소금이 사용된 것은 5,000년 전이고 꿀이나 설탕이 사용된 것도 4,000년 전, 식초가 사용된 것은 3,500년 전이다. 반면, 감칠맛의 정체가 밝혀진 것은 불과 100년 전으로 아주 최근의 일이다. 단백질은 20가지 아미노산으로 만들어 지는데 이중 가장 흔한 것이 글루탐산이고 이 글루탐산의 맛이 바로 감칠맛이다. 아주 맛있는 음식에는 뭔가 맛이 있게 하는 것이 들어 있는데 그 정체가 글루탐산임을 알아채는 데 수천 년이 걸린 것이다.구리하라 겐지 | 일본 아오모리대학교 교수 / 제공 = SBS 일요특선 다큐멘터리 감칠맛의 비밀우리가 감칠맛을 즐기는 가장 쉬운 방법은 고기를 먹는 것이다. 하지만 농경시대가 되고 인구가 증가하면서 고기는 귀한 것이 되었고, 고기 맛을 더 많이 즐기기 위해 각 국가별로 여러 가지 방법을 써서 육수를 만들어 먹었다. 육류에는 단백질 함량이 많다. 따라서 글루탐산의 양도 많다. 하지만 글루탐산의 99%는 단백질 상태로 존재하고 아미노산 상태로 존재하는 것은 1% 수준이다. 과일과 채소는 좀 다르다. 단백질의 비율이 낮아서 글루탐산의 양도 적다. 하지만 존재하는 글루탐산의 90% 이하가 단백질 상태이고 10% 이상은 아미노산 상태이다. 채소는 단백질 양은 적지만 그 대신 분해된 비율이 높아 그럭저럭 감칠맛 소재로 쓸 만하다. 샤브샤브 국물에 채소를 넣으면 감칠맛이 나는 이유이기도 하다. 그중에서도 토마토는 정말 별난 작물이다. 우유는 아미노산 상태로 존재하는 글루탐산의 비율이 0.2%에 불과하고 치즈로 만들어 충분한 숙성 과정을 거쳐 미생물에 의해 분해되어야 겨우 10% 정도의 글루탐산이 존재하는데 비하여 잘 익은 토마토는 무려 59%가 유리 글루탐산으로 존재한다. 토마토는 가히 감칠맛을 위해 존재하는 채소라 할 수 있다. 토마토 외에도 유리 글루탐산이 많은 재료들이 주로 요리에서 많은 사랑을 받았다. | 재료의 궁합을 맞춰 감칠맛을 증폭시키는 ‘상승작용’감칠맛에는 다른 맛에는 드문 재미있는 현상이 있다. 바로 감칠맛의 ‘상승작용’이다. 감칠맛을 내는 재료는 한 가지를 쓸 때보다 다른 재료와 궁합을 맞춰 같이 사용하면 양에 비해 감칠맛이 엄청나게 증가한다. 이것은 아미노산 계인 MSG와 핵산계인 IMP나 GMP가 만나서 일어나는 현상이다. 이노신산(IMP)이 MSG와 5:5로 만나면 감칠맛이 원래보다 7배까지 증폭된다. 핵산계 조미료는 가격이 비싸므로 타협해서 1:9 정도로 혼합해 주어도 감칠맛은 5배 이상 증가한다. 1:100으로만 혼합해도 2배가 증가한다. 그래서 MSG 위주의 다시마 국물을 낼 때 IMP가 풍부한 가쓰오부시나 멸치를 꼭 넣는 이유가 바로 이것이다. 이런 상승작용은 구아닐산(GMP)이 더 강력하다. 5:5 혼합이면 무려 30배나 증폭된다. 1:10이면 20배, 1:100일 때도 무려 5배나 증폭된다. 자체로는 별로 맛이 없는 버섯이 국물요리에 자주 등장하는 이유이다.감칠맛의 시너지 효과가 구체적으로 밝혀진 것은 1960년대다. 하지만 훨씬 오래전부터 요리사들은 경험적으로 알고 있었다. 세상의 맛있는 요리는 대부분 국물을 우려내는 과정이 있다. 국가별로 스타일만 조금 다를 뿐 효과는 동일하다. 일본은 다시마와 가쓰오부시를 결합해서 쓰고, 우리나라는 다시마와 멸치를 같이 쓰고, 중국은 채소와 닭고기 뼈를 조합해서 쓴다. 다양한 재료가 맛을 깊게 한다.MSG와 상승효과MSG –IMP 7배GMP 30배대표 재료고기류+++++닭 뼈 등 부산물도 이용생선류+++++멸치, 가쓰오부시게, 새우+++오징어, 문어+++말린오징어++++조개+++다시마++++말린 표고버섯++++++채소++토마토단백분해물++++된장, 간장, HVP김+++++&lt;감칠맛의 종류별로 많이 사용되는 재료&gt;국가글루탐산 원천　　이노신산 원천서양양파, 당근, 샐러리+ 소고기 사태일본다시마＋ 가쓰오부시중국배추, 파＋ 닭 뼈한국다시마+ 멸치&lt;국가별로 감칠맛의 재료를 조합하는 형태&gt;| 단백질을 분해해도 감칠맛이 증폭한다오래 가열할수록 감칠맛 성분은 많이 추출되지만 엄연히 한계가 있다. 감칠맛을 발견한 이케다 교수는 40kg의 다시마에서 겨우 30g을 생산할 수 있었다. 유리 글루탐산이 많지 않기 때문이다. 음식을 끓인다고 단백질이 마구 분해되어 유리 글루탐산이 팍팍 증가하지는 않는다. 효과적으로 단백질을 분해하는 방법을 찾아야 하는데 미생물에 있는 효소를 이용한 발효가 대표적인 방법이다. 우유의 단백질을 분해한 치즈, 콩의 단백질을 분해한 된장, 간장, 생선의 단백질을 분해한 젓갈이 대표적이다. 콩에는 단백질이 36.2%가 들어 있고 이중 글루탐산은 25%이다. 따라서 콩 100g에는 9g의 글루탐산이 들어 있는 셈이다. 이것을 모두 맛으로 느끼면 엄청나겠지만, 콩의 글루탐산은 거의 전부가 단백질로 결합(bound)된 상태라 감칠맛을 느끼기 힘들다. 그래서 콩을 삶아 메주를 만들고 미생물로 분해하여 장류로 만든다. 어떤 단백질이든 숙성이나 발효를 시키면 단백질이 분해되어 감칠맛 성분은 증가한다. 요즘 유행하는 소고기의 에이징이 바로 그런 효과를 노린 것이다. 우리가 유난히 콩을 소재로 한 된장, 간장 등의 장류를 많이 만들어 먹은 것은 콩이 가장 구하기 좋은 단백질원이었기 때문이다.제대로 발효시키는 것은 생각보다 어렵다. 요즘 젊은 주부들은 발효의 초보 단계인 김치 담그는 것조차 어려워한다. 옛날에는 지금처럼 요리 프로그램도 많지 않았다. 하지만 감칠맛에 대한 갈망이 그렇게 컸기 때문에 까다롭고 손이 많이 가는 발효식품을 그렇게 다양하게 만들어 먹었던 것이다. 예전 종갓집 음식의 맛의 비결도 대부분 까다롭게 발효시킨 장류에서 나온 것이었다. | 그래서 맛은 다양한 요소와 상호작용한다.맛과 향의 목적은 결국 그것을 먹을 것인지 말 것인지를 판단하기 위한 것이다. 이를 위해서는 여러 정보를 통합하여야 한다. 감각세포에서 감지한 신호는 사구체 영역에서 1차 연합을 이루고 각각의 감각연합에 전달된다. 여기까지는 독립된 감각이지만 후각, 미각, 청각, 시각, 촉각의 정보가 모두 모이는 곳이 있다. 바로 전두엽 중에서 눈 위쪽에 있는 ‘안와전두피질(OFC)’이라는 곳이다. 이곳에서 맛의 최종 판단이 이루어진다. 여기에서 모든 감각이 연합하기에 우리는 맛과 향을 구분하기 힘든 것이다. 과일에 단맛이 진하면 향도 진하게 느껴지고 신맛의 여부는 잘 느끼지 못한다. 사실 신맛이 약간 강해서 향이 강한 것인데도 그냥 달고 맛있다고만 느끼는 식이다. 떡볶이가 맛이 있다고 느끼지만 실제 그 떡볶이가 다른 것보다 단맛이 강해서인지 감칠맛이 강해서인지 잘 구분하지 못하는 이유이기도 하다. 이 현상을 이용하면 소금 섭취량을 줄일 수 있다. 소금과 MSG를 같이 넣으면 소금 양이 적어도 많은 것처럼 느낀다. MSG를 0.38% 넣으면 소금을 0.4%만 넣어도 0.9%를 넣은듯한 짠맛을 느낄 수 있다. 따라서 소금의 농도가 0.9~1% 정도에서 최적일 때 MSG를 넣게 되면 0.7~0.8%로 최적 농도가 낮아진다. 핵산계 조미료도 마찬가지 기능을 한다. 맛에 촉감(물성)마저 연결되어 단맛은 동일한 액체라도 점도가 더 높은 것으로 느끼게 하고, 신맛의 경우 점도가 낮은 것으로 느끼기도 한다. 즉 미각, 후각, 촉각, 온도 감각, 통각에 감정, 분위기, 쾌감과 문화까지 합해져서 맛을 만든다. 맛은 가장 복합적인 공감각의 현상인 것이다.MSG와 소금의 비율을 잘 조절하면 감칠맛을 7배까지 증폭시킬 수 있다.어떤 음식이던 쉰내 혹은 묵은 냄새가 나면 거의 실패했다고 봐야 한다. 사람들은 아주 약한 묵은내도 금방 알아채기 때문이다. 사람들이 신선한 재료를 좋아하는 것은 이 묵은 냄새를 싫어하기 때문이다. 사실 이 묵은내를 숨기는 효과적인 방법은 향신료를 첨가하는 것이다. 서양에서는 로즈마리 같은 향신료를 우리나라에서는 고추나 후추로 어느 정도 가려진다. 이 보다는 효과가 적지만 소금 또한 훌륭한 재료이다. 여전히 묵은 맛이 나지만 그래도 훨씬 먹을 만해진다. 음식에서 적절한 소금은 자체의 짠맛은 드러내지 않고 다른 재료의 좋은 풍미를 부각시키고 나쁜 맛을 눌러준다. 커피의 신맛도 적당한 수준에서는 향을 높이는 수단이고 커피의 쓴맛도 적당한 수준에서는 바디감을 높이는 좋은 맛으로 작동한다. 뛰어난 맛이란 결국 장점이 있으면 단점에 눈을 감는 우리 몸의 공감각 현상과 모호화 현상이 만든 작품인 셈이다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10697" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1161" />
+<meta property="og:title" content="“궁합만 잘 맞추면 감칠맛은 폭발한다” – 감칠맛 상승작용 공식" />
+<meta property="og:image" content="http://chefnews.kr/wp/wp-content/uploads/2016/01/%EC%B2%9C%EC%97%B0%EC%A1%B0%EB%AF%B8%EB%A3%8C%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B7%B8%EB%A7%8C%EC%A2%80-%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4%EB%8A%94-MSG%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%8A%88.jpg" />
+<meta property="og:description" content="간식이 단맛과 신맛의 조화라면 요리는 짠맛과 감칠맛의 조화라고 할 수 있다. 이중 단맛은 꿀이나 설탕, 신맛은 식초, 짠맛은 소금 등을 통해 아주 오래 전부터 그 맛의 정체가 드러났다. 소금이 사용된 것은 5,000년 전이고 꿀이나 설탕이 사용된 것도 4,000년 전, 식초가 사용된 것은 3,500년 전이다. 반면, 감칠맛의 정체가 밝혀진 것은 불과 100년 전으로 아주 최근의 일이다. 단백질은 20가지 아미노산으로 만들어 지는데 이중 가장 흔한 것이 글루탐산이고 이 글루탐산의 맛이 바로 감칠맛이다. 아주 맛있는 음식에는 뭔가 맛이 있게 하는 것이 들어 있는데 그 정체가 글루탐산임을 알아채는 데 수천 년이 걸린 것이다.구리하라 겐지 | 일본 아오모리대학교 교수 / 제공 = SBS 일요특선 다큐멘터리 감칠맛의 비밀우리가 감칠맛을 즐기는 가장 쉬운 방법은 고기를 먹는 것이다. 하지만 농경시대가 되고 인구가 증가하면서 고기는 귀한 것이 되었고, 고기 맛을 더 많이 즐기기 위해 각 국가별로 여러 가지 방법을 써서 육수를 만들어 먹었다. 육류에는 단백질 함량이 많다. 따라서 글루탐산의 양도 많다. 하지만 글루탐산의 99%는 단백질 상태로 존재하고 아미노산 상태로 존재하는 것은 1% 수준이다. 과일과 채소는 좀 다르다. 단백질의 비율이 낮아서 글루탐산의 양도 적다. 하지만 존재하는 글루탐산의 90% 이하가 단백질 상태이고 10% 이상은 아미노산 상태이다. 채소는 단백질 양은 적지만 그 대신 분해된 비율이 높아 그럭저럭 감칠맛 소재로 쓸 만하다. 샤브샤브 국물에 채소를 넣으면 감칠맛이 나는 이유이기도 하다. 그중에서도 토마토는 정말 별난 작물이다. 우유는 아미노산 상태로 존재하는 글루탐산의 비율이 0.2%에 불과하고 치즈로 만들어 충분한 숙성 과정을 거쳐 미생물에 의해 분해되어야 겨우 10% 정도의 글루탐산이 존재하는데 비하여 잘 익은 토마토는 무려 59%가 유리 글루탐산으로 존재한다. 토마토는 가히 감칠맛을 위해 존재하는 채소라 할 수 있다. 토마토 외에도 유리 글루탐산이 많은 재료들이 주로 요리에서 많은 사랑을 받았다. | 재료의 궁합을 맞춰 감칠맛을 증폭시키는 ‘상승작용’감칠맛에는 다른 맛에는 드문 재미있는 현상이 있다. 바로 감칠맛의 ‘상승작용’이다. 감칠맛을 내는 재료는 한 가지를 쓸 때보다 다른 재료와 궁합을 맞춰 같이 사용하면 양에 비해 감칠맛이 엄청나게 증가한다. 이것은 아미노산 계인 MSG와 핵산계인 IMP나 GMP가 만나서 일어나는 현상이다. 이노신산(IMP)이 MSG와 5:5로 만나면 감칠맛이 원래보다 7배까지 증폭된다. 핵산계 조미료는 가격이 비싸므로 타협해서 1:9 정도로 혼합해 주어도 감칠맛은 5배 이상 증가한다. 1:100으로만 혼합해도 2배가 증가한다. 그래서 MSG 위주의 다시마 국물을 낼 때 IMP가 풍부한 가쓰오부시나 멸치를 꼭 넣는 이유가 바로 이것이다. 이런 상승작용은 구아닐산(GMP)이 더 강력하다. 5:5 혼합이면 무려 30배나 증폭된다. 1:10이면 20배, 1:100일 때도 무려 5배나 증폭된다. 자체로는 별로 맛이 없는 버섯이 국물요리에 자주 등장하는 이유이다.감칠맛의 시너지 효과가 구체적으로 밝혀진 것은 1960년대다. 하지만 훨씬 오래전부터 요리사들은 경험적으로 알고 있었다. 세상의 맛있는 요리는 대부분 국물을 우려내는 과정이 있다. 국가별로 스타일만 조금 다를 뿐 효과는 동일하다. 일본은 다시마와 가쓰오부시를 결합해서 쓰고, 우리나라는 다시마와 멸치를 같이 쓰고, 중국은 채소와 닭고기 뼈를 조합해서 쓴다. 다양한 재료가 맛을 깊게 한다.MSG와 상승효과MSG –IMP 7배GMP 30배대표 재료고기류+++++닭 뼈 등 부산물도 이용생선류+++++멸치, 가쓰오부시게, 새우+++오징어, 문어+++말린오징어++++조개+++다시마++++말린 표고버섯++++++채소++토마토단백분해물++++된장, 간장, HVP김+++++&lt;감칠맛의 종류별로 많이 사용되는 재료&gt;국가글루탐산 원천　　이노신산 원천서양양파, 당근, 샐러리+ 소고기 사태일본다시마＋ 가쓰오부시중국배추, 파＋ 닭 뼈한국다시마+ 멸치&lt;국가별로 감칠맛의 재료를 조합하는 형태&gt;| 단백질을 분해해도 감칠맛이 증폭한다오래 가열할수록 감칠맛 성분은 많이 추출되지만 엄연히 한계가 있다. 감칠맛을 발견한 이케다 교수는 40kg의 다시마에서 겨우 30g을 생산할 수 있었다. 유리 글루탐산이 많지 않기 때문이다. 음식을 끓인다고 단백질이 마구 분해되어 유리 글루탐산이 팍팍 증가하지는 않는다. 효과적으로 단백질을 분해하는 방법을 찾아야 하는데 미생물에 있는 효소를 이용한 발효가 대표적인 방법이다. 우유의 단백질을 분해한 치즈, 콩의 단백질을 분해한 된장, 간장, 생선의 단백질을 분해한 젓갈이 대표적이다. 콩에는 단백질이 36.2%가 들어 있고 이중 글루탐산은 25%이다. 따라서 콩 100g에는 9g의 글루탐산이 들어 있는 셈이다. 이것을 모두 맛으로 느끼면 엄청나겠지만, 콩의 글루탐산은 거의 전부가 단백질로 결합(bound)된 상태라 감칠맛을 느끼기 힘들다. 그래서 콩을 삶아 메주를 만들고 미생물로 분해하여 장류로 만든다. 어떤 단백질이든 숙성이나 발효를 시키면 단백질이 분해되어 감칠맛 성분은 증가한다. 요즘 유행하는 소고기의 에이징이 바로 그런 효과를 노린 것이다. 우리가 유난히 콩을 소재로 한 된장, 간장 등의 장류를 많이 만들어 먹은 것은 콩이 가장 구하기 좋은 단백질원이었기 때문이다.제대로 발효시키는 것은 생각보다 어렵다. 요즘 젊은 주부들은 발효의 초보 단계인 김치 담그는 것조차 어려워한다. 옛날에는 지금처럼 요리 프로그램도 많지 않았다. 하지만 감칠맛에 대한 갈망이 그렇게 컸기 때문에 까다롭고 손이 많이 가는 발효식품을 그렇게 다양하게 만들어 먹었던 것이다. 예전 종갓집 음식의 맛의 비결도 대부분 까다롭게 발효시킨 장류에서 나온 것이었다. | 그래서 맛은 다양한 요소와 상호작용한다.맛과 향의 목적은 결국 그것을 먹을 것인지 말 것인지를 판단하기 위한 것이다. 이를 위해서는 여러 정보를 통합하여야 한다. 감각세포에서 감지한 신호는 사구체 영역에서 1차 연합을 이루고 각각의 감각연합에 전달된다. 여기까지는 독립된 감각이지만 후각, 미각, 청각, 시각, 촉각의 정보가 모두 모이는 곳이 있다. 바로 전두엽 중에서 눈 위쪽에 있는 ‘안와전두피질(OFC)’이라는 곳이다. 이곳에서 맛의 최종 판단이 이루어진다. 여기에서 모든 감각이 연합하기에 우리는 맛과 향을 구분하기 힘든 것이다. 과일에 단맛이 진하면 향도 진하게 느껴지고 신맛의 여부는 잘 느끼지 못한다. 사실 신맛이 약간 강해서 향이 강한 것인데도 그냥 달고 맛있다고만 느끼는 식이다. 떡볶이가 맛이 있다고 느끼지만 실제 그 떡볶이가 다른 것보다 단맛이 강해서인지 감칠맛이 강해서인지 잘 구분하지 못하는 이유이기도 하다. 이 현상을 이용하면 소금 섭취량을 줄일 수 있다. 소금과 MSG를 같이 넣으면 소금 양이 적어도 많은 것처럼 느낀다. MSG를 0.38% 넣으면 소금을 0.4%만 넣어도 0.9%를 넣은듯한 짠맛을 느낄 수 있다. 따라서 소금의 농도가 0.9~1% 정도에서 최적일 때 MSG를 넣게 되면 0.7~0.8%로 최적 농도가 낮아진다. 핵산계 조미료도 마찬가지 기능을 한다. 맛에 촉감(물성)마저 연결되어 단맛은 동일한 액체라도 점도가 더 높은 것으로 느끼게 하고, 신맛의 경우 점도가 낮은 것으로 느끼기도 한다. 즉 미각, 후각, 촉각, 온도 감각, 통각에 감정, 분위기, 쾌감과 문화까지 합해져서 맛을 만든다. 맛은 가장 복합적인 공감각의 현상인 것이다.MSG와 소금의 비율을 잘 조절하면 감칠맛을 7배까지 증폭시킬 수 있다.어떤 음식이던 쉰내 혹은 묵은 냄새가 나면 거의 실패했다고 봐야 한다. 사람들은 아주 약한 묵은내도 금방 알아채기 때문이다. 사람들이 신선한 재료를 좋아하는 것은 이 묵은 냄새를 싫어하기 때문이다. 사실 이 묵은내를 숨기는 효과적인 방법은 향신료를 첨가하는 것이다. 서양에서는 로즈마리 같은 향신료를 우리나라에서는 고추나 후추로 어느 정도 가려진다. 이 보다는 효과가 적지만 소금 또한 훌륭한 재료이다. 여전히 묵은 맛이 나지만 그래도 훨씬 먹을 만해진다. 음식에서 적절한 소금은 자체의 짠맛은 드러내지 않고 다른 재료의 좋은 풍미를 부각시키고 나쁜 맛을 눌러준다. 커피의 신맛도 적당한 수준에서는 향을 높이는 수단이고 커피의 쓴맛도 적당한 수준에서는 바디감을 높이는 좋은 맛으로 작동한다. 뛰어난 맛이란 결국 장점이 있으면 단점에 눈을 감는 우리 몸의 공감각 현상과 모호화 현상이 만든 작품인 셈이다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10697" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="“궁합만 잘 맞추면 감칠맛은 폭발한다” – 감칠맛 상승작용 공식" />
+<meta name="twitter:description" content="간식이 단맛과 신맛의 조화라면 요리는 짠맛과 감칠맛의 조화라고 할 수 있다. 이중 단맛은 꿀이나 설탕, 신맛은 식초, 짠맛은 소금 등을 통해 아주 오래 전부터 그 맛의 정체가 드러났다. 소금이 사용된 것은 5,000년 전이고 꿀이나 설탕이 사용된 것도 4,000년 전, 식초가 사용된 것은 3,500년 전이다. 반면, 감칠맛의 정체가 밝혀진 것은 불과 100년 전으로 아주 최근의 일이다. 단백질은 20가지 아미노산으로 만들어 지는데 이중 가장 흔한 것이 글루탐산이고 이 글루탐산의 맛이 바로 감칠맛이다. 아주 맛있는 음식에는 뭔가 맛이 있게 하는 것이 들어 있는데 그 정체가 글루탐산임을 알아채는 데 수천 년이 걸린 것이다.구리하라 겐지 | 일본 아오모리대학교 교수 / 제공 = SBS 일요특선 다큐멘터리 감칠맛의 비밀우리가 감칠맛을 즐기는 가장 쉬운 방법은 고기를 먹는 것이다. 하지만 농경시대가 되고 인구가 증가하면서 고기는 귀한 것이 되었고, 고기 맛을 더 많이 즐기기 위해 각 국가별로 여러 가지 방법을 써서 육수를 만들어 먹었다. 육류에는 단백질 함량이 많다. 따라서 글루탐산의 양도 많다. 하지만 글루탐산의 99%는 단백질 상태로 존재하고 아미노산 상태로 존재하는 것은 1% 수준이다. 과일과 채소는 좀 다르다. 단백질의 비율이 낮아서 글루탐산의 양도 적다. 하지만 존재하는 글루탐산의 90% 이하가 단백질 상태이고 10% 이상은 아미노산 상태이다. 채소는 단백질 양은 적지만 그 대신 분해된 비율이 높아 그럭저럭 감칠맛 소재로 쓸 만하다. 샤브샤브 국물에 채소를 넣으면 감칠맛이 나는 이유이기도 하다. 그중에서도 토마토는 정말 별난 작물이다. 우유는 아미노산 상태로 존재하는 글루탐산의 비율이 0.2%에 불과하고 치즈로 만들어 충분한 숙성 과정을 거쳐 미생물에 의해 분해되어야 겨우 10% 정도의 글루탐산이 존재하는데 비하여 잘 익은 토마토는 무려 59%가 유리 글루탐산으로 존재한다. 토마토는 가히 감칠맛을 위해 존재하는 채소라 할 수 있다. 토마토 외에도 유리 글루탐산이 많은 재료들이 주로 요리에서 많은 사랑을 받았다. | 재료의 궁합을 맞춰 감칠맛을 증폭시키는 ‘상승작용’감칠맛에는 다른 맛에는 드문 재미있는 현상이 있다. 바로 감칠맛의 ‘상승작용’이다. 감칠맛을 내는 재료는 한 가지를 쓸 때보다 다른 재료와 궁합을 맞춰 같이 사용하면 양에 비해 감칠맛이 엄청나게 증가한다. 이것은 아미노산 계인 MSG와 핵산계인 IMP나 GMP가 만나서 일어나는 현상이다. 이노신산(IMP)이 MSG와 5:5로 만나면 감칠맛이 원래보다 7배까지 증폭된다. 핵산계 조미료는 가격이 비싸므로 타협해서 1:9 정도로 혼합해 주어도 감칠맛은 5배 이상 증가한다. 1:100으로만 혼합해도 2배가 증가한다. 그래서 MSG 위주의 다시마 국물을 낼 때 IMP가 풍부한 가쓰오부시나 멸치를 꼭 넣는 이유가 바로 이것이다. 이런 상승작용은 구아닐산(GMP)이 더 강력하다. 5:5 혼합이면 무려 30배나 증폭된다. 1:10이면 20배, 1:100일 때도 무려 5배나 증폭된다. 자체로는 별로 맛이 없는 버섯이 국물요리에 자주 등장하는 이유이다.감칠맛의 시너지 효과가 구체적으로 밝혀진 것은 1960년대다. 하지만 훨씬 오래전부터 요리사들은 경험적으로 알고 있었다. 세상의 맛있는 요리는 대부분 국물을 우려내는 과정이 있다. 국가별로 스타일만 조금 다를 뿐 효과는 동일하다. 일본은 다시마와 가쓰오부시를 결합해서 쓰고, 우리나라는 다시마와 멸치를 같이 쓰고, 중국은 채소와 닭고기 뼈를 조합해서 쓴다. 다양한 재료가 맛을 깊게 한다.MSG와 상승효과MSG –IMP 7배GMP 30배대표 재료고기류+++++닭 뼈 등 부산물도 이용생선류+++++멸치, 가쓰오부시게, 새우+++오징어, 문어+++말린오징어++++조개+++다시마++++말린 표고버섯++++++채소++토마토단백분해물++++된장, 간장, HVP김+++++&lt;감칠맛의 종류별로 많이 사용되는 재료&gt;국가글루탐산 원천　　이노신산 원천서양양파, 당근, 샐러리+ 소고기 사태일본다시마＋ 가쓰오부시중국배추, 파＋ 닭 뼈한국다시마+ 멸치&lt;국가별로 감칠맛의 재료를 조합하는 형태&gt;| 단백질을 분해해도 감칠맛이 증폭한다오래 가열할수록 감칠맛 성분은 많이 추출되지만 엄연히 한계가 있다. 감칠맛을 발견한 이케다 교수는 40kg의 다시마에서 겨우 30g을 생산할 수 있었다. 유리 글루탐산이 많지 않기 때문이다. 음식을 끓인다고 단백질이 마구 분해되어 유리 글루탐산이 팍팍 증가하지는 않는다. 효과적으로 단백질을 분해하는 방법을 찾아야 하는데 미생물에 있는 효소를 이용한 발효가 대표적인 방법이다. 우유의 단백질을 분해한 치즈, 콩의 단백질을 분해한 된장, 간장, 생선의 단백질을 분해한 젓갈이 대표적이다. 콩에는 단백질이 36.2%가 들어 있고 이중 글루탐산은 25%이다. 따라서 콩 100g에는 9g의 글루탐산이 들어 있는 셈이다. 이것을 모두 맛으로 느끼면 엄청나겠지만, 콩의 글루탐산은 거의 전부가 단백질로 결합(bound)된 상태라 감칠맛을 느끼기 힘들다. 그래서 콩을 삶아 메주를 만들고 미생물로 분해하여 장류로 만든다. 어떤 단백질이든 숙성이나 발효를 시키면 단백질이 분해되어 감칠맛 성분은 증가한다. 요즘 유행하는 소고기의 에이징이 바로 그런 효과를 노린 것이다. 우리가 유난히 콩을 소재로 한 된장, 간장 등의 장류를 많이 만들어 먹은 것은 콩이 가장 구하기 좋은 단백질원이었기 때문이다.제대로 발효시키는 것은 생각보다 어렵다. 요즘 젊은 주부들은 발효의 초보 단계인 김치 담그는 것조차 어려워한다. 옛날에는 지금처럼 요리 프로그램도 많지 않았다. 하지만 감칠맛에 대한 갈망이 그렇게 컸기 때문에 까다롭고 손이 많이 가는 발효식품을 그렇게 다양하게 만들어 먹었던 것이다. 예전 종갓집 음식의 맛의 비결도 대부분 까다롭게 발효시킨 장류에서 나온 것이었다. | 그래서 맛은 다양한 요소와 상호작용한다.맛과 향의 목적은 결국 그것을 먹을 것인지 말 것인지를 판단하기 위한 것이다. 이를 위해서는 여러 정보를 통합하여야 한다. 감각세포에서 감지한 신호는 사구체 영역에서 1차 연합을 이루고 각각의 감각연합에 전달된다. 여기까지는 독립된 감각이지만 후각, 미각, 청각, 시각, 촉각의 정보가 모두 모이는 곳이 있다. 바로 전두엽 중에서 눈 위쪽에 있는 ‘안와전두피질(OFC)’이라는 곳이다. 이곳에서 맛의 최종 판단이 이루어진다. 여기에서 모든 감각이 연합하기에 우리는 맛과 향을 구분하기 힘든 것이다. 과일에 단맛이 진하면 향도 진하게 느껴지고 신맛의 여부는 잘 느끼지 못한다. 사실 신맛이 약간 강해서 향이 강한 것인데도 그냥 달고 맛있다고만 느끼는 식이다. 떡볶이가 맛이 있다고 느끼지만 실제 그 떡볶이가 다른 것보다 단맛이 강해서인지 감칠맛이 강해서인지 잘 구분하지 못하는 이유이기도 하다. 이 현상을 이용하면 소금 섭취량을 줄일 수 있다. 소금과 MSG를 같이 넣으면 소금 양이 적어도 많은 것처럼 느낀다. MSG를 0.38% 넣으면 소금을 0.4%만 넣어도 0.9%를 넣은듯한 짠맛을 느낄 수 있다. 따라서 소금의 농도가 0.9~1% 정도에서 최적일 때 MSG를 넣게 되면 0.7~0.8%로 최적 농도가 낮아진다. 핵산계 조미료도 마찬가지 기능을 한다. 맛에 촉감(물성)마저 연결되어 단맛은 동일한 액체라도 점도가 더 높은 것으로 느끼게 하고, 신맛의 경우 점도가 낮은 것으로 느끼기도 한다. 즉 미각, 후각, 촉각, 온도 감각, 통각에 감정, 분위기, 쾌감과 문화까지 합해져서 맛을 만든다. 맛은 가장 복합적인 공감각의 현상인 것이다.MSG와 소금의 비율을 잘 조절하면 감칠맛을 7배까지 증폭시킬 수 있다.어떤 음식이던 쉰내 혹은 묵은 냄새가 나면 거의 실패했다고 봐야 한다. 사람들은 아주 약한 묵은내도 금방 알아채기 때문이다. 사람들이 신선한 재료를 좋아하는 것은 이 묵은 냄새를 싫어하기 때문이다. 사실 이 묵은내를 숨기는 효과적인 방법은 향신료를 첨가하는 것이다. 서양에서는 로즈마리 같은 향신료를 우리나라에서는 고추나 후추로 어느 정도 가려진다. 이 보다는 효과가 적지만 소금 또한 훌륭한 재료이다. 여전히 묵은 맛이 나지만 그래도 훨씬 먹을 만해진다. 음식에서 적절한 소금은 자체의 짠맛은 드러내지 않고 다른 재료의 좋은 풍미를 부각시키고 나쁜 맛을 눌러준다. 커피의 신맛도 적당한 수준에서는 향을 높이는 수단이고 커피의 쓴맛도 적당한 수준에서는 바디감을 높이는 좋은 맛으로 작동한다. 뛰어난 맛이란 결국 장점이 있으면 단점에 눈을 감는 우리 몸의 공감각 현상과 모호화 현상이 만든 작품인 셈이다.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/10697" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://chefnews.kr/wp/wp-content/uploads/2016/01/%EC%B2%9C%EC%97%B0%EC%A1%B0%EB%AF%B8%EB%A3%8C%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B7%B8%EB%A7%8C%EC%A2%80-%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4%EB%8A%94-MSG%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%8A%88.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1161?seq=1161';
+var _USER_ID_ = '';
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1557771002660658",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1161&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1161",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/1161';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/1161';
+    var title = '“궁합만 잘 맞추면 감칠맛은 폭발한다” – 감칠맛 상승작용 공식';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=1161",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="1161">
+<input type="hidden" name="bid" value="2">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>“궁합만 잘 맞추면 감칠맛은 폭발한다” – 감칠맛 상승작용 공식</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">셰프뉴스<span>|</span>2016-02-19 오전 09:50<span>|</span><span class="cate_view">214</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1164"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1158"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">간식이 단맛과 신맛의 조화라면 요리는 짠맛과 감칠맛의 조화라고 할 수 있다. 이중 단맛은 꿀이나 설탕, 신맛은 식초, 짠맛은 소금 등을 통해 아주 오래 전부터 그 맛의 정체가 드러났다. 소금이 사용된 것은 5,000년 전이고 꿀이나 설탕이 사용된 것도 4,000년 전, 식초가 사용된 것은 3,500년 전이다. 반면, 감칠맛의 정체가 밝혀진 것은 불과 100년 전으로 아주 최근의 일이다. 단백질은 20가지 아미노산으로 만들어 지는데 이중 가장 흔한 것이 글루탐산이고 이 글루탐산의 맛이 바로 감칠맛이다. 아주 맛있는 음식에는 뭔가 맛이 있게 하는 것이 들어 있는데 그 정체가 글루탐산임을 알아채는 데 수천 년이 걸린 것이다.</p><figure id="attachment_10702" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 500px; background-color: rgb(255, 255, 255);"><a href="http://chefnews.kr/wp/wp-content/uploads/2016/01/%EC%B2%9C%EC%97%B0%EC%A1%B0%EB%AF%B8%EB%A3%8C%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B7%B8%EB%A7%8C%EC%A2%80-%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4%EB%8A%94-MSG%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%8A%88.jpg" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(68, 68, 68); text-decoration: none; transition: all 0.2s ease-in-out;"><img class="wp-image-10702 size-full tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/01/%EC%B2%9C%EC%97%B0%EC%A1%B0%EB%AF%B8%EB%A3%8C%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B7%B8%EB%A7%8C%EC%A2%80-%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4%EB%8A%94-MSG%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%8A%88.jpg" alt="천연조미료(이제는 그만좀 했으면 좋겠다는 MSG에 대한 이슈)" width="500" height="275" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;"></a><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">구리하라 겐지 | 일본 아오모리대학교 교수 / 제공 = SBS 일요특선 다큐멘터리 감칠맛의 비밀</figcaption></figure><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">우리가 감칠맛을 즐기는 가장 쉬운 방법은 고기를 먹는 것이다. 하지만 농경시대가 되고 인구가 증가하면서 고기는 귀한 것이 되었고, 고기 맛을 더 많이 즐기기 위해 각 국가별로 여러 가지 방법을 써서 육수를 만들어 먹었다. 육류에는 단백질 함량이 많다. 따라서 글루탐산의 양도 많다. 하지만 글루탐산의 99%는 단백질 상태로 존재하고 아미노산 상태로 존재하는 것은 1% 수준이다. 과일과 채소는 좀 다르다. 단백질의 비율이 낮아서 글루탐산의 양도 적다. 하지만 존재하는 글루탐산의 90% 이하가 단백질 상태이고 10% 이상은 아미노산 상태이다. 채소는 단백질 양은 적지만 그 대신 분해된 비율이 높아 그럭저럭 감칠맛 소재로 쓸 만하다. 샤브샤브 국물에 채소를 넣으면 감칠맛이 나는 이유이기도 하다. 그중에서도 토마토는 정말 별난 작물이다. 우유는 아미노산 상태로 존재하는 글루탐산의 비율이 0.2%에 불과하고 치즈로 만들어 충분한 숙성 과정을 거쳐 미생물에 의해 분해되어야 겨우 10% 정도의 글루탐산이 존재하는데 비하여 잘 익은 토마토는 무려 59%가 유리 글루탐산으로 존재한다. 토마토는 가히 감칠맛을 위해 존재하는 채소라 할 수 있다. 토마토 외에도 유리 글루탐산이 많은 재료들이 주로 요리에서 많은 사랑을 받았다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><img class="aligncenter size-medium wp-image-10698 tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/01/TKBlog_BakedEggsInTomatoes_8-660x440.jpg" alt="TKBlog_BakedEggsInTomatoes_8" width="660" height="440" style="padding: 0px; margin: 5px auto; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; clear: both; display: block; opacity: 1; transition: all 0.4s ease-in-out;"></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 재료의 궁합을 맞춰 감칠맛을 증폭시키는 ‘상승작용’</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">감칠맛에는 다른 맛에는 드문 재미있는 현상이 있다. 바로 감칠맛의 ‘상승작용’이다. 감칠맛을 내는 재료는 한 가지를 쓸 때보다 다른 재료와 궁합을 맞춰 같이 사용하면 양에 비해 감칠맛이 엄청나게 증가한다. 이것은 아미노산 계인 MSG와 핵산계인 IMP나 GMP가 만나서 일어나는 현상이다. 이노신산(IMP)이 MSG와 5:5로 만나면 감칠맛이 원래보다 7배까지 증폭된다. 핵산계 조미료는 가격이 비싸므로 타협해서 1:9 정도로 혼합해 주어도 감칠맛은 5배 이상 증가한다. 1:100으로만 혼합해도 2배가 증가한다. 그래서 MSG 위주의 다시마 국물을 낼 때 IMP가 풍부한 가쓰오부시나 멸치를 꼭 넣는 이유가 바로 이것이다. 이런 상승작용은 구아닐산(GMP)이 더 강력하다. 5:5 혼합이면 무려 30배나 증폭된다. 1:10이면 20배, 1:100일 때도 무려 5배나 증폭된다. 자체로는 별로 맛이 없는 버섯이 국물요리에 자주 등장하는 이유이다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">감칠맛의 시너지 효과가 구체적으로 밝혀진 것은 1960년대다. 하지만 훨씬 오래전부터 요리사들은 경험적으로 알고 있었다. 세상의 맛있는 요리는 대부분 국물을 우려내는 과정이 있다. 국가별로 스타일만 조금 다를 뿐 효과는 동일하다. 일본은 다시마와 가쓰오부시를 결합해서 쓰고, 우리나라는 다시마와 멸치를 같이 쓰고, 중국은 채소와 닭고기 뼈를 조합해서 쓴다. 다양한 재료가 맛을 깊게 한다.</p><table style="padding: 0px; margin: 0px 0px 1.5em; outline: none; list-style: none; border: 1px solid rgb(238, 238, 238); box-sizing: border-box; border-spacing: 0px; width: 620px; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><tbody style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">MSG와 상승효과</strong></h5></td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">MSG&nbsp;–</strong></h5></td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">IMP&nbsp;7배</strong></h5></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">GMP&nbsp;30배</strong></h5></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">대표 재료</strong></h5></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">고기류</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">+</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++++</td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">닭 뼈 등 부산물도 이용</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">생선류</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">+</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 0, 0);">++++</span></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">멸치, 가쓰오부시</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">게, 새우</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">+</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++</td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;"></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">오징어, 문어</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">+</td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;"></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">말린오징어</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++++</td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;"></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">조개</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">+++</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;"></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">다시마</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 0, 0);">++++</span></td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;"></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">말린 표고버섯</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 0, 0);">++++</span></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;"></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">채소</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">토마토</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">단백분해물</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">++++</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">된장, 간장, HVP</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="132" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">김</td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 0, 0);">+++</span></td><td width="64" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;">+</td><td width="68" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 0, 0);">+</span></td><td width="177" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px; border-top-style: none; border-left-style: none; border-color: initial; box-sizing: border-box;"></td></tr></tbody></table><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; text-align: center; background-color: rgb(255, 255, 255);">&lt;감칠맛의 종류별로 많이 사용되는 재료&gt;</p><table style="padding: 0px; margin: 0px 0px 1.5em; outline: none; list-style: none; border: 1px solid rgb(238, 238, 238); box-sizing: border-box; border-spacing: 0px; width: 620px; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><tbody style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="125" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">국가</strong></h5></td><td width="129" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">글루탐산 원천</strong></h5></td><td width="140" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box; text-align: center;"><h5 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 14px;"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">　　이노신산 원천</strong></h5></td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="125" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">서양</td><td width="129" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">양파, 당근, 샐러리</td><td width="140" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">+ 소고기 사태</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="125" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">일본</td><td width="129" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">다시마</td><td width="140" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">＋ 가쓰오부시</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td width="125" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">중국</td><td width="129" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">배추, 파</td><td width="140" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">＋ 닭 뼈</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="125" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">한국</td><td width="129" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">다시마</td><td width="140" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px; border-top-style: none; border-left-style: none; border-color: initial; box-sizing: border-box;">+ 멸치</td></tr></tbody></table><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; text-align: center; background-color: rgb(255, 255, 255);">&lt;국가별로 감칠맛의 재료를 조합하는 형태&gt;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 단백질을 분해해도 감칠맛이 증폭한다</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">오래 가열할수록 감칠맛 성분은 많이 추출되지만 엄연히 한계가 있다. 감칠맛을 발견한 이케다 교수는 40kg의 다시마에서 겨우 30g을 생산할 수 있었다. 유리 글루탐산이 많지 않기 때문이다. 음식을 끓인다고 단백질이 마구 분해되어 유리 글루탐산이 팍팍 증가하지는 않는다. 효과적으로 단백질을 분해하는 방법을 찾아야 하는데 미생물에 있는 효소를 이용한 발효가 대표적인 방법이다. 우유의 단백질을 분해한 치즈, 콩의 단백질을 분해한 된장, 간장, 생선의 단백질을 분해한 젓갈이 대표적이다. 콩에는 단백질이 36.2%가 들어 있고 이중 글루탐산은 25%이다. 따라서 콩 100g에는 9g의 글루탐산이 들어 있는 셈이다. 이것을 모두 맛으로 느끼면 엄청나겠지만, 콩의 글루탐산은 거의 전부가 단백질로 결합(bound)된 상태라 감칠맛을 느끼기 힘들다. 그래서 콩을 삶아 메주를 만들고 미생물로 분해하여 장류로 만든다. 어떤 단백질이든 숙성이나 발효를 시키면 단백질이 분해되어 감칠맛 성분은 증가한다. 요즘 유행하는 소고기의 에이징이 바로 그런 효과를 노린 것이다. 우리가 유난히 콩을 소재로 한 된장, 간장 등의 장류를 많이 만들어 먹은 것은 콩이 가장 구하기 좋은 단백질원이었기 때문이다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">제대로 발효시키는 것은 생각보다 어렵다. 요즘 젊은 주부들은 발효의 초보 단계인 김치 담그는 것조차 어려워한다. 옛날에는 지금처럼 요리 프로그램도 많지 않았다. 하지만 감칠맛에 대한 갈망이 그렇게 컸기 때문에 까다롭고 손이 많이 가는 발효식품을 그렇게 다양하게 만들어 먹었던 것이다. 예전 종갓집 음식의 맛의 비결도 대부분 까다롭게 발효시킨 장류에서 나온 것이었다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 그래서 맛은 다양한 요소와 상호작용한다.</strong></span></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">맛과 향의 목적은 결국 그것을 먹을 것인지 말 것인지를 판단하기 위한 것이다. 이를 위해서는 여러 정보를 통합하여야 한다. 감각세포에서 감지한 신호는 사구체 영역에서 1차 연합을 이루고 각각의 감각연합에 전달된다. 여기까지는 독립된 감각이지만 후각, 미각, 청각, 시각, 촉각의 정보가 모두 모이는 곳이 있다. 바로 전두엽 중에서 눈 위쪽에 있는 ‘안와전두피질(OFC)’이라는 곳이다. 이곳에서 맛의 최종 판단이 이루어진다. 여기에서 모든 감각이 연합하기에 우리는 맛과 향을 구분하기 힘든 것이다. 과일에 단맛이 진하면 향도 진하게 느껴지고 신맛의 여부는 잘 느끼지 못한다. 사실 신맛이 약간 강해서 향이 강한 것인데도 그냥 달고 맛있다고만 느끼는 식이다. 떡볶이가 맛이 있다고 느끼지만 실제 그 떡볶이가 다른 것보다 단맛이 강해서인지 감칠맛이 강해서인지 잘 구분하지 못하는 이유이기도 하다. 이 현상을 이용하면 소금 섭취량을 줄일 수 있다. 소금과 MSG를 같이 넣으면 소금 양이 적어도 많은 것처럼 느낀다. MSG를 0.38% 넣으면 소금을 0.4%만 넣어도 0.9%를 넣은듯한 짠맛을 느낄 수 있다. 따라서 소금의 농도가 0.9~1% 정도에서 최적일 때 MSG를 넣게 되면 0.7~0.8%로 최적 농도가 낮아진다. 핵산계 조미료도 마찬가지 기능을 한다. 맛에 촉감(물성)마저 연결되어 단맛은 동일한 액체라도 점도가 더 높은 것으로 느끼게 하고, 신맛의 경우 점도가 낮은 것으로 느끼기도 한다. 즉 미각, 후각, 촉각, 온도 감각, 통각에 감정, 분위기, 쾌감과 문화까지 합해져서 맛을 만든다. 맛은 가장 복합적인 공감각의 현상인 것이다.</p><figure id="attachment_10701" class="wp-caption aligncenter" style="padding: 0px; margin: 0px auto 5px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; clear: both; line-height: 18px; font-style: italic; max-width: 100%; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; width: 831px; background-color: rgb(255, 255, 255);"><a href="http://chefnews.kr/wp/wp-content/uploads/2016/01/%EA%B0%90%EC%B9%A0%EB%A7%9B.png" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(68, 68, 68); text-decoration: none; transition: all 0.2s ease-in-out;"><img class="wp-image-10701 size-full tie-appear" src="http://chefnews.kr/wp/wp-content/uploads/2016/01/%EA%B0%90%EC%B9%A0%EB%A7%9B.png" alt="감칠맛" width="831" height="423" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; max-width: 100%; height: auto; vertical-align: middle; opacity: 1; transition: all 0.4s ease-in-out;"></a><figcaption class="wp-caption-text" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">MSG와 소금의 비율을 잘 조절하면 감칠맛을 7배까지 증폭시킬 수 있다.</figcaption></figure><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">어떤 음식이던 쉰내 혹은 묵은 냄새가 나면 거의 실패했다고 봐야 한다. 사람들은 아주 약한 묵은내도 금방 알아채기 때문이다. 사람들이 신선한 재료를 좋아하는 것은 이 묵은 냄새를 싫어하기 때문이다. 사실 이 묵은내를 숨기는 효과적인 방법은 향신료를 첨가하는 것이다. 서양에서는 로즈마리 같은 향신료를 우리나라에서는 고추나 후추로 어느 정도 가려진다. 이 보다는 효과가 적지만 소금 또한 훌륭한 재료이다. 여전히 묵은 맛이 나지만 그래도 훨씬 먹을 만해진다. 음식에서 적절한 소금은 자체의 짠맛은 드러내지 않고 다른 재료의 좋은 풍미를 부각시키고 나쁜 맛을 눌러준다. 커피의 신맛도 적당한 수준에서는 향을 높이는 수단이고 커피의 쓴맛도 적당한 수준에서는 바디감을 높이는 좋은 맛으로 작동한다. 뛰어난 맛이란 결국 장점이 있으면 단점에 눈을 감는 우리 몸의 공감각 현상과 모호화 현상이 만든 작품인 셈이다.</p><p style="font-size: 14px;">· 셰프뉴스에서 보기 : <a href="http://chefnews.kr/archives/10697" target="_blank">http://chefnews.kr/archives/10697</a></p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1164"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1158"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="1161">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','225');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/225?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','225');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/02/2f91c105fd9cb6f785d92e1e021d2e611.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','222');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/222?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','222');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/19/90e70f656669ea35b11e894d148374511.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>355</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,135</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,261</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,229,725,894</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>
