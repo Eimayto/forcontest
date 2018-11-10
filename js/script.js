@@ -4,7 +4,7 @@ var i;
 var recipe;
 //var value = "";
 function normal(){
-	i = 3;
+	i = 1;
 	recipe = "";
 	while(recipe == ""){
 		recipe = prompt('요리 또는 재료를 입력하세요',"김치,양파,~~~");
@@ -12,12 +12,19 @@ function normal(){
 	On1Click();
 }
 function next(){
-	On1Click();
+	if(i==4){
+		alert("최대 페이지입니다.");
+	}
+	else{
+		i+=1;
+		On1Click();
+	}
 }
 function On1Click(){
 	output = "";
 	var message = document.getElementById('message');
 	var loading = document.getElementById('loading');
+	var bunsu = document.getElementById('bunsu');
 	message.innerHTML = "";
 	//모듈 로드
 	/*var client = require('cheerio-httpcli');
@@ -36,11 +43,10 @@ function On1Click(){
 		var body = $.html();
 		console.log(body);*/
 		//loading.innerHTML = i+"/100... 로딩중...";
-		var min = i;
 		//alert(i);
-		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/1.txt";
+		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
-	   rawFile.open("GET", file, false);
+	  rawFile.open("GET", file, false);
 		//value = value+rawFile.readyState+"----> 1</br></br>";
 		//value = "";
 		//value = value+rawFile.status+"----> 3</br></br>";
@@ -63,20 +69,15 @@ function On1Click(){
 			//var body = document.getElementById("message").innerHTML;
 			//var jung = new RegExp("<b>([^<]+)");
 			//var b = body.match(jung)[1];
-			while(/^[^~]+~~/.test(body)){
-				var jung = /^[^~]+~~/.exec(body);
-				var body = body.replace(jung[0],'');
-				alert(jung);
-				if(/^[^|]+.[^|]+.[^~]/.test(jung[0])){
-					var jung = /^([^|]+.[^|]+).([^~])/.exec(jung[0]);
-					if(jung[1].match(new RegExp(recipe)) == recipe){
-						 var gu = /^([^|]+).[^|]+/.exec(jung[1]);
-						 output = output+'<a href="'+jung[2]+'" target="_blank">'+gu[1]+'</a></br>';
-						//alert("URL: www.10000recipe.com/bbs/1947");
-					}
+			while(/([^|]+)|([^\n\r]+)/.test(body)){
+				var jung = /([^|]+)|([^\n\r]+)/.exec(body);
+				body = body.replace(jung[0],'');
+				if(new RegExp(recipe).exec(jung[1]) == recipe){
+					output = output+'<a href="'+jung[2]+'" target="_blank">'+jung[1]+'</a></br>'
 				}
 			}
 			message.innerHTML = output+'</br><a onClick="next()" class="next">다음</a>';
+			bunsu.innerHTML = +i+'/4';
 		//message.innerHTML = value;
 		//});
 	//}
