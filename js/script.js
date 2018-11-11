@@ -2,6 +2,7 @@ var body;
 var output;
 var i;
 var recipe;
+var number;
 //var value = "";
 function normal(){
    i = 1;
@@ -30,6 +31,7 @@ function before() {
     }
 }
 function On1Click(){
+	number = 1;
 	output = "";
 	var message = document.getElementById('message');
 	var loading = document.getElementById('loading');
@@ -93,7 +95,8 @@ function On1Click(){
                         break;
                 }
             if(new RegExp(recipe).exec(jung[2]) == recipe){
-               output = output+'<a href="'+jung[3]+move+'"target="_blank">'+jung[2]+'</a></br>';
+               output = output+number+'. <a href="'+jung[3]+move+'"target="_blank" title="'+jung[3]+move+'">'+jung[2]+'</a></br>';
+							 number += 1;
             }
       }
       if (i > 1 && i < 4) {
