@@ -98,11 +98,14 @@ function On1Click(){
       if (page > 1 && page < pagemax) {
           message.innerHTML = outputmessage + '</br><a onClick="before()" href="#top" class="next">이전</a> <a onClick="next()" class="next">다음</a>';
       }
-      else if (page==1) {
+      else if (page==1 && pagemax > 1) {
           message.innerHTML = outputmessage + '</br><a onClick="next()" href="#top" class="next">다음</a>';
       }
-      else {
+      else if (page == pagemax && page > 1){
           message.innerHTML = outputmessage + '</br><a onClick="before()" href="#top" class="next">이전</a>';
+      }
+      else{
+        message.innerHTML = outputmessage;
       }
 			bunsu.innerHTML = page+'번째 page / 총 '+pagemax+'pages';
 		//message.innerHTML = value;
