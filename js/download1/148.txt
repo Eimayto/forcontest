@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="파스타Pasta는 밀가루와 달걀을 이용해서 만드는 이탈리아 전통 요리이다. 피자와 함께 가장 잘 알려진 이탈리아 면 요리로서 이제는 전 세계인의 인기를 얻고 있다. 모양과 조리법에 따라 350여 가지가 넘는 다양한 종류가 있는 파스타. 파스타의 기원은 아직까지 여러 이설이 남아있다. 그리스 신화에 등장하는 기술,대장장이의 신 헤파이스토스Hephaistus가 파스타 제조 기구를 발명했다는 설과 기원전 5세기경 이탈리아 중서부 고대국가인 에트루리아족이 만들어 먹었다는 설 등이 대표적이다. 오늘날의 파스타 즉, 듀럼 밀로 만든 형태는 아랍인이 시칠리아 지역을 지배했을 당시에 들어왔을 가능성이 높다. 이는 국제마카로니 제조업자 협회가 제시한 가설로서 현지에서는 정설로 여겨진다.반죽에 사용되는 듀럼 밀을 갈아 만든 세몰라semola는 일반 밀로 만든 하얀색의 보통 밀가루와는 그 성질이 다르다. 일반 밀가루는 빵처럼 이스트를 넣어 발효하는 제품에 적합하지만 황갈색의 세몰라는 파스타의 형태를 유지하는 데 적합한 경도를 유지할 수 있다. 입자가 거칠고 날카롭기 때문이다. 또한 글루텐 성분을 비교적 많이 함유하고 있어 녹말 입자가 쉽게 분해되지 않고 수분 흡수를 조절해 과도하게 부풀지 않는다. 그래서 파스타 반죽을 만들 때 많이 사용한다.형태별로는 크게 두 가지 종류로 나눌 수 있다. 하나는 짧은 모양의 쇼트short 파스타와 다른 하나는 기다란 면 형태의 롱long파스타로서 각각의 조리 방법이 다르며 식감도 다르다.오늘은 형태별로 나눈 파스타 36가지를 살펴보자.| 쇼트short 파스타쇼트 파스타에는 캐릭터나 알파벳 모양, 소스와 잘 버무려지도록 만든 것까지 그 종류가 다양하다. 우리나라에서는 스파게티처럼 롱 파스타가 인기가 많지만, 오히려 이탈리아에서는 쇼트 파스타의 종류도 많고 요리 방법도 더욱 다양한 편이다.source: www.youchef_tv마케로니maccheroni지름이 3mm~5mm 정도의 원통형 쇼트파스타. 마카로니라고도 불린다. 한국에서는 샐러드나 그라탕에 사용되는 경우가 많은데, 토마토소스나 크림소스와도 잘 어울리며, 다양한 조리방법을 사용할 수 있다. source: www.all-creatures.org리가토니rigatoni이탈리아어로 ‘선’이란 의미의 리가riga가 그 이름의 유래로, 표면에 선이 들어간 지름 8mm~15mm 전후의 튜브형 쇼트파스타. 소스가 잘 묻어나도록 표면에 선(줄)이 들어간 것이 특징이다. 토마토소스, 크림소스, 육류 같은 비교적 무거운 소스와 어울린다. source: www.ecommerce.pastaleonessa.it마니케maniche이탈리아어로 소매를 뜻하는 단어. 굵기가 20mm~30mm 정도인 꽤 굵은 원통형 파스타로, 통속에 고기나 채소 등을 채워 넣어 조리하는 경우가 많다. source: www.fortefat.blogspot.com펜네penne원통형의 양 끝을 펜 끝처럼 대각선으로 잘라낸 것. 이탈리아어에서 펜을 페나Penna라고 하는데, 펜네penne는 그 복수형이다. 펜네 중에도 표면이 매끈한 것과 선이 들어간 것이 있는데, 선이 들어간 펜네를 특히 펜네 리가테penne rigate라고 한다. 펜네라고 하면 고추가 들어간 매운 토마토소스의 펜네 아라비아따penne all’arrabbiata가 유명하다. source: en.wikipedia.org파르팔레farfalle나비 모양을 하고 있으며, 그 이름도 나비란 뜻이다. 토마토소스, 오일, 크림소스 등 여러 가지 맛으로 즐길 수 있다. 특히 크기가 작은 것은 파르팔리네farfalline라고 부르기도 한다. source: commons.wikimedia.org콘킬리에conchiglie이탈리아어로 조개껍데기의 뜻. 표면은 마치 조개껍데기처럼 홈이 파여 있으며, 크기는 10mm~20mm 정도의 것들이 주류를 이룬다. 그 요리법은 다양해서, 샐러드로 등장하는가 하면, 토마토나 크림소스에 버무리거나 오래 삶는 요리에도 사용한다. source: www.howdoyousaythatword.com푸실리fusilli나선형 모양의 쇼트파스타. 어원인 푸소fuso는 이탈리아어로 방추(실을 뽑는 도구)를 뜻한다. 드레싱이나 마요네즈로 버무린 샐러드로서 등장하는 경우가 많으며, 그 외에도 오일파스타로 사용하기도 한다. source: therottengenius.wordpress.com스피랄레spirale이탈리아어로 나선형, 스프링 모양이란 뜻. 푸실리의 별명으로 불린다. 길이가 약간 다르다. source: en.pastazara.com카바타피cavatappi튜브형의 파스타를 나선형으로 꼬아 놓은 모양을 하고 있다. 이름의 유래는 이탈리아어 병따개이다. source: oneyearinperugia.wordpress.com카펠레티cappelletti이탈리아어로 작은 모자란 의미. 작은 라비올리 같은 느낌으로, 주로 반죽에 채소가 들어간 소위 색채 파스타로 만들어진다. 수프의 건더기로 사용하거나, 삶거나 조리는 요리에도 이용한다. source: www.pastificiofaella.com루마키네(루마치네)lumachine이름은 이탈리아어로 달팽이를 의미하는 루마카lumaca를 어원으로 하며, 이름 그대로 달팽이 같은 모양이다. 요리법은 마케로니와 똑같으며 사용 방법이 다양하다. source: www.pastalensi.it루오테ruote바퀴 모양을 하고 있다. 영어명 휠스Wheels로도 유명하다. 일본에서는 영어로 알려진 게 일반적이다. 토마토나 크림소스와 어울린다. source: www.taste.com.au리소니risoni이탈리아어로 쌀알 리소riso의 모양을 한 파스타. 그 크기와 모양은 쌀 그 자체이다. 수프에 이용하는 것이 대부분이다. source: www.riscossa.it세미니semini리소니가 쌀이라면, 세미니는 종자(씨앗). 리소니보다 더 길고 가늘며 끝이 뾰족하다. 이용법은 리소니와 동일. source: de.wikipedia.org오레키에테orecchiette귓불이란 뜻의 파스타. 사람 귓불 같은 모양을 하고 있다. 생파스타의 반죽을 동그랗게 만들고, 엄지로 꾹 눌러서 들어가게 하는 이탈리아 풀리아 Puglia지방의 파스타이다. 브로콜리를 사용한 오일 파스타가 유명하다. source: sallypasleyvargas.com뇨키gnocchi쇼트파스타 중에서도 기원이 아주 오래된, 쇼트파스타의 원조라고도 불린다. 뇨키라는 이름은 옹이라는 이탈리아어에서 유래한다. 특별히 감자와 밀가루로 만든다고 정해진 것이 아니라서 피렌체에서는 시금치나 알뿌리 채소, 호박 같은 걸 반죽에 넣기도 한다. source: coupme.wordpress.com라비올리ravioli크기가 30mm 전후의 사각형을 한 속이 채워진 생파스타. 속의 종류는 이탈리아 도시 숫자만큼이나 있다고 할 정도로 다채롭다. 고기나 치즈, 채소 등을 주로 사용한다. 수프의 건더기로 쓰거나, 소스를 버무려서 오븐에서 굽기도 한다. source: www.italoamericano.org가르가넬리garganelli가르가넬리는 에밀리아 로마냐 주의 전통적인 파스타이다. 식도를 뜻하는 에밀리아 로마냐 주의 방언인 가르가넬garganel에서 유래했다. 로마냐 지방이란, 에밀리아 로마냐 주의 우측, 보로냐의 동쪽 일부와 라벤나, 폴리, 리미니의 일대를 말한다. source: www.kilat.jp엘보Elbow팔꿈치라는 의미의 휘어진 쇼트 파스타이다. 엘보 마카로니로 불리기도 한다. 삶아서 냉수로 식힌 뒤, 샐러드에 곁들이거나 해도 좋다.| 롱long 파스타이름 그대로 기다란 모양은 면 요리에 익숙한 동아시아인들이 파스타에 금세 친숙해질 수 있는 계기를 제공했다. 롱파스타는 스파게티처럼 길고 얇은 형태 외에도 널찍한 라자니아, 리본처럼 말린 페투치네까지 다양하다.source: www.goodtoknow.co.uk스파게티spaghetti지름 1.4~1.9mm 전후, 길이 25cm 전후의 원기둥 모양을 갖고 있다. 굵은 타입의 스파게티는 진한 소스에 어울리고, 가는 타입의 스파게티는 가벼운 소스로 조리해서 먹기에 적합하다. source: www.perfectmorsel.com스파게티니spaghettini일반적으로 굵기 1.2mm~1.6mm 전후의 것을 말하지만, 스파게티와 혼동하는 경우도 있다. 가느다란 스파게티니는 국물이 많은 소스나, 오일 파스타에 적합하다. source: www.emiratesmacaroni.com/macaroni.php버미첼리vermicelli이탈리아어로 길고 가는 벌레(지렁이 같은 긴 벌레)를 의미하는 버미verme가 그 이름의 유래이다. 굵기 1.0mm~1.2mm 전후의 봉(棒, stick) 형태의 것을 일반적으로 칭한다. 가는 버미첼리는 가벼운 오일이나 산뜻한 수프의 고명으로 적합하다. source: www.gratednutmeg.com카펠리니capelline굵기 1.0mm~1.1mm 전후의 극세형 롱파스타. 1.0mm 이하의 것을 이리 부를 때도 있다. 이탈리아어로 머리카락을 의미하는 카펠로capello에서 생겨난 명칭. 굉장히 가늘어서, 수프에 사용하는 경우가 많다. 무더운 여름철에는 차가운 파스타로 사용하는 경우도 있다. source: ilcorvopasta.com카펠리 단젤로capelli d’angelo카펠리니와 마찬가지로 극세형의 롱파스타. 스틱형이 아니라, 마치 즉석 면처럼 한 덩어리씩 둥글게 말아놓은 것이 대부분이다. 이름을 직역하면 천사angelo의 머리카락capelli이란 의미가 된다. 사용법은 카펠리니와 똑같이 수프 등에 사용한다. source: www.ricettaidea.it파파르델레pappardelle그 폭이 20mm 전후가 넘는 평면(납작하고 가는 면)의 롱 파스타. 그 어원이 되는 파파르pappare란 이탈리아어로 “많이 먹는다”라는 의미인 듯하나, 왜 그 이름이 붙은 지는 불명확하다. 평면 타입의 롱 파스타는 주로 크림계열 소스가 잘 맞는다. 또한, 볼로냐풍이라고 불리는 소위 미트 소스 등과도 찰떡궁합이다. source: en.wikipedia.org탈리아텔레tagliatelle칼로 자른다는 의미의 탈리아tagliare를 그 이름의 유래로 하는 폭이 5mm에서 10mm 전후의 평면 타입의 파스타. 시금치나 그 외의 채소들을 갈아 섞어 뽑은 것도 다수 존재한다. 폭이 좁아지면 탈리올리니tagliolini라고 부른다. source: www.simplyrecipes.com페투치니fettucine탈리아텔레와 같은 뜻. 탈리아텔레가 이탈리아 북부에서의 명칭이고, 이탈리아 중부에서 남부까지는 페투치니라고 부른다. source: genes-brain.cocolog-nifty.com쯔이테zite영어명으로는 긴 마카로니라고 불리며, 그 이름대로 지름이 5mm에서 8mm 전후의 튜브 형태의 롱파스타. 통상의 마카로니 크기로 잘라내어 그라탕에 쓰는 일이 많다. source: www.therubyspoon.com부카티니bucatini쯔이테를 가늘게 한 것으로, 지름이 2mm에서 3mm 전후의 튜브형 파스타. 어원인 부카buca는 구멍이라는 의미. 농후한 소스에 아주 적합하다. source: en.wikipedia.org링귀네linguine어원인 링구아lingua는 “혀”라는 의미로, 절단면이 타원형을 이루고 있는 롱파스타. 바질리코와 잣을 사용한 “페스토 알라 제노베제”, 소위 제노바풍에서는 이 링귀네를 사용하는 경우가 많다. source: aaaaccademiaaffamatiaffannati.blogspot.com라자네테 리체lasagnette ricce리체ricce란 주름졌다는 의미로, 폭이 10mm에서 15mm 전후의 톱날 같은 평면 타입의 파스타. source: olivolivo.exblog.jp라자니에(라자니아)lasagne판형(板形)의 파스타로, 일본과 한국에선 라자니아로 불린다. 라자니아라는 이미 요리명으로도 유명하지만, 실은 파스타의 모양을 말하는 이름이다. 옛날에는 수타로 친 생파스타가 주를 이뤘지만, 현재는 건조된 것이 주류이다. source: ciaobologna.wordpress.com키타라chitarra　키타라란 이탈리아어로 기타를 뜻한다. 19세기 중반 아부르쪼Abruzzo주의 라퀼라 l ‘Aquila에서 생겨난 것이 기원이라고 전해진다. 나무상자에 기타처럼 현을 걸고, 그 현 위에 납작하게 만든 면 반죽을 내리눌러서 면 형태로 파스타를 만든다. 면의 절단면이 정방형(정사각형)을 띠게 되는 것이 특징. 새끼 양의 조림 소스로 만드는 것이 전통적인 방법이라고 한다. source: www.pastificiocema.com파사텔리passatelli 파사텔리란 빵가루와 파르메지아노(파마산)를 반죽한 면으로 브로도Brodo(육수)에 삶아서 수프로 먹는 것이 전통적이다. source: www.pastificiocema.com피초케리pizzoccheri피초케리는, 일본의 이팔소바(니하치 소바)와 비슷하게 메밀가루와 밀가루를 8：2 비율부터, 2：1 정도로 혼합해 반죽한다. 폭 10mm, 두께 1.5mm, 길이 70mm 정도의 가는 직사각형 모양으로, 쇼트 파스타라고 하기엔 길고, 롱 파스타라고 하기엔 짧은 크기가 특징이다. 메밀가루가 사용되기 때문에 길게 늘이지 못한다. source: matome.naver.jp비골리Bigoli길고 두툼한 튜브 형태로 사출성형으로 만들어지는 생파스타이다. 이 파스타는 전통적으로는 메밀가루로 만들었지만, 지금은 통밀가루로 만들어지는 게 일반적이다. 전통적으로 이 파스타에는 오리 알이 사용된다. 생김새는 부카티니와 아주 흡사하다. · 셰프뉴스 웹사이트 가기 : http://chefnews.kr · 셰프뉴스에서 보기 : http://chefnews.kr/archives/6022 · 앤스키친 블로그에서 보기 : http://blog.naver.com/annskitchen7">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>이탈리아 요리상식” 당신이 알아야 할 파스타 36종</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/148" />
+<meta property="kakao:title" content="이탈리아 요리상식” 당신이 알아야 할 파스타 36종" />
+<meta property="kakao:description" content="파스타Pasta는 밀가루와 달걀을 이용해서 만드는 이탈리아 전통 요리이다. 피자와 함께 가장 잘 알려진 이탈리아 면 요리로서 이제는 전 세계인의 인기를 얻고 있다. 모양과 조리법에 따라 350여 가지가 넘는 다양한 종류가 있는 파스타. 파스타의 기원은 아직까지 여러 이설이 남아있다. 그리스 신화에 등장하는 기술,대장장이의 신 헤파이스토스Hephaistus가 파스타 제조 기구를 발명했다는 설과 기원전 5세기경 이탈리아 중서부 고대국가인 에트루리아족이 만들어 먹었다는 설 등이 대표적이다. 오늘날의 파스타 즉, 듀럼 밀로 만든 형태는 아랍인이 시칠리아 지역을 지배했을 당시에 들어왔을 가능성이 높다. 이는 국제마카로니 제조업자 협회가 제시한 가설로서 현지에서는 정설로 여겨진다.반죽에 사용되는 듀럼 밀을 갈아 만든 세몰라semola는 일반 밀로 만든 하얀색의 보통 밀가루와는 그 성질이 다르다. 일반 밀가루는 빵처럼 이스트를 넣어 발효하는 제품에 적합하지만 황갈색의 세몰라는 파스타의 형태를 유지하는 데 적합한 경도를 유지할 수 있다. 입자가 거칠고 날카롭기 때문이다. 또한 글루텐 성분을 비교적 많이 함유하고 있어 녹말 입자가 쉽게 분해되지 않고 수분 흡수를 조절해 과도하게 부풀지 않는다. 그래서 파스타 반죽을 만들 때 많이 사용한다.형태별로는 크게 두 가지 종류로 나눌 수 있다. 하나는 짧은 모양의 쇼트short 파스타와 다른 하나는 기다란 면 형태의 롱long파스타로서 각각의 조리 방법이 다르며 식감도 다르다.오늘은 형태별로 나눈 파스타 36가지를 살펴보자.| 쇼트short 파스타쇼트 파스타에는 캐릭터나 알파벳 모양, 소스와 잘 버무려지도록 만든 것까지 그 종류가 다양하다. 우리나라에서는 스파게티처럼 롱 파스타가 인기가 많지만, 오히려 이탈리아에서는 쇼트 파스타의 종류도 많고 요리 방법도 더욱 다양한 편이다.source: www.youchef_tv마케로니maccheroni지름이 3mm~5mm 정도의 원통형 쇼트파스타. 마카로니라고도 불린다. 한국에서는 샐러드나 그라탕에 사용되는 경우가 많은데, 토마토소스나 크림소스와도 잘 어울리며, 다양한 조리방법을 사용할 수 있다. source: www.all-creatures.org리가토니rigatoni이탈리아어로 ‘선’이란 의미의 리가riga가 그 이름의 유래로, 표면에 선이 들어간 지름 8mm~15mm 전후의 튜브형 쇼트파스타. 소스가 잘 묻어나도록 표면에 선(줄)이 들어간 것이 특징이다. 토마토소스, 크림소스, 육류 같은 비교적 무거운 소스와 어울린다. source: www.ecommerce.pastaleonessa.it마니케maniche이탈리아어로 소매를 뜻하는 단어. 굵기가 20mm~30mm 정도인 꽤 굵은 원통형 파스타로, 통속에 고기나 채소 등을 채워 넣어 조리하는 경우가 많다. source: www.fortefat.blogspot.com펜네penne원통형의 양 끝을 펜 끝처럼 대각선으로 잘라낸 것. 이탈리아어에서 펜을 페나Penna라고 하는데, 펜네penne는 그 복수형이다. 펜네 중에도 표면이 매끈한 것과 선이 들어간 것이 있는데, 선이 들어간 펜네를 특히 펜네 리가테penne rigate라고 한다. 펜네라고 하면 고추가 들어간 매운 토마토소스의 펜네 아라비아따penne all’arrabbiata가 유명하다. source: en.wikipedia.org파르팔레farfalle나비 모양을 하고 있으며, 그 이름도 나비란 뜻이다. 토마토소스, 오일, 크림소스 등 여러 가지 맛으로 즐길 수 있다. 특히 크기가 작은 것은 파르팔리네farfalline라고 부르기도 한다. source: commons.wikimedia.org콘킬리에conchiglie이탈리아어로 조개껍데기의 뜻. 표면은 마치 조개껍데기처럼 홈이 파여 있으며, 크기는 10mm~20mm 정도의 것들이 주류를 이룬다. 그 요리법은 다양해서, 샐러드로 등장하는가 하면, 토마토나 크림소스에 버무리거나 오래 삶는 요리에도 사용한다. source: www.howdoyousaythatword.com푸실리fusilli나선형 모양의 쇼트파스타. 어원인 푸소fuso는 이탈리아어로 방추(실을 뽑는 도구)를 뜻한다. 드레싱이나 마요네즈로 버무린 샐러드로서 등장하는 경우가 많으며, 그 외에도 오일파스타로 사용하기도 한다. source: therottengenius.wordpress.com스피랄레spirale이탈리아어로 나선형, 스프링 모양이란 뜻. 푸실리의 별명으로 불린다. 길이가 약간 다르다. source: en.pastazara.com카바타피cavatappi튜브형의 파스타를 나선형으로 꼬아 놓은 모양을 하고 있다. 이름의 유래는 이탈리아어 병따개이다. source: oneyearinperugia.wordpress.com카펠레티cappelletti이탈리아어로 작은 모자란 의미. 작은 라비올리 같은 느낌으로, 주로 반죽에 채소가 들어간 소위 색채 파스타로 만들어진다. 수프의 건더기로 사용하거나, 삶거나 조리는 요리에도 이용한다. source: www.pastificiofaella.com루마키네(루마치네)lumachine이름은 이탈리아어로 달팽이를 의미하는 루마카lumaca를 어원으로 하며, 이름 그대로 달팽이 같은 모양이다. 요리법은 마케로니와 똑같으며 사용 방법이 다양하다. source: www.pastalensi.it루오테ruote바퀴 모양을 하고 있다. 영어명 휠스Wheels로도 유명하다. 일본에서는 영어로 알려진 게 일반적이다. 토마토나 크림소스와 어울린다. source: www.taste.com.au리소니risoni이탈리아어로 쌀알 리소riso의 모양을 한 파스타. 그 크기와 모양은 쌀 그 자체이다. 수프에 이용하는 것이 대부분이다. source: www.riscossa.it세미니semini리소니가 쌀이라면, 세미니는 종자(씨앗). 리소니보다 더 길고 가늘며 끝이 뾰족하다. 이용법은 리소니와 동일. source: de.wikipedia.org오레키에테orecchiette귓불이란 뜻의 파스타. 사람 귓불 같은 모양을 하고 있다. 생파스타의 반죽을 동그랗게 만들고, 엄지로 꾹 눌러서 들어가게 하는 이탈리아 풀리아 Puglia지방의 파스타이다. 브로콜리를 사용한 오일 파스타가 유명하다. source: sallypasleyvargas.com뇨키gnocchi쇼트파스타 중에서도 기원이 아주 오래된, 쇼트파스타의 원조라고도 불린다. 뇨키라는 이름은 옹이라는 이탈리아어에서 유래한다. 특별히 감자와 밀가루로 만든다고 정해진 것이 아니라서 피렌체에서는 시금치나 알뿌리 채소, 호박 같은 걸 반죽에 넣기도 한다. source: coupme.wordpress.com라비올리ravioli크기가 30mm 전후의 사각형을 한 속이 채워진 생파스타. 속의 종류는 이탈리아 도시 숫자만큼이나 있다고 할 정도로 다채롭다. 고기나 치즈, 채소 등을 주로 사용한다. 수프의 건더기로 쓰거나, 소스를 버무려서 오븐에서 굽기도 한다. source: www.italoamericano.org가르가넬리garganelli가르가넬리는 에밀리아 로마냐 주의 전통적인 파스타이다. 식도를 뜻하는 에밀리아 로마냐 주의 방언인 가르가넬garganel에서 유래했다. 로마냐 지방이란, 에밀리아 로마냐 주의 우측, 보로냐의 동쪽 일부와 라벤나, 폴리, 리미니의 일대를 말한다. source: www.kilat.jp엘보Elbow팔꿈치라는 의미의 휘어진 쇼트 파스타이다. 엘보 마카로니로 불리기도 한다. 삶아서 냉수로 식힌 뒤, 샐러드에 곁들이거나 해도 좋다.| 롱long 파스타이름 그대로 기다란 모양은 면 요리에 익숙한 동아시아인들이 파스타에 금세 친숙해질 수 있는 계기를 제공했다. 롱파스타는 스파게티처럼 길고 얇은 형태 외에도 널찍한 라자니아, 리본처럼 말린 페투치네까지 다양하다.source: www.goodtoknow.co.uk스파게티spaghetti지름 1.4~1.9mm 전후, 길이 25cm 전후의 원기둥 모양을 갖고 있다. 굵은 타입의 스파게티는 진한 소스에 어울리고, 가는 타입의 스파게티는 가벼운 소스로 조리해서 먹기에 적합하다. source: www.perfectmorsel.com스파게티니spaghettini일반적으로 굵기 1.2mm~1.6mm 전후의 것을 말하지만, 스파게티와 혼동하는 경우도 있다. 가느다란 스파게티니는 국물이 많은 소스나, 오일 파스타에 적합하다. source: www.emiratesmacaroni.com/macaroni.php버미첼리vermicelli이탈리아어로 길고 가는 벌레(지렁이 같은 긴 벌레)를 의미하는 버미verme가 그 이름의 유래이다. 굵기 1.0mm~1.2mm 전후의 봉(棒, stick) 형태의 것을 일반적으로 칭한다. 가는 버미첼리는 가벼운 오일이나 산뜻한 수프의 고명으로 적합하다. source: www.gratednutmeg.com카펠리니capelline굵기 1.0mm~1.1mm 전후의 극세형 롱파스타. 1.0mm 이하의 것을 이리 부를 때도 있다. 이탈리아어로 머리카락을 의미하는 카펠로capello에서 생겨난 명칭. 굉장히 가늘어서, 수프에 사용하는 경우가 많다. 무더운 여름철에는 차가운 파스타로 사용하는 경우도 있다. source: ilcorvopasta.com카펠리 단젤로capelli d’angelo카펠리니와 마찬가지로 극세형의 롱파스타. 스틱형이 아니라, 마치 즉석 면처럼 한 덩어리씩 둥글게 말아놓은 것이 대부분이다. 이름을 직역하면 천사angelo의 머리카락capelli이란 의미가 된다. 사용법은 카펠리니와 똑같이 수프 등에 사용한다. source: www.ricettaidea.it파파르델레pappardelle그 폭이 20mm 전후가 넘는 평면(납작하고 가는 면)의 롱 파스타. 그 어원이 되는 파파르pappare란 이탈리아어로 “많이 먹는다”라는 의미인 듯하나, 왜 그 이름이 붙은 지는 불명확하다. 평면 타입의 롱 파스타는 주로 크림계열 소스가 잘 맞는다. 또한, 볼로냐풍이라고 불리는 소위 미트 소스 등과도 찰떡궁합이다. source: en.wikipedia.org탈리아텔레tagliatelle칼로 자른다는 의미의 탈리아tagliare를 그 이름의 유래로 하는 폭이 5mm에서 10mm 전후의 평면 타입의 파스타. 시금치나 그 외의 채소들을 갈아 섞어 뽑은 것도 다수 존재한다. 폭이 좁아지면 탈리올리니tagliolini라고 부른다. source: www.simplyrecipes.com페투치니fettucine탈리아텔레와 같은 뜻. 탈리아텔레가 이탈리아 북부에서의 명칭이고, 이탈리아 중부에서 남부까지는 페투치니라고 부른다. source: genes-brain.cocolog-nifty.com쯔이테zite영어명으로는 긴 마카로니라고 불리며, 그 이름대로 지름이 5mm에서 8mm 전후의 튜브 형태의 롱파스타. 통상의 마카로니 크기로 잘라내어 그라탕에 쓰는 일이 많다. source: www.therubyspoon.com부카티니bucatini쯔이테를 가늘게 한 것으로, 지름이 2mm에서 3mm 전후의 튜브형 파스타. 어원인 부카buca는 구멍이라는 의미. 농후한 소스에 아주 적합하다. source: en.wikipedia.org링귀네linguine어원인 링구아lingua는 “혀”라는 의미로, 절단면이 타원형을 이루고 있는 롱파스타. 바질리코와 잣을 사용한 “페스토 알라 제노베제”, 소위 제노바풍에서는 이 링귀네를 사용하는 경우가 많다. source: aaaaccademiaaffamatiaffannati.blogspot.com라자네테 리체lasagnette ricce리체ricce란 주름졌다는 의미로, 폭이 10mm에서 15mm 전후의 톱날 같은 평면 타입의 파스타. source: olivolivo.exblog.jp라자니에(라자니아)lasagne판형(板形)의 파스타로, 일본과 한국에선 라자니아로 불린다. 라자니아라는 이미 요리명으로도 유명하지만, 실은 파스타의 모양을 말하는 이름이다. 옛날에는 수타로 친 생파스타가 주를 이뤘지만, 현재는 건조된 것이 주류이다. source: ciaobologna.wordpress.com키타라chitarra　키타라란 이탈리아어로 기타를 뜻한다. 19세기 중반 아부르쪼Abruzzo주의 라퀼라 l ‘Aquila에서 생겨난 것이 기원이라고 전해진다. 나무상자에 기타처럼 현을 걸고, 그 현 위에 납작하게 만든 면 반죽을 내리눌러서 면 형태로 파스타를 만든다. 면의 절단면이 정방형(정사각형)을 띠게 되는 것이 특징. 새끼 양의 조림 소스로 만드는 것이 전통적인 방법이라고 한다. source: www.pastificiocema.com파사텔리passatelli 파사텔리란 빵가루와 파르메지아노(파마산)를 반죽한 면으로 브로도Brodo(육수)에 삶아서 수프로 먹는 것이 전통적이다. source: www.pastificiocema.com피초케리pizzoccheri피초케리는, 일본의 이팔소바(니하치 소바)와 비슷하게 메밀가루와 밀가루를 8：2 비율부터, 2：1 정도로 혼합해 반죽한다. 폭 10mm, 두께 1.5mm, 길이 70mm 정도의 가는 직사각형 모양으로, 쇼트 파스타라고 하기엔 길고, 롱 파스타라고 하기엔 짧은 크기가 특징이다. 메밀가루가 사용되기 때문에 길게 늘이지 못한다. source: matome.naver.jp비골리Bigoli길고 두툼한 튜브 형태로 사출성형으로 만들어지는 생파스타이다. 이 파스타는 전통적으로는 메밀가루로 만들었지만, 지금은 통밀가루로 만들어지는 게 일반적이다. 전통적으로 이 파스타에는 오리 알이 사용된다. 생김새는 부카티니와 아주 흡사하다. · 셰프뉴스 웹사이트 가기 : http://chefnews.kr · 셰프뉴스에서 보기 : http://chefnews.kr/archives/6022 · 앤스키친 블로그에서 보기 : http://blog.naver.com/annskitchen7" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/148" />
+<meta property="og:title" content="이탈리아 요리상식” 당신이 알아야 할 파스타 36종" />
+<meta property="og:image" content="http://chefnews.kr/wp/wp-content/uploads/2015/07/7-660x330.jpg" />
+<meta property="og:description" content="파스타Pasta는 밀가루와 달걀을 이용해서 만드는 이탈리아 전통 요리이다. 피자와 함께 가장 잘 알려진 이탈리아 면 요리로서 이제는 전 세계인의 인기를 얻고 있다. 모양과 조리법에 따라 350여 가지가 넘는 다양한 종류가 있는 파스타. 파스타의 기원은 아직까지 여러 이설이 남아있다. 그리스 신화에 등장하는 기술,대장장이의 신 헤파이스토스Hephaistus가 파스타 제조 기구를 발명했다는 설과 기원전 5세기경 이탈리아 중서부 고대국가인 에트루리아족이 만들어 먹었다는 설 등이 대표적이다. 오늘날의 파스타 즉, 듀럼 밀로 만든 형태는 아랍인이 시칠리아 지역을 지배했을 당시에 들어왔을 가능성이 높다. 이는 국제마카로니 제조업자 협회가 제시한 가설로서 현지에서는 정설로 여겨진다.반죽에 사용되는 듀럼 밀을 갈아 만든 세몰라semola는 일반 밀로 만든 하얀색의 보통 밀가루와는 그 성질이 다르다. 일반 밀가루는 빵처럼 이스트를 넣어 발효하는 제품에 적합하지만 황갈색의 세몰라는 파스타의 형태를 유지하는 데 적합한 경도를 유지할 수 있다. 입자가 거칠고 날카롭기 때문이다. 또한 글루텐 성분을 비교적 많이 함유하고 있어 녹말 입자가 쉽게 분해되지 않고 수분 흡수를 조절해 과도하게 부풀지 않는다. 그래서 파스타 반죽을 만들 때 많이 사용한다.형태별로는 크게 두 가지 종류로 나눌 수 있다. 하나는 짧은 모양의 쇼트short 파스타와 다른 하나는 기다란 면 형태의 롱long파스타로서 각각의 조리 방법이 다르며 식감도 다르다.오늘은 형태별로 나눈 파스타 36가지를 살펴보자.| 쇼트short 파스타쇼트 파스타에는 캐릭터나 알파벳 모양, 소스와 잘 버무려지도록 만든 것까지 그 종류가 다양하다. 우리나라에서는 스파게티처럼 롱 파스타가 인기가 많지만, 오히려 이탈리아에서는 쇼트 파스타의 종류도 많고 요리 방법도 더욱 다양한 편이다.source: www.youchef_tv마케로니maccheroni지름이 3mm~5mm 정도의 원통형 쇼트파스타. 마카로니라고도 불린다. 한국에서는 샐러드나 그라탕에 사용되는 경우가 많은데, 토마토소스나 크림소스와도 잘 어울리며, 다양한 조리방법을 사용할 수 있다. source: www.all-creatures.org리가토니rigatoni이탈리아어로 ‘선’이란 의미의 리가riga가 그 이름의 유래로, 표면에 선이 들어간 지름 8mm~15mm 전후의 튜브형 쇼트파스타. 소스가 잘 묻어나도록 표면에 선(줄)이 들어간 것이 특징이다. 토마토소스, 크림소스, 육류 같은 비교적 무거운 소스와 어울린다. source: www.ecommerce.pastaleonessa.it마니케maniche이탈리아어로 소매를 뜻하는 단어. 굵기가 20mm~30mm 정도인 꽤 굵은 원통형 파스타로, 통속에 고기나 채소 등을 채워 넣어 조리하는 경우가 많다. source: www.fortefat.blogspot.com펜네penne원통형의 양 끝을 펜 끝처럼 대각선으로 잘라낸 것. 이탈리아어에서 펜을 페나Penna라고 하는데, 펜네penne는 그 복수형이다. 펜네 중에도 표면이 매끈한 것과 선이 들어간 것이 있는데, 선이 들어간 펜네를 특히 펜네 리가테penne rigate라고 한다. 펜네라고 하면 고추가 들어간 매운 토마토소스의 펜네 아라비아따penne all’arrabbiata가 유명하다. source: en.wikipedia.org파르팔레farfalle나비 모양을 하고 있으며, 그 이름도 나비란 뜻이다. 토마토소스, 오일, 크림소스 등 여러 가지 맛으로 즐길 수 있다. 특히 크기가 작은 것은 파르팔리네farfalline라고 부르기도 한다. source: commons.wikimedia.org콘킬리에conchiglie이탈리아어로 조개껍데기의 뜻. 표면은 마치 조개껍데기처럼 홈이 파여 있으며, 크기는 10mm~20mm 정도의 것들이 주류를 이룬다. 그 요리법은 다양해서, 샐러드로 등장하는가 하면, 토마토나 크림소스에 버무리거나 오래 삶는 요리에도 사용한다. source: www.howdoyousaythatword.com푸실리fusilli나선형 모양의 쇼트파스타. 어원인 푸소fuso는 이탈리아어로 방추(실을 뽑는 도구)를 뜻한다. 드레싱이나 마요네즈로 버무린 샐러드로서 등장하는 경우가 많으며, 그 외에도 오일파스타로 사용하기도 한다. source: therottengenius.wordpress.com스피랄레spirale이탈리아어로 나선형, 스프링 모양이란 뜻. 푸실리의 별명으로 불린다. 길이가 약간 다르다. source: en.pastazara.com카바타피cavatappi튜브형의 파스타를 나선형으로 꼬아 놓은 모양을 하고 있다. 이름의 유래는 이탈리아어 병따개이다. source: oneyearinperugia.wordpress.com카펠레티cappelletti이탈리아어로 작은 모자란 의미. 작은 라비올리 같은 느낌으로, 주로 반죽에 채소가 들어간 소위 색채 파스타로 만들어진다. 수프의 건더기로 사용하거나, 삶거나 조리는 요리에도 이용한다. source: www.pastificiofaella.com루마키네(루마치네)lumachine이름은 이탈리아어로 달팽이를 의미하는 루마카lumaca를 어원으로 하며, 이름 그대로 달팽이 같은 모양이다. 요리법은 마케로니와 똑같으며 사용 방법이 다양하다. source: www.pastalensi.it루오테ruote바퀴 모양을 하고 있다. 영어명 휠스Wheels로도 유명하다. 일본에서는 영어로 알려진 게 일반적이다. 토마토나 크림소스와 어울린다. source: www.taste.com.au리소니risoni이탈리아어로 쌀알 리소riso의 모양을 한 파스타. 그 크기와 모양은 쌀 그 자체이다. 수프에 이용하는 것이 대부분이다. source: www.riscossa.it세미니semini리소니가 쌀이라면, 세미니는 종자(씨앗). 리소니보다 더 길고 가늘며 끝이 뾰족하다. 이용법은 리소니와 동일. source: de.wikipedia.org오레키에테orecchiette귓불이란 뜻의 파스타. 사람 귓불 같은 모양을 하고 있다. 생파스타의 반죽을 동그랗게 만들고, 엄지로 꾹 눌러서 들어가게 하는 이탈리아 풀리아 Puglia지방의 파스타이다. 브로콜리를 사용한 오일 파스타가 유명하다. source: sallypasleyvargas.com뇨키gnocchi쇼트파스타 중에서도 기원이 아주 오래된, 쇼트파스타의 원조라고도 불린다. 뇨키라는 이름은 옹이라는 이탈리아어에서 유래한다. 특별히 감자와 밀가루로 만든다고 정해진 것이 아니라서 피렌체에서는 시금치나 알뿌리 채소, 호박 같은 걸 반죽에 넣기도 한다. source: coupme.wordpress.com라비올리ravioli크기가 30mm 전후의 사각형을 한 속이 채워진 생파스타. 속의 종류는 이탈리아 도시 숫자만큼이나 있다고 할 정도로 다채롭다. 고기나 치즈, 채소 등을 주로 사용한다. 수프의 건더기로 쓰거나, 소스를 버무려서 오븐에서 굽기도 한다. source: www.italoamericano.org가르가넬리garganelli가르가넬리는 에밀리아 로마냐 주의 전통적인 파스타이다. 식도를 뜻하는 에밀리아 로마냐 주의 방언인 가르가넬garganel에서 유래했다. 로마냐 지방이란, 에밀리아 로마냐 주의 우측, 보로냐의 동쪽 일부와 라벤나, 폴리, 리미니의 일대를 말한다. source: www.kilat.jp엘보Elbow팔꿈치라는 의미의 휘어진 쇼트 파스타이다. 엘보 마카로니로 불리기도 한다. 삶아서 냉수로 식힌 뒤, 샐러드에 곁들이거나 해도 좋다.| 롱long 파스타이름 그대로 기다란 모양은 면 요리에 익숙한 동아시아인들이 파스타에 금세 친숙해질 수 있는 계기를 제공했다. 롱파스타는 스파게티처럼 길고 얇은 형태 외에도 널찍한 라자니아, 리본처럼 말린 페투치네까지 다양하다.source: www.goodtoknow.co.uk스파게티spaghetti지름 1.4~1.9mm 전후, 길이 25cm 전후의 원기둥 모양을 갖고 있다. 굵은 타입의 스파게티는 진한 소스에 어울리고, 가는 타입의 스파게티는 가벼운 소스로 조리해서 먹기에 적합하다. source: www.perfectmorsel.com스파게티니spaghettini일반적으로 굵기 1.2mm~1.6mm 전후의 것을 말하지만, 스파게티와 혼동하는 경우도 있다. 가느다란 스파게티니는 국물이 많은 소스나, 오일 파스타에 적합하다. source: www.emiratesmacaroni.com/macaroni.php버미첼리vermicelli이탈리아어로 길고 가는 벌레(지렁이 같은 긴 벌레)를 의미하는 버미verme가 그 이름의 유래이다. 굵기 1.0mm~1.2mm 전후의 봉(棒, stick) 형태의 것을 일반적으로 칭한다. 가는 버미첼리는 가벼운 오일이나 산뜻한 수프의 고명으로 적합하다. source: www.gratednutmeg.com카펠리니capelline굵기 1.0mm~1.1mm 전후의 극세형 롱파스타. 1.0mm 이하의 것을 이리 부를 때도 있다. 이탈리아어로 머리카락을 의미하는 카펠로capello에서 생겨난 명칭. 굉장히 가늘어서, 수프에 사용하는 경우가 많다. 무더운 여름철에는 차가운 파스타로 사용하는 경우도 있다. source: ilcorvopasta.com카펠리 단젤로capelli d’angelo카펠리니와 마찬가지로 극세형의 롱파스타. 스틱형이 아니라, 마치 즉석 면처럼 한 덩어리씩 둥글게 말아놓은 것이 대부분이다. 이름을 직역하면 천사angelo의 머리카락capelli이란 의미가 된다. 사용법은 카펠리니와 똑같이 수프 등에 사용한다. source: www.ricettaidea.it파파르델레pappardelle그 폭이 20mm 전후가 넘는 평면(납작하고 가는 면)의 롱 파스타. 그 어원이 되는 파파르pappare란 이탈리아어로 “많이 먹는다”라는 의미인 듯하나, 왜 그 이름이 붙은 지는 불명확하다. 평면 타입의 롱 파스타는 주로 크림계열 소스가 잘 맞는다. 또한, 볼로냐풍이라고 불리는 소위 미트 소스 등과도 찰떡궁합이다. source: en.wikipedia.org탈리아텔레tagliatelle칼로 자른다는 의미의 탈리아tagliare를 그 이름의 유래로 하는 폭이 5mm에서 10mm 전후의 평면 타입의 파스타. 시금치나 그 외의 채소들을 갈아 섞어 뽑은 것도 다수 존재한다. 폭이 좁아지면 탈리올리니tagliolini라고 부른다. source: www.simplyrecipes.com페투치니fettucine탈리아텔레와 같은 뜻. 탈리아텔레가 이탈리아 북부에서의 명칭이고, 이탈리아 중부에서 남부까지는 페투치니라고 부른다. source: genes-brain.cocolog-nifty.com쯔이테zite영어명으로는 긴 마카로니라고 불리며, 그 이름대로 지름이 5mm에서 8mm 전후의 튜브 형태의 롱파스타. 통상의 마카로니 크기로 잘라내어 그라탕에 쓰는 일이 많다. source: www.therubyspoon.com부카티니bucatini쯔이테를 가늘게 한 것으로, 지름이 2mm에서 3mm 전후의 튜브형 파스타. 어원인 부카buca는 구멍이라는 의미. 농후한 소스에 아주 적합하다. source: en.wikipedia.org링귀네linguine어원인 링구아lingua는 “혀”라는 의미로, 절단면이 타원형을 이루고 있는 롱파스타. 바질리코와 잣을 사용한 “페스토 알라 제노베제”, 소위 제노바풍에서는 이 링귀네를 사용하는 경우가 많다. source: aaaaccademiaaffamatiaffannati.blogspot.com라자네테 리체lasagnette ricce리체ricce란 주름졌다는 의미로, 폭이 10mm에서 15mm 전후의 톱날 같은 평면 타입의 파스타. source: olivolivo.exblog.jp라자니에(라자니아)lasagne판형(板形)의 파스타로, 일본과 한국에선 라자니아로 불린다. 라자니아라는 이미 요리명으로도 유명하지만, 실은 파스타의 모양을 말하는 이름이다. 옛날에는 수타로 친 생파스타가 주를 이뤘지만, 현재는 건조된 것이 주류이다. source: ciaobologna.wordpress.com키타라chitarra　키타라란 이탈리아어로 기타를 뜻한다. 19세기 중반 아부르쪼Abruzzo주의 라퀼라 l ‘Aquila에서 생겨난 것이 기원이라고 전해진다. 나무상자에 기타처럼 현을 걸고, 그 현 위에 납작하게 만든 면 반죽을 내리눌러서 면 형태로 파스타를 만든다. 면의 절단면이 정방형(정사각형)을 띠게 되는 것이 특징. 새끼 양의 조림 소스로 만드는 것이 전통적인 방법이라고 한다. source: www.pastificiocema.com파사텔리passatelli 파사텔리란 빵가루와 파르메지아노(파마산)를 반죽한 면으로 브로도Brodo(육수)에 삶아서 수프로 먹는 것이 전통적이다. source: www.pastificiocema.com피초케리pizzoccheri피초케리는, 일본의 이팔소바(니하치 소바)와 비슷하게 메밀가루와 밀가루를 8：2 비율부터, 2：1 정도로 혼합해 반죽한다. 폭 10mm, 두께 1.5mm, 길이 70mm 정도의 가는 직사각형 모양으로, 쇼트 파스타라고 하기엔 길고, 롱 파스타라고 하기엔 짧은 크기가 특징이다. 메밀가루가 사용되기 때문에 길게 늘이지 못한다. source: matome.naver.jp비골리Bigoli길고 두툼한 튜브 형태로 사출성형으로 만들어지는 생파스타이다. 이 파스타는 전통적으로는 메밀가루로 만들었지만, 지금은 통밀가루로 만들어지는 게 일반적이다. 전통적으로 이 파스타에는 오리 알이 사용된다. 생김새는 부카티니와 아주 흡사하다. · 셰프뉴스 웹사이트 가기 : http://chefnews.kr · 셰프뉴스에서 보기 : http://chefnews.kr/archives/6022 · 앤스키친 블로그에서 보기 : http://blog.naver.com/annskitchen7" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="이탈리아 요리상식” 당신이 알아야 할 파스타 36종" />
+<meta name="twitter:description" content="파스타Pasta는 밀가루와 달걀을 이용해서 만드는 이탈리아 전통 요리이다. 피자와 함께 가장 잘 알려진 이탈리아 면 요리로서 이제는 전 세계인의 인기를 얻고 있다. 모양과 조리법에 따라 350여 가지가 넘는 다양한 종류가 있는 파스타. 파스타의 기원은 아직까지 여러 이설이 남아있다. 그리스 신화에 등장하는 기술,대장장이의 신 헤파이스토스Hephaistus가 파스타 제조 기구를 발명했다는 설과 기원전 5세기경 이탈리아 중서부 고대국가인 에트루리아족이 만들어 먹었다는 설 등이 대표적이다. 오늘날의 파스타 즉, 듀럼 밀로 만든 형태는 아랍인이 시칠리아 지역을 지배했을 당시에 들어왔을 가능성이 높다. 이는 국제마카로니 제조업자 협회가 제시한 가설로서 현지에서는 정설로 여겨진다.반죽에 사용되는 듀럼 밀을 갈아 만든 세몰라semola는 일반 밀로 만든 하얀색의 보통 밀가루와는 그 성질이 다르다. 일반 밀가루는 빵처럼 이스트를 넣어 발효하는 제품에 적합하지만 황갈색의 세몰라는 파스타의 형태를 유지하는 데 적합한 경도를 유지할 수 있다. 입자가 거칠고 날카롭기 때문이다. 또한 글루텐 성분을 비교적 많이 함유하고 있어 녹말 입자가 쉽게 분해되지 않고 수분 흡수를 조절해 과도하게 부풀지 않는다. 그래서 파스타 반죽을 만들 때 많이 사용한다.형태별로는 크게 두 가지 종류로 나눌 수 있다. 하나는 짧은 모양의 쇼트short 파스타와 다른 하나는 기다란 면 형태의 롱long파스타로서 각각의 조리 방법이 다르며 식감도 다르다.오늘은 형태별로 나눈 파스타 36가지를 살펴보자.| 쇼트short 파스타쇼트 파스타에는 캐릭터나 알파벳 모양, 소스와 잘 버무려지도록 만든 것까지 그 종류가 다양하다. 우리나라에서는 스파게티처럼 롱 파스타가 인기가 많지만, 오히려 이탈리아에서는 쇼트 파스타의 종류도 많고 요리 방법도 더욱 다양한 편이다.source: www.youchef_tv마케로니maccheroni지름이 3mm~5mm 정도의 원통형 쇼트파스타. 마카로니라고도 불린다. 한국에서는 샐러드나 그라탕에 사용되는 경우가 많은데, 토마토소스나 크림소스와도 잘 어울리며, 다양한 조리방법을 사용할 수 있다. source: www.all-creatures.org리가토니rigatoni이탈리아어로 ‘선’이란 의미의 리가riga가 그 이름의 유래로, 표면에 선이 들어간 지름 8mm~15mm 전후의 튜브형 쇼트파스타. 소스가 잘 묻어나도록 표면에 선(줄)이 들어간 것이 특징이다. 토마토소스, 크림소스, 육류 같은 비교적 무거운 소스와 어울린다. source: www.ecommerce.pastaleonessa.it마니케maniche이탈리아어로 소매를 뜻하는 단어. 굵기가 20mm~30mm 정도인 꽤 굵은 원통형 파스타로, 통속에 고기나 채소 등을 채워 넣어 조리하는 경우가 많다. source: www.fortefat.blogspot.com펜네penne원통형의 양 끝을 펜 끝처럼 대각선으로 잘라낸 것. 이탈리아어에서 펜을 페나Penna라고 하는데, 펜네penne는 그 복수형이다. 펜네 중에도 표면이 매끈한 것과 선이 들어간 것이 있는데, 선이 들어간 펜네를 특히 펜네 리가테penne rigate라고 한다. 펜네라고 하면 고추가 들어간 매운 토마토소스의 펜네 아라비아따penne all’arrabbiata가 유명하다. source: en.wikipedia.org파르팔레farfalle나비 모양을 하고 있으며, 그 이름도 나비란 뜻이다. 토마토소스, 오일, 크림소스 등 여러 가지 맛으로 즐길 수 있다. 특히 크기가 작은 것은 파르팔리네farfalline라고 부르기도 한다. source: commons.wikimedia.org콘킬리에conchiglie이탈리아어로 조개껍데기의 뜻. 표면은 마치 조개껍데기처럼 홈이 파여 있으며, 크기는 10mm~20mm 정도의 것들이 주류를 이룬다. 그 요리법은 다양해서, 샐러드로 등장하는가 하면, 토마토나 크림소스에 버무리거나 오래 삶는 요리에도 사용한다. source: www.howdoyousaythatword.com푸실리fusilli나선형 모양의 쇼트파스타. 어원인 푸소fuso는 이탈리아어로 방추(실을 뽑는 도구)를 뜻한다. 드레싱이나 마요네즈로 버무린 샐러드로서 등장하는 경우가 많으며, 그 외에도 오일파스타로 사용하기도 한다. source: therottengenius.wordpress.com스피랄레spirale이탈리아어로 나선형, 스프링 모양이란 뜻. 푸실리의 별명으로 불린다. 길이가 약간 다르다. source: en.pastazara.com카바타피cavatappi튜브형의 파스타를 나선형으로 꼬아 놓은 모양을 하고 있다. 이름의 유래는 이탈리아어 병따개이다. source: oneyearinperugia.wordpress.com카펠레티cappelletti이탈리아어로 작은 모자란 의미. 작은 라비올리 같은 느낌으로, 주로 반죽에 채소가 들어간 소위 색채 파스타로 만들어진다. 수프의 건더기로 사용하거나, 삶거나 조리는 요리에도 이용한다. source: www.pastificiofaella.com루마키네(루마치네)lumachine이름은 이탈리아어로 달팽이를 의미하는 루마카lumaca를 어원으로 하며, 이름 그대로 달팽이 같은 모양이다. 요리법은 마케로니와 똑같으며 사용 방법이 다양하다. source: www.pastalensi.it루오테ruote바퀴 모양을 하고 있다. 영어명 휠스Wheels로도 유명하다. 일본에서는 영어로 알려진 게 일반적이다. 토마토나 크림소스와 어울린다. source: www.taste.com.au리소니risoni이탈리아어로 쌀알 리소riso의 모양을 한 파스타. 그 크기와 모양은 쌀 그 자체이다. 수프에 이용하는 것이 대부분이다. source: www.riscossa.it세미니semini리소니가 쌀이라면, 세미니는 종자(씨앗). 리소니보다 더 길고 가늘며 끝이 뾰족하다. 이용법은 리소니와 동일. source: de.wikipedia.org오레키에테orecchiette귓불이란 뜻의 파스타. 사람 귓불 같은 모양을 하고 있다. 생파스타의 반죽을 동그랗게 만들고, 엄지로 꾹 눌러서 들어가게 하는 이탈리아 풀리아 Puglia지방의 파스타이다. 브로콜리를 사용한 오일 파스타가 유명하다. source: sallypasleyvargas.com뇨키gnocchi쇼트파스타 중에서도 기원이 아주 오래된, 쇼트파스타의 원조라고도 불린다. 뇨키라는 이름은 옹이라는 이탈리아어에서 유래한다. 특별히 감자와 밀가루로 만든다고 정해진 것이 아니라서 피렌체에서는 시금치나 알뿌리 채소, 호박 같은 걸 반죽에 넣기도 한다. source: coupme.wordpress.com라비올리ravioli크기가 30mm 전후의 사각형을 한 속이 채워진 생파스타. 속의 종류는 이탈리아 도시 숫자만큼이나 있다고 할 정도로 다채롭다. 고기나 치즈, 채소 등을 주로 사용한다. 수프의 건더기로 쓰거나, 소스를 버무려서 오븐에서 굽기도 한다. source: www.italoamericano.org가르가넬리garganelli가르가넬리는 에밀리아 로마냐 주의 전통적인 파스타이다. 식도를 뜻하는 에밀리아 로마냐 주의 방언인 가르가넬garganel에서 유래했다. 로마냐 지방이란, 에밀리아 로마냐 주의 우측, 보로냐의 동쪽 일부와 라벤나, 폴리, 리미니의 일대를 말한다. source: www.kilat.jp엘보Elbow팔꿈치라는 의미의 휘어진 쇼트 파스타이다. 엘보 마카로니로 불리기도 한다. 삶아서 냉수로 식힌 뒤, 샐러드에 곁들이거나 해도 좋다.| 롱long 파스타이름 그대로 기다란 모양은 면 요리에 익숙한 동아시아인들이 파스타에 금세 친숙해질 수 있는 계기를 제공했다. 롱파스타는 스파게티처럼 길고 얇은 형태 외에도 널찍한 라자니아, 리본처럼 말린 페투치네까지 다양하다.source: www.goodtoknow.co.uk스파게티spaghetti지름 1.4~1.9mm 전후, 길이 25cm 전후의 원기둥 모양을 갖고 있다. 굵은 타입의 스파게티는 진한 소스에 어울리고, 가는 타입의 스파게티는 가벼운 소스로 조리해서 먹기에 적합하다. source: www.perfectmorsel.com스파게티니spaghettini일반적으로 굵기 1.2mm~1.6mm 전후의 것을 말하지만, 스파게티와 혼동하는 경우도 있다. 가느다란 스파게티니는 국물이 많은 소스나, 오일 파스타에 적합하다. source: www.emiratesmacaroni.com/macaroni.php버미첼리vermicelli이탈리아어로 길고 가는 벌레(지렁이 같은 긴 벌레)를 의미하는 버미verme가 그 이름의 유래이다. 굵기 1.0mm~1.2mm 전후의 봉(棒, stick) 형태의 것을 일반적으로 칭한다. 가는 버미첼리는 가벼운 오일이나 산뜻한 수프의 고명으로 적합하다. source: www.gratednutmeg.com카펠리니capelline굵기 1.0mm~1.1mm 전후의 극세형 롱파스타. 1.0mm 이하의 것을 이리 부를 때도 있다. 이탈리아어로 머리카락을 의미하는 카펠로capello에서 생겨난 명칭. 굉장히 가늘어서, 수프에 사용하는 경우가 많다. 무더운 여름철에는 차가운 파스타로 사용하는 경우도 있다. source: ilcorvopasta.com카펠리 단젤로capelli d’angelo카펠리니와 마찬가지로 극세형의 롱파스타. 스틱형이 아니라, 마치 즉석 면처럼 한 덩어리씩 둥글게 말아놓은 것이 대부분이다. 이름을 직역하면 천사angelo의 머리카락capelli이란 의미가 된다. 사용법은 카펠리니와 똑같이 수프 등에 사용한다. source: www.ricettaidea.it파파르델레pappardelle그 폭이 20mm 전후가 넘는 평면(납작하고 가는 면)의 롱 파스타. 그 어원이 되는 파파르pappare란 이탈리아어로 “많이 먹는다”라는 의미인 듯하나, 왜 그 이름이 붙은 지는 불명확하다. 평면 타입의 롱 파스타는 주로 크림계열 소스가 잘 맞는다. 또한, 볼로냐풍이라고 불리는 소위 미트 소스 등과도 찰떡궁합이다. source: en.wikipedia.org탈리아텔레tagliatelle칼로 자른다는 의미의 탈리아tagliare를 그 이름의 유래로 하는 폭이 5mm에서 10mm 전후의 평면 타입의 파스타. 시금치나 그 외의 채소들을 갈아 섞어 뽑은 것도 다수 존재한다. 폭이 좁아지면 탈리올리니tagliolini라고 부른다. source: www.simplyrecipes.com페투치니fettucine탈리아텔레와 같은 뜻. 탈리아텔레가 이탈리아 북부에서의 명칭이고, 이탈리아 중부에서 남부까지는 페투치니라고 부른다. source: genes-brain.cocolog-nifty.com쯔이테zite영어명으로는 긴 마카로니라고 불리며, 그 이름대로 지름이 5mm에서 8mm 전후의 튜브 형태의 롱파스타. 통상의 마카로니 크기로 잘라내어 그라탕에 쓰는 일이 많다. source: www.therubyspoon.com부카티니bucatini쯔이테를 가늘게 한 것으로, 지름이 2mm에서 3mm 전후의 튜브형 파스타. 어원인 부카buca는 구멍이라는 의미. 농후한 소스에 아주 적합하다. source: en.wikipedia.org링귀네linguine어원인 링구아lingua는 “혀”라는 의미로, 절단면이 타원형을 이루고 있는 롱파스타. 바질리코와 잣을 사용한 “페스토 알라 제노베제”, 소위 제노바풍에서는 이 링귀네를 사용하는 경우가 많다. source: aaaaccademiaaffamatiaffannati.blogspot.com라자네테 리체lasagnette ricce리체ricce란 주름졌다는 의미로, 폭이 10mm에서 15mm 전후의 톱날 같은 평면 타입의 파스타. source: olivolivo.exblog.jp라자니에(라자니아)lasagne판형(板形)의 파스타로, 일본과 한국에선 라자니아로 불린다. 라자니아라는 이미 요리명으로도 유명하지만, 실은 파스타의 모양을 말하는 이름이다. 옛날에는 수타로 친 생파스타가 주를 이뤘지만, 현재는 건조된 것이 주류이다. source: ciaobologna.wordpress.com키타라chitarra　키타라란 이탈리아어로 기타를 뜻한다. 19세기 중반 아부르쪼Abruzzo주의 라퀼라 l ‘Aquila에서 생겨난 것이 기원이라고 전해진다. 나무상자에 기타처럼 현을 걸고, 그 현 위에 납작하게 만든 면 반죽을 내리눌러서 면 형태로 파스타를 만든다. 면의 절단면이 정방형(정사각형)을 띠게 되는 것이 특징. 새끼 양의 조림 소스로 만드는 것이 전통적인 방법이라고 한다. source: www.pastificiocema.com파사텔리passatelli 파사텔리란 빵가루와 파르메지아노(파마산)를 반죽한 면으로 브로도Brodo(육수)에 삶아서 수프로 먹는 것이 전통적이다. source: www.pastificiocema.com피초케리pizzoccheri피초케리는, 일본의 이팔소바(니하치 소바)와 비슷하게 메밀가루와 밀가루를 8：2 비율부터, 2：1 정도로 혼합해 반죽한다. 폭 10mm, 두께 1.5mm, 길이 70mm 정도의 가는 직사각형 모양으로, 쇼트 파스타라고 하기엔 길고, 롱 파스타라고 하기엔 짧은 크기가 특징이다. 메밀가루가 사용되기 때문에 길게 늘이지 못한다. source: matome.naver.jp비골리Bigoli길고 두툼한 튜브 형태로 사출성형으로 만들어지는 생파스타이다. 이 파스타는 전통적으로는 메밀가루로 만들었지만, 지금은 통밀가루로 만들어지는 게 일반적이다. 전통적으로 이 파스타에는 오리 알이 사용된다. 생김새는 부카티니와 아주 흡사하다. · 셰프뉴스 웹사이트 가기 : http://chefnews.kr · 셰프뉴스에서 보기 : http://chefnews.kr/archives/6022 · 앤스키친 블로그에서 보기 : http://blog.naver.com/annskitchen7" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://chefnews.kr/wp/wp-content/uploads/2015/07/7-660x330.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/148?seq=148';
+var _USER_ID_ = '';
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1557771002660658",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=김치볶음밥">김치볶음밥</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=부대찌개">부대찌개</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=볶음밥">볶음밥</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=148&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=148",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/148';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/148';
+    var title = '이탈리아 요리상식” 당신이 알아야 할 파스타 36종';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=148",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="148">
+<input type="hidden" name="bid" value="2">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>이탈리아 요리상식” 당신이 알아야 할 파스타 36종</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">셰프뉴스<span>|</span>2015-10-13 오후 18:20<span>|</span><span class="cate_view">1,044</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=149"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=146"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <div class="single-post-thumb" style="list-style: none; margin: 0px -1px !important; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(51, 51, 51); text-transform: none; line-height: 0 !important; text-indent: 0px; letter-spacing: normal; font-family: Signika; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; word-spacing: 0px; white-space: normal; box-sizing: border-box; widows: 1; -webkit-text-stroke-width: 0px;"><img width="660" height="330" class="attachment-slider wp-post-image tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; width: 662px; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="7" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/7-660x330.jpg"></div><div class="post-inner" style="font: 13px/normal Signika; list-style: none; margin: 0px; padding: 20px; border: 0px currentColor; border-image: none; color: rgb(51, 51, 51); text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: normal; -webkit-text-stroke-width: 0px;"><h1 class="name post-title entry-title" style="list-style: none; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; border-image: none; font-family: BebasNeueRegular, arial, Georgia, serif; font-size: 28px; font-weight: normal; box-sizing: border-box;" itemtype="http://schema.org/Thing" itemscope="" itemprop="itemReviewed"><span style="line-height: 15.6px; font-family: Signika; font-size: 13px;">파스타</span><em style="line-height: 15.6px; font-family: Signika; font-size: 13px; list-style: none; margin: 0px; padding: 0px; border: 0px currentcolor; border-image-source: none; box-sizing: border-box;">Pasta</em><span style="line-height: 15.6px; font-family: Signika; font-size: 13px;">는 밀가루와 달걀을 이용해서 만드는 이탈리아 전통 요리이다. 피자와 함께 가장 잘 알려진 이탈리아 면 요리로서 이제는 전 세계인의 인기를 얻고 있다. 모양과 조리법에 따라 350여 가지가 넘는 다양한 종류가 있는 파스타. 파스타의 기원은 아직까지 여러 이설이 남아있다. 그리스 신화에 등장하는 기술,대장장이의 신 헤파이스토스</span><em style="line-height: 15.6px; font-family: Signika; font-size: 13px; list-style: none; margin: 0px; padding: 0px; border: 0px currentcolor; border-image-source: none; box-sizing: border-box;">Hephaistus</em><span style="line-height: 15.6px; font-family: Signika; font-size: 13px;">가 파스타 제조 기구를 발명했다는 설과 기원전 5세기경 이탈리아 중서부 고대국가인 에트루리아족이 만들어 먹었다는 설 등이 대표적이다. 오늘날의 파스타 즉, 듀럼 밀로 만든 형태는 아랍인이 시칠리아 지역을 지배했을 당시에 들어왔을 가능성이 높다. 이는 국제마카로니 제조업자 협회가 제시한 가설로서 현지에서는 정설로 여겨진다.</span></h1><div class="entry" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 22px; box-sizing: border-box;"><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">반죽에 사용되는 듀럼 밀을 갈아 만든 세몰라<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">semola</em></span>는 일반 밀로 만든 하얀색의 보통 밀가루와는 그 성질이 다르다. 일반 밀가루는 빵처럼 이스트를 넣어 발효하는 제품에 적합하지만 황갈색의 세몰라는 파스타의 형태를 유지하는 데 적합한 경도를 유지할 수 있다. 입자가 거칠고 날카롭기 때문이다. 또한 글루텐 성분을 비교적 많이 함유하고 있어 녹말 입자가 쉽게 분해되지 않고 수분 흡수를 조절해 과도하게 부풀지 않는다. 그래서 파스타 반죽을 만들 때 많이 사용한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">형태별로는 크게 두 가지 종류로 나눌 수 있다. 하나는 짧은 모양의 쇼트<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">short</em></span><span class="Apple-converted-space">&nbsp;</span>파스타와 다른 하나는 기다란 면 형태의 롱<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">long</em></span>파스타로서 각각의 조리 방법이 다르며 식감도 다르다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">오늘은 형태별로 나눈 파스타 36가지를 살펴보자.</p><h3 style="list-style: none; margin: 25px 0px 10px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1em; font-family: Helvetica; font-size: 24px; font-weight: normal; box-sizing: border-box;"><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(255, 102, 0); box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">| 쇼트<em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">short&nbsp;</em>파스타</strong></span></h3><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">쇼트 파스타에는 캐릭터나 알파벳 모양, 소스와 잘 버무려지도록 만든 것까지 그 종류가 다양하다. 우리나라에서는 스파게티처럼 롱 파스타가 인기가 많지만, 오히려 이탈리아에서는 쇼트 파스타의 종류도 많고 요리 방법도 더욱 다양한 편이다.</p><figure class="wp-caption aligncenter" id="attachment_6064" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/maccheroni_youchef_tv.jpg"><img width="585" height="390" class="wp-image-6064 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="maccheroni_youchef_tv" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/maccheroni_youchef_tv.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.youchef_tv</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">마케로니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">maccheroni<br style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;"></em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: left; box-sizing: border-box;">지름이 3mm~5mm 정도의 원통형 쇼트파스타. 마카로니라고도 불린다. 한국에서는 샐러드나 그라탕에 사용되는 경우가 많은데, 토마토소스나 크림소스와도 잘 어울리며, 다양한 조리방법을 사용할 수 있다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6043" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/i-pasta-rigatoni-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6043 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="i-pasta-rigatoni 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/i-pasta-rigatoni-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.all-creatures.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">리가토니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">rigatoni<br style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;"></em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;">이탈리아어로 ‘선’이란 의미의 리가<em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">riga</em>가 그 이름의 유래로, 표면에 선이 들어간 지름 8mm~15mm 전후의 튜브형 쇼트파스타. 소스가 잘 묻어나도록 표면에 선(줄)이 들어간 것이 특징이다. 토마토소스, 크림소스, 육류 같은 비교적 무거운 소스와 어울린다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6044" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/PASTA-85_g_mezze-maniche-rigate-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6044 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="PASTA-85_g_mezze-maniche-rigate 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/PASTA-85_g_mezze-maniche-rigate-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.ecommerce.pastaleonessa.it</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">마니케</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">maniche</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이탈리아어로 소매를 뜻하는 단어. 굵기가 20mm~30mm 정도인 꽤 굵은 원통형 파스타로, 통속에 고기나 채소 등을 채워 넣어 조리하는 경우가 많다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6045" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/penne-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6045 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="penne 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/penne-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.fortefat.blogspot.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">펜네</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">penne</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">원통형의 양 끝을 펜 끝처럼 대각선으로 잘라낸 것. 이탈리아어에서 펜을 페나<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">Penna</em></span>라고 하는데, 펜네<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">penne</em></span>는 그 복수형이다. 펜네 중에도 표면이 매끈한 것과 선이 들어간 것이 있는데, 선이 들어간 펜네를 특히 펜네 리가테<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">penne rigate</em></span>라고 한다. 펜네라고 하면 고추가 들어간 매운 토마토소스의 펜네 아라비아따<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">penne all’arrabbiata</em></span>가 유명하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6035" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Farfalle_Pasta-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6035 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Farfalle_Pasta 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Farfalle_Pasta-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: en.wikipedia.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">파르팔레</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">farfalle</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">나비 모양을 하고 있으며, 그 이름도 나비란 뜻이다. 토마토소스, 오일, 크림소스 등 여러 가지 맛으로 즐길 수 있다. 특히 크기가 작은 것은 파르팔리네<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">farfalline</em></span>라고 부르기도 한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6032" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Conchiglie_Pasta_Texture-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6032 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Conchiglie_Pasta_Texture 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Conchiglie_Pasta_Texture-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: commons.wikimedia.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">콘킬리에</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">conchiglie</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이탈리아어로 조개껍데기의 뜻. 표면은 마치 조개껍데기처럼 홈이 파여 있으며, 크기는 10mm~20mm 정도의 것들이 주류를 이룬다. 그 요리법은 다양해서, 샐러드로 등장하는가 하면, 토마토나 크림소스에 버무리거나 오래 삶는 요리에도 사용한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6046" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/fusilli-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6046 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="fusilli 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/fusilli-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.howdoyousaythatword.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">푸실리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">fusilli</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">나선형 모양의 쇼트파스타. 어원인 푸소<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">fuso</em></span>는 이탈리아어로 방추(실을 뽑는 도구)를 뜻한다. 드레싱이나 마요네즈로 버무린 샐러드로서 등장하는 경우가 많으며, 그 외에도 오일파스타로 사용하기도 한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6030" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/veggie_spiral_pasta1-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6030 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="veggie_spiral_pasta1 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/veggie_spiral_pasta1-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: therottengenius.wordpress.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">스피랄레</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">spirale</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이탈리아어로 나선형, 스프링 모양이란 뜻. 푸실리의 별명으로 불린다. 길이가 약간 다르다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6047" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/trafilata-861-cavatappi-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6047 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="trafilata-861-cavatappi 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/trafilata-861-cavatappi-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: en.pastazara.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">카바타피</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">cavatappi</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">튜브형의 파스타를 나선형으로 꼬아 놓은 모양을 하고 있다. 이름의 유래는 이탈리아어 병따개이다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6039" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/dsc_0178-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6039 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="dsc_0178 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/dsc_0178-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: oneyearinperugia.wordpress.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">카펠레티</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">cappelletti</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이탈리아어로 작은 모자란 의미. 작은 라비올리 같은 느낌으로, 주로 반죽에 채소가 들어간 소위 색채 파스타로 만들어진다. 수프의 건더기로 사용하거나, 삶거나 조리는 요리에도 이용한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6033" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/lumachine-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6033 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="[#Beginning of Shooting Data Section] Nikon D70 2009/07/16 19:46:19.9 Compressed RAW (12-bit) Image Size: Large (3008 x 2000) Lens: 17-50 mm F/2.8 G Focal Length: 45 mm Exposure Mode: Manual Metering Mode: Center-Weighted 1/400 s - F/2.8 Exposure Comp.: 0 EV Sensitivity: ISO 200 Optimize Image: Portrait White Balance: Flash -3 Focus Mode: AF-S VR Control: Long Exposure NR: OFF Color Mode: Mode Ia (sRGB) Tone Comp.: Auto Hue Adjustment: 0¡Æ Saturation: Normal Sharpening: Medium low Flash Mode: Flash Exposure Comp.: Flash Sync Mode: Image Comment: [#End of Shooting Data Section]" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/lumachine-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.pastificiofaella.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">루마키네</strong>(루마치네)<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">lumachine</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이름은 이탈리아어로 달팽이를 의미하는 루마카<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">lumaca</em></span>를 어원으로 하며, 이름 그대로 달팽이 같은 모양이다. 요리법은 마케로니와 똑같으며 사용 방법이 다양하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6034" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/I-035_wagon_weels-ruote-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6034 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="I-035_wagon_weels ruote 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/I-035_wagon_weels-ruote-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.pastalensi.it</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">루오테</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">ruote</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">바퀴 모양을 하고 있다. 영어명 휠스<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">Wheels</em></span>로도 유명하다. 일본에서는 영어로 알려진 게 일반적이다. 토마토나 크림소스와 어울린다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6048" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/risoni-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6048 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="risoni 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/risoni-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.taste.com.au</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">리소니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">risoni</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이탈리아어로 쌀알 리소<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">riso</em></span>의 모양을 한 파스타. 그 크기와 모양은 쌀 그 자체이다. 수프에 이용하는 것이 대부분이다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6049" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/72_Semini-melloni-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6049 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="72_Semini melloni 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/72_Semini-melloni-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.riscossa.it</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">세미니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">semini</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">리소니가 쌀이라면, 세미니는 종자(씨앗). 리소니보다 더 길고 가늘며 끝이 뾰족하다. 이용법은 리소니와 동일.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6036" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Orecchiette_Pasta-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6036 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Orecchiette_Pasta 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Orecchiette_Pasta-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: de.wikipedia.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">오레키에테</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">orecchiette</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">귓불이란 뜻의 파스타. 사람 귓불 같은 모양을 하고 있다. 생파스타의 반죽을 동그랗게 만들고, 엄지로 꾹 눌러서 들어가게 하는 이탈리아 풀리아<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;"><span class="Apple-converted-space">&nbsp;</span>Puglia</em></span>지방의 파스타이다. 브로콜리를 사용한 오일 파스타가 유명하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6050" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Gnocchi-on-board-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6050 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Gnocchi on board 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Gnocchi-on-board-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: sallypasleyvargas.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">뇨키</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">gnocchi</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">쇼트파스타 중에서도 기원이 아주 오래된, 쇼트파스타의 원조라고도 불린다. 뇨키라는 이름은 옹이라는 이탈리아어에서 유래한다. 특별히 감자와 밀가루로 만든다고 정해진 것이 아니라서 피렌체에서는 시금치나 알뿌리 채소, 호박 같은 걸 반죽에 넣기도 한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6031" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/homemade-ravioli-s600x600-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6031 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="homemade-ravioli-s600x600 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/homemade-ravioli-s600x600-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: coupme.wordpress.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">라비올리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">ravioli</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">크기가 30mm 전후의 사각형을 한 속이 채워진 생파스타. 속의 종류는 이탈리아 도시 숫자만큼이나 있다고 할 정도로 다채롭다. 고기나 치즈, 채소 등을 주로 사용한다. 수프의 건더기로 쓰거나, 소스를 버무려서 오븐에서 굽기도 한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6051" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/pettine_per_garganelli-www.italoamericano.org-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6051 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="pettine_per_garganelli www.italoamericano.org 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/pettine_per_garganelli-www.italoamericano.org-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.italoamericano.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">가르가넬리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">garganelli</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">가르가넬리는 에밀리아 로마냐 주의 전통적인 파스타이다. 식도를 뜻하는 에밀리아 로마냐 주의 방언인 가르가넬<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">garganel</em></span>에서 유래했다. 로마냐 지방이란, 에밀리아 로마냐 주의 우측, 보로냐의 동쪽 일부와 라벤나, 폴리, 리미니의 일대를 말한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6063" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/elbow-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6063 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="elbow 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/elbow-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.kilat.jp</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">엘보</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">Elbow</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">팔꿈치라는 의미의 휘어진 쇼트 파스타이다. 엘보 마카로니로 불리기도 한다. 삶아서 냉수로 식힌 뒤, 샐러드에 곁들이거나 해도 좋다.</p><h3 style="list-style: none; margin: 25px 0px 10px; padding: 0px; border: 0px currentColor; border-image: none; line-height: 1em; font-family: Helvetica; font-size: 24px; font-weight: normal; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;"><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(255, 102, 0); box-sizing: border-box;">| 롱long 파스타</span></strong></h3><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이름 그대로 기다란 모양은 면 요리에 익숙한 동아시아인들이 파스타에 금세 친숙해질 수 있는 계기를 제공했다. 롱파스타는 스파게티처럼 길고 얇은 형태 외에도 널찍한 라자니아, 리본처럼 말린 페투치네까지 다양하다.</p><figure class="wp-caption aligncenter" id="attachment_6061" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Spaghetti-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6061 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="734624a" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Spaghetti-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.goodtoknow.co.uk</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">스파게티</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">spaghetti</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">지름 1.4~1.9mm 전후, 길이 25cm 전후의 원기둥 모양을 갖고 있다. 굵은 타입의 스파게티는 진한 소스에 어울리고, 가는 타입의 스파게티는 가벼운 소스로 조리해서 먹기에 적합하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6052" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Clam-Ramp-Pasta-10-spaghettini-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6052 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Clam-Ramp-Pasta-10 spaghettini 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Clam-Ramp-Pasta-10-spaghettini-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.perfectmorsel.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">스파게티니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">spaghettini</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">일반적으로 굵기 1.2mm~1.6mm 전후의 것을 말하지만, 스파게티와 혼동하는 경우도 있다. 가느다란 스파게티니는 국물이 많은 소스나, 오일 파스타에 적합하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6053" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/vermicelli-nest-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6053 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="vermicelli-nest 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/vermicelli-nest-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.emiratesmacaroni.com/macaroni.php</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">버미첼리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">vermicelli</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">이탈리아어로 길고 가는 벌레(지렁이 같은 긴 벌레)를 의미하는 버미<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">verme</em></span>가 그 이름의 유래이다. 굵기 1.0mm~1.2mm 전후의 봉(棒,<span class="Apple-converted-space">&nbsp;</span><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">stick</em></span>) 형태의 것을 일반적으로 칭한다. 가는 버미첼리는 가벼운 오일이나 산뜻한 수프의 고명으로 적합하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6042" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/capellini-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6042 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="capellini 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/capellini-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.gratednutmeg.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">카펠리니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">capelline</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">굵기 1.0mm~1.1mm 전후의 극세형 롱파스타. 1.0mm 이하의 것을 이리 부를 때도 있다. 이탈리아어로 머리카락을 의미하는 카펠로<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">capello</em></span>에서 생겨난 명칭. 굉장히 가늘어서, 수프에 사용하는 경우가 많다. 무더운 여름철에는 차가운 파스타로 사용하는 경우도 있다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6041" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/capeli-de-angeloilcorvopasta.com-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6041 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="capeli de angeloilcorvopasta.com 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/capeli-de-angeloilcorvopasta.com-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: ilcorvopasta.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">카펠리 단젤로</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">capelli d’angelo</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">카펠리니와 마찬가지로 극세형의 롱파스타. 스틱형이 아니라, 마치 즉석 면처럼 한 덩어리씩 둥글게 말아놓은 것이 대부분이다. 이름을 직역하면 천사<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">angelo</em></span>의 머리카락<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">capelli</em></span>이란 의미가 된다. 사용법은 카펠리니와 똑같이 수프 등에 사용한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6054" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/pappardelle-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6054 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="pappardelle 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/pappardelle-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.ricettaidea.it</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">파파르델레</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">pappardelle</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">그 폭이 20mm 전후가 넘는 평면(납작하고 가는 면)의 롱 파스타. 그 어원이 되는 파파르<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">pappare</em></span>란 이탈리아어로 “많이 먹는다”라는 의미인 듯하나, 왜 그 이름이 붙은 지는 불명확하다. 평면 타입의 롱 파스타는 주로 크림계열 소스가 잘 맞는다. 또한, 볼로냐풍이라고 불리는 소위 미트 소스 등과도 찰떡궁합이다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6029" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Picture_246_w-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6029 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Picture 246" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Picture_246_w-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: en.wikipedia.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">탈리아텔레</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">tagliatelle</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">칼로 자른다는 의미의 탈리아<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">tagliare</em></span>를 그 이름의 유래로 하는 폭이 5mm에서 10mm 전후의 평면 타입의 파스타. 시금치나 그 외의 채소들을 갈아 섞어 뽑은 것도 다수 존재한다. 폭이 좁아지면 탈리올리니<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">tagliolini</em></span>라고 부른다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6055" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/fettucine-alfredo-cream-a-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6055 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="fettucine-alfredo-cream-a 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/fettucine-alfredo-cream-a-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.simplyrecipes.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">페투치니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">fettucine</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">탈리아텔레와 같은 뜻. 탈리아텔레가 이탈리아 북부에서의 명칭이고, 이탈리아 중부에서 남부까지는 페투치니라고 부른다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6037" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/zite-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6037 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="zite 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/zite-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: genes-brain.cocolog-nifty.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">쯔이테</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">zite</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">영어명으로는 긴 마카로니라고 불리며, 그 이름대로 지름이 5mm에서 8mm 전후의 튜브 형태의 롱파스타. 통상의 마카로니 크기로 잘라내어 그라탕에 쓰는 일이 많다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6040" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/bucatini-carbonara-2-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6040 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="bucatini-carbonara-2 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/bucatini-carbonara-2-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.therubyspoon.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">부카티니</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">bucatini</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">쯔이테를 가늘게 한 것으로, 지름이 2mm에서 3mm 전후의 튜브형 파스타. 어원인 부카buca는 구멍이라는 의미. 농후한 소스에 아주 적합하다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6056" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Linguine-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6056 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Linguine 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Linguine-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: en.wikipedia.org</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">링귀네</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">linguine</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">어원인 링구아<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">lingua</em></span>는 “혀”라는 의미로, 절단면이 타원형을 이루고 있는 롱파스타. 바질리코와 잣을 사용한 “페스토 알라 제노베제”, 소위 제노바풍에서는 이 링귀네를 사용하는 경우가 많다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6057" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/lasagne-ricce-2-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6057 tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="lasagne ricce 2 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/lasagne-ricce-2-%EC%82%AC%EB%B3%B8-300x200.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: aaaaccademiaaffamatiaffannati.blogspot.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">라자네테 리체</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">lasagnette ricce</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">리체<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">ricce</em></span>란 주름졌다는 의미로, 폭이 10mm에서 15mm 전후의 톱날 같은 평면 타입의 파스타.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6058" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/lasagne-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="389" class="wp-image-6058 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="lasagne 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/lasagne-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: olivolivo.exblog.jp</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">라자니에</strong>(라자니아)<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">lasagne</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">판형(板形)의 파스타로, 일본과 한국에선 라자니아로 불린다. 라자니아라는 이미 요리명으로도 유명하지만, 실은 파스타의 모양을 말하는 이름이다. 옛날에는 수타로 친 생파스타가 주를 이뤘지만, 현재는 건조된 것이 주류이다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6038" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/chitarra-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6038 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="chitarra 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/chitarra-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: ciaobologna.wordpress.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">키타라</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">chitarra　</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">키타라란 이탈리아어로 기타를 뜻한다. 19세기 중반 아부르쪼<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">Abruzzo</em></span>주의 라퀼라<span class="Apple-converted-space">&nbsp;</span><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">l&nbsp;‘Aquila</em></span>에서 생겨난 것이 기원이라고 전해진다. 나무상자에 기타처럼 현을 걸고, 그 현 위에 납작하게 만든 면 반죽을 내리눌러서 면 형태로 파스타를 만든다. 면의 절단면이 정방형(정사각형)을 띠게 되는 것이 특징. 새끼 양의 조림 소스로 만드는 것이 전통적인 방법이라고 한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6059" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/passatelli-1-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6059 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="passatelli-1 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/passatelli-1-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.pastificiocema.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">파사텔리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">passatelli&nbsp;</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">파사텔리란 빵가루와 파르메지아노(파마산)를 반죽한 면으로 브로도<span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">Brodo</em></span>(육수)에 삶아서 수프로 먹는 것이 전통적이다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6062" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/pizzoccheri-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6062 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="pizzoccheri 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/pizzoccheri-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: www.pastificiocema.com</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">피초케리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">pizzoccheri</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">피초케리는, 일본의 이팔소바(니하치 소바)와 비슷하게 메밀가루와 밀가루를 8：2 비율부터, 2：1 정도로 혼합해 반죽한다. 폭 10mm, 두께 1.5mm, 길이 70mm 정도의 가는 직사각형 모양으로, 쇼트 &nbsp;파스타라고 하기엔 길고, 롱 파스타라고 하기엔 짧은 크기가 특징이다. 메밀가루가 사용되기 때문에 길게 늘이지 못한다.</p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">&nbsp;</p><figure class="wp-caption aligncenter" id="attachment_6060" style="list-style: none; margin: 0px auto 5px; padding: 0px; border: 0px currentColor; border-image: none; width: 585px; text-align: left; line-height: 18px; clear: both; font-style: italic; max-width: 100%; box-sizing: border-box;"><a style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.2s ease-in-out; border-image: none; color: rgb(68, 68, 68); text-decoration: none; box-sizing: border-box;" href="http://chefnews.kr/wp/wp-content/uploads/2015/07/Pasta_Bigoli_Fresh-%EC%82%AC%EB%B3%B8.jpg"><img width="585" height="390" class="wp-image-6060 size-full tie-appear" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; transition:0.4s ease-in-out; border-image: none; height: auto; vertical-align: middle; max-width: 100%; box-sizing: border-box; opacity: 1;" alt="Pasta_Bigoli_Fresh 사본" src="http://chefnews.kr/wp/wp-content/uploads/2015/07/Pasta_Bigoli_Fresh-%EC%82%AC%EB%B3%B8.jpg"></a><figcaption class="wp-caption-text" style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">source: matome.naver.jp</figcaption></figure><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; box-sizing: border-box;"><strong style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">비골리</strong><span style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(153, 153, 153); box-sizing: border-box;"><em style="list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">Bigoli</em></span></p><p style="list-style: none; margin: 0px 0px 20px; padding: 0px; border: 0px currentColor; border-image: none; box-sizing: border-box;">길고 두툼한 튜브 형태로 사출성형으로 만들어지는 생파스타이다. 이 파스타는 전통적으로는 메밀가루로 만들었지만, 지금은 통밀가루로 만들어지는 게 일반적이다. 전통적으로 이 파스타에는 오리 알이 사용된다. 생김새는 부카티니와 아주 흡사하다.</p></div></div>
+<p style="font-size:14px;">· 셰프뉴스 웹사이트 가기 : <a href="http://chefnews.kr" 
+
+target="_blank">http://chefnews.kr</a></p>
+<p style="font-size:14px;">· 셰프뉴스에서 보기 : <a href="http://chefnews.kr/archives/6022" 
+
+target="_blank">http://chefnews.kr/archives/6022</a></p>
+<p style="font-size:14px;">· 앤스키친 블로그에서 보기 : <a href="http://blog.naver.com/annskitchen7" 
+
+target="_blank">http://blog.naver.com/annskitchen7</a></p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=149"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=146"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="148">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','225');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/225?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','225');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/02/2f91c105fd9cb6f785d92e1e021d2e611.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','222');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/222?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','222');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/19/90e70f656669ea35b11e894d148374511.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>355</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,135</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,261</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,229,725,894</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>
