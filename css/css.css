@@ -1,7 +1,7 @@
 #message{
-  font-size: 30px;
+  font-size: 50px;
   width: 130%;
-  line-height: 60px;
+  line-height: 100px;
 }
 .normal {
 	-moz-box-shadow: 3px 4px 0px 0px #899599;
@@ -23,7 +23,7 @@
 	cursor:pointer;
 	color:#3a8a9e;
 	font-family:Arial;
-	font-size:30px;
+	font-size:50px;
 	padding:21px 45px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #e1e2ed;
@@ -63,7 +63,7 @@
 	cursor:pointer;
 	color:#333333;
 	font-family:Arial;
-	font-size:30px;
+	font-size:50px;
 	padding:0px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffee66;

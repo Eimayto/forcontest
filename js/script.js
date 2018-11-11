@@ -34,7 +34,6 @@ function On1Click(){
 	number = 1;
 	output = "";
 	var message = document.getElementById('message');
-	var loading = document.getElementById('loading');
 	var bunsu = document.getElementById('bunsu');
 	message.innerHTML = "";
 	//모듈 로드
@@ -53,7 +52,6 @@ function On1Click(){
 		// 다운로드한 결과를 화면에 출력  ---- ( ※ 3)
 		var body = $.html();
 		console.log(body);*/
-		//loading.innerHTML = i+"/100... 로딩중...";
 		//alert(i);
 		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
