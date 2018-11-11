@@ -8,7 +8,7 @@ function normal(){
    i = 1;
    recipe = "";
    while(recipe == ""){
-      recipe = prompt('요리를 입력하세요');
+      recipe = prompt('주재료를 입력하세요');
    }
    On1Click();
 }
@@ -83,30 +83,19 @@ function On1Click(){
 			while(/(\d)\.([^|]+).([^\n\r]+)/.test(body)){
             var jung = /(\d)\.([^|]+).([^\n\r]+)/.exec(body);
                 body = body.replace(jung[0], '');
-                switch (jung[1]){
-                    case "1":
-                        var move = "#top";
-                        break;
-                    case "2":
-                        var move = "#middle";
-                        break;
-                    case "3":
-                        var move = "#bottom";
-                        break;
-                }
             if(new RegExp(recipe).exec(jung[2]) == recipe){
-               output = output+number+'. <a href="'+jung[3]+move+'"target="_blank" title="'+jung[3]+move+'">'+jung[2]+'</a></br>';
+               output = output+number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)</br>';
 							 number += 1;
             }
       }
       if (i > 1 && i < 4) {
-          message.innerHTML = output + '</br><a onClick="before()" class="next">이전</a> <a onClick="next()" class="next">다음</a>';
+          message.innerHTML = output + '</br><a onClick="before()" href="#top" class="next">이전</a> <a onClick="next()" class="next">다음</a>';
       }
       else if (i==1) {
-          message.innerHTML = output + '</br><a onClick="next()" class="next">다음</a>';
+          message.innerHTML = output + '</br><a onClick="next()" href="#top" class="next">다음</a>';
       }
       else {
-          message.innerHTML = output + '</br><a onClick="before()" class="next">이전</a>';
+          message.innerHTML = output + '</br><a onClick="before()" href="#top" class="next">이전</a>';
       }
 			bunsu.innerHTML = +i+'/4';
 		//message.innerHTML = value;

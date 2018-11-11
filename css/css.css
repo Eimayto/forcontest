@@ -1,5 +1,5 @@
 #message{
-  font-size: 70px;
+  font-size: 30px;
   width: 130%;
   line-height: 100px;
   padding-top: 30px;
@@ -25,7 +25,7 @@
 	cursor:pointer;
 	color:#3a8a9e;
 	font-family:Arial;
-	font-size:60px;
+	font-size:30px;
 	padding:21px 45px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #e1e2ed;
@@ -65,7 +65,7 @@
 	cursor:pointer;
 	color:#333333;
 	font-family:Arial;
-	font-size:28px;
+	font-size:30px;
 	padding:0px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffee66;
