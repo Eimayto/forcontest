@@ -80,6 +80,10 @@ function On1Click(){
                number+=1;
             }
       }
+      if(i==1){
+        alert("검색결과가 없습니다");
+        return false;
+      }
       var max = page*10;
       var min = (max-9);
       var pagemax = Math.ceil(i/10);
