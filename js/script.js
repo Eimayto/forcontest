@@ -4,21 +4,30 @@ var i;
 var recipe;
 //var value = "";
 function normal(){
-	i = 1;
-	recipe = "";
-	while(recipe == ""){
-		recipe = prompt('요리 또는 재료를 입력하세요',"김치,양파,~~~");
-	}
-	On1Click();
+   i = 1;
+   recipe = "";
+   while(recipe == ""){
+      recipe = prompt('요리를 입력하세요');
+   }
+   On1Click();
 }
 function next(){
-	if(i==4){
-		alert("최대 페이지입니다.");
-	}
-	else{
-		i+=1;
-		On1Click();
-	}
+   if(i==4){
+      alert("더 이상 앞으로 넘길 수 없습니다.");
+   }
+   else{
+      i+=1;
+      On1Click();
+   }
+}
+function before() {
+    if (i == 1) {
+        alert("더 이상 뒤로 넘길 수 없습니다.");
+    }
+    else {
+        i -= 1;
+        On1Click();
+    }
 }
 function On1Click(){
 	output = "";
@@ -69,14 +78,33 @@ function On1Click(){
 			//var body = document.getElementById("message").innerHTML;
 			//var jung = new RegExp("<b>([^<]+)");
 			//var b = body.match(jung)[1];
-			while(/([^|]+).([^\n\r]+)/.test(body)){
-				var jung = /([^|]+).([^\n\r]+)/.exec(body);
-				body = body.replace(jung[0],'');
-				if(new RegExp(recipe).exec(jung[1]) == recipe){
-					output = output+'<a href="'+jung[2]+'" target="_blank">'+jung[1]+'</a></br>'
-				}
-			}
-			message.innerHTML = output+'</br><a onClick="next()" class="next">다음</a>';
+			while(/(\d)\.([^|]+).([^\n\r]+)/.test(body)){
+            var jung = /(\d)\.([^|]+).([^\n\r]+)/.exec(body);
+                body = body.replace(jung[0], '');
+                switch (jung[1]){
+                    case "1":
+                        var move = "#top";
+                        break;
+                    case "2":
+                        var move = "#middle";
+                        break;
+                    case "3":
+                        var move = "#bottom";
+                        break;
+                }
+            if(new RegExp(recipe).exec(jung[2]) == recipe){
+               output = output+'<a href="'+jung[3]+move+'"target="_blank">'+jung[2]+'</a></br>';
+            }
+      }
+      if (i > 1 && i < 4) {
+          message.innerHTML = output + '</br><a onClick="before()" class="next">이전</a> <a onClick="next()" class="next">다음</a>';
+      }
+      else if (i==1) {
+          message.innerHTML = output + '</br><a onClick="next()" class="next">다음</a>';
+      }
+      else {
+          message.innerHTML = output + '</br><a onClick="before()" class="next">이전</a>';
+      }
 			bunsu.innerHTML = +i+'/4';
 		//message.innerHTML = value;
 		//});
