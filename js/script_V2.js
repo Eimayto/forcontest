@@ -82,6 +82,7 @@ function On1Click(){
       }
       if(i==1){
         alert("검색결과가 없습니다");
+        bunsu.innerHTML = "";
         return false;
       }
       var max = page*10;
