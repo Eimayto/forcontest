@@ -76,7 +76,7 @@ function On1Click(){
             body = body.replace(jung[0], '');
             //jung[1]=번호, jung[2]=요리이름, jung[3]=간단레시피주소, jung[4]=이미지주소, jung[5]=상세레시피주소
             if(new RegExp(recipe).test(jung[2])){
-               output[i] = number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)</br>'+jung[4]+' href="http://www.10000recipe.com/recipe/'+jung[5]+'"></br>';
+               output[i] = number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)</br><a href="http://www.10000recipe.com/recipe/'+jung[5]+'" target="_blank">'+jung[4]+' width="300" title="http://www.10000recipe.com/recipe/'+jung[5]+'"></a></br>';
                i += 1;
                number+=1;
             }
