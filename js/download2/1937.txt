@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="셰프들은 수년간 기술을 갈고 닦습니다. 그리고 시행착오 끝에 완벽한 음식을 만들기 위한 자신만의 노하우와 요령들을 터득하지요.미국 최대의 인터넷 커뮤니티인 레딧(바로가기)에서 셰프들은 각자의 요리 노하우를 기꺼이 공유했습니다. 다방면의 경력을 가진 셰프들의 요리 노하우가 들어 있는 이 글은 업장에서 일하는 전문 요리사에게도, 집에서 요리하는 주부에게도 도움이 될만합니다.우리는 그 노하우 중에서 몇 가지를 꼽았습니다. 일부는 오늘 저녁에라도 당장 당신의 주방에 적용될만한 것들도 있습니다. ID : BufaloBounce무엇을 굽더라도 절대 팬에 꽉 차게 하지 마세요. 더 큰 팬을 가지고 오던지, 조금씩 나눠서 여러 번 반복하든지 하세요. 감자나 채소를 볶을sauté 때 색이 제대로 나지 않고 바삭하게 구워지지 않는 건, 너무 양이 많아 채소에서 나온 즙에 잠겨 버렸기 때문입니다.ID : Chicostick추락하는 칼은 잡을 수가 없습니다. 추락 전에 주의하세요.ID : Pump N Dump루Roux를 만드는 데 한 가지 팁을 알려드리자면, 견과류 냄새가 날 때까지 볶으세요.익명게시자밥솥 뚜껑 좀 열어보지 마. 부탁할게. 제발 그 빌어먹을 밥솥 뚜껑 좀 가만 놔두란 말이야. 밥이 질거나 타는 게 걱정돼서 열어보고 싶다고 하지만 그건 물양을 잘못 맞췄거나 뚜껑을 열어서 그런 거야. 밥솥의 증기가 밥을 익히고 있는데 뚜껑을 열면 증기가 다 빠져나가 돌이킬 수 없게 돼버리는 거야.ID : Anxdiety첨가하고 싶은 양념의 냄새만 맡고 음식을 먹어보세요. 코를 막고 음식을 먹으면 맛을 느끼지 못하는 것과 정반대의 이치죠. 양념의 냄새가 음식과 섞여 음식에 넣지 않아도 잘 어울리는지 미리 알 수 있습니다.ID : Iam4real스테이크는 그릴에서 꺼내도 여열로 계속 익습니다.ID : Flashoutthepan흑 후추는 160도 정도에서 타버립니다. 꼭 마지막에 넣으세요.익명게시자한 셰프가 나에게 딸기 위에 후추를 갈아서 뿌리면 딸기 맛 사탕 같아진다고 해서 내가 해봤는데, 완전 강추!ID : Maxximillian“진짜 버터를 써, 마가린을 손에 들고 있는 순간부터 벌써 잘못된 거야.”ID : BenZonna129기본적인 맛의 조합을 배우세요. 가장 좋은 방법은 향신료 교역의 역사를 한 번 읽어 보는 것입니다. 어떤 향신료가 어느 음식에 쓰였는지 역사를 아는 게 조합을 배우는 가장 좋은 방법입니다. 예로 들어보면 ;프랑스 : 레몬 + 파슬리, 당근, 양파, 셀러리, 타라곤, 처빌, 세이지, 지역산 허브멕시코 : 라임 + 실란트로, 고수, 큐민, 고추태국 : 라임 + 민트, 실란트로, 샬롯, 마늘, 생강, 레몬그라스, 고량강, 타이바질, 피망이탈리아 : 토마토 + 바질, 마늘, 올리브유, 고추, 오레가노, 월계수잎ID : Shadybrianfarm세상 어디에도 마늘을 한쪽만 넣어서 충분히 향이 나는 레시피는 없다.ID : Toker98xx제발 손 좀 씻어라.ID : TheRobotRabbit좋은 소스는 어떤 음식도 맛있게 살릴 수 있어요. 적어도 3가지 정도의 소스는 냉장고에 있는 기본 재료로 만들 수 있도록 외워두세요. 레드와인 소스(레드와인 한 컵, 버터 조금, 소금, 양파, 후추)는 값싼 스테이크도 맛있게 만들어주죠. 간단한 마리네라 소스는 만드는 데 만원도 안 들어요. 하지만 이탈리안 레스토랑에서 파는 이만 원짜리 파스타만큼 좋은 소스죠. 당신이 좋아하는 소스는 레시피를 찾아서 꼭 외워두세요.ID : Uncle monty레몬이나 오렌지 같은 감귤류의 과일의 과즙이 필요하다면 전자레인지에 30초만 돌려보세요. 원래 과즙이 이렇게나 많았나? 하고 깜짝 놀라게 될 것입니다.ID : Ayestfu만약 수프가 조금 짜다면, 껍질 깎은 감자를 넣고 15분 후에 꺼내보세요. 뭐, 그래도 안 되면 별수 없고.ID : Mrpoopistan양파 카라멜라이징을 숙달하세요. 양파 카라멜라이징을 잘할 수 있다면 거의 모든 소스를 맛있게 할 수 있을 겁니다.ID : Funnywhennecessary내 최강 비밀병기는 머스타드지. 거의 모든 음식이 아주 조금의 머스타드를 넣으면 더 맛있어지거든.ID : Mzito싹양배추Brussel sprouts는 쓴맛이 나게 하는 화학물질을 증발시키려면 적어도 20분 정도는 구워야 합니다.ID : Hpshortshop717내가 요리에 관한 이야기를 할 때마다 빠트리지 않고 하는 이야기가 있어. 소금의 중요성. 요오드가 첨가된 일반 소금보다 코셔 소금Kosher Salt를 쓰는 게 간을 맞추기도 쉽고 맛도 좋아. 한 번 쓰기 시작하면 코셔 소금에서 절대 못 빠져나올 거라고 내가 장담하지.ID : Mrsmooseq양파, 샐러리, 당근, 마늘을 다져놓은 걸 미르포아Mire Poix라 부르는데, 이건 마법의 재료지. 주방에 항상 준비된 상태를 유지하길 바라. 주방에도 당신 인생에도 도움될 테니까.ID : Scartonbot구이 요리나 가금류 요리를 하면 내부까지 적당히 익었는지 걱정인데, 고기온도계를 하나 장만하면 모든 걱정 해결이지. 그리고 웬만하면 염지하는 법도 알아두면 좋아. 고기를 소금, 설탕, 향신료를 섞은 물에 담가 두는 법을 익혀 놓으면 닭가슴살도 뻑뻑하지 않게 조리할 수 있지. 아, 그리고 지방이 제일 맛있는 거예요. 살찐다고 겁내지 마요.익명게시자토마토 소스를 만들기 전에 토마토를 데쳐(30초 정도 끓는 물에 담갔다 빼세요) 껍질을 벗겨내세요. 토마토 껍질은 더럽게 쓰니까요.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/12773">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>22가지의 요리 팁 : 셰프가 전하는 그들만의 노하우</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1937" />
+<meta property="kakao:title" content="22가지의 요리 팁 : 셰프가 전하는 그들만의 노하우" />
+<meta property="kakao:description" content="셰프들은 수년간 기술을 갈고 닦습니다. 그리고 시행착오 끝에 완벽한 음식을 만들기 위한 자신만의 노하우와 요령들을 터득하지요.미국 최대의 인터넷 커뮤니티인 레딧(바로가기)에서 셰프들은 각자의 요리 노하우를 기꺼이 공유했습니다. 다방면의 경력을 가진 셰프들의 요리 노하우가 들어 있는 이 글은 업장에서 일하는 전문 요리사에게도, 집에서 요리하는 주부에게도 도움이 될만합니다.우리는 그 노하우 중에서 몇 가지를 꼽았습니다. 일부는 오늘 저녁에라도 당장 당신의 주방에 적용될만한 것들도 있습니다. ID : BufaloBounce무엇을 굽더라도 절대 팬에 꽉 차게 하지 마세요. 더 큰 팬을 가지고 오던지, 조금씩 나눠서 여러 번 반복하든지 하세요. 감자나 채소를 볶을sauté 때 색이 제대로 나지 않고 바삭하게 구워지지 않는 건, 너무 양이 많아 채소에서 나온 즙에 잠겨 버렸기 때문입니다.ID : Chicostick추락하는 칼은 잡을 수가 없습니다. 추락 전에 주의하세요.ID : Pump N Dump루Roux를 만드는 데 한 가지 팁을 알려드리자면, 견과류 냄새가 날 때까지 볶으세요.익명게시자밥솥 뚜껑 좀 열어보지 마. 부탁할게. 제발 그 빌어먹을 밥솥 뚜껑 좀 가만 놔두란 말이야. 밥이 질거나 타는 게 걱정돼서 열어보고 싶다고 하지만 그건 물양을 잘못 맞췄거나 뚜껑을 열어서 그런 거야. 밥솥의 증기가 밥을 익히고 있는데 뚜껑을 열면 증기가 다 빠져나가 돌이킬 수 없게 돼버리는 거야.ID : Anxdiety첨가하고 싶은 양념의 냄새만 맡고 음식을 먹어보세요. 코를 막고 음식을 먹으면 맛을 느끼지 못하는 것과 정반대의 이치죠. 양념의 냄새가 음식과 섞여 음식에 넣지 않아도 잘 어울리는지 미리 알 수 있습니다.ID : Iam4real스테이크는 그릴에서 꺼내도 여열로 계속 익습니다.ID : Flashoutthepan흑 후추는 160도 정도에서 타버립니다. 꼭 마지막에 넣으세요.익명게시자한 셰프가 나에게 딸기 위에 후추를 갈아서 뿌리면 딸기 맛 사탕 같아진다고 해서 내가 해봤는데, 완전 강추!ID : Maxximillian“진짜 버터를 써, 마가린을 손에 들고 있는 순간부터 벌써 잘못된 거야.”ID : BenZonna129기본적인 맛의 조합을 배우세요. 가장 좋은 방법은 향신료 교역의 역사를 한 번 읽어 보는 것입니다. 어떤 향신료가 어느 음식에 쓰였는지 역사를 아는 게 조합을 배우는 가장 좋은 방법입니다. 예로 들어보면 ;프랑스 : 레몬 + 파슬리, 당근, 양파, 셀러리, 타라곤, 처빌, 세이지, 지역산 허브멕시코 : 라임 + 실란트로, 고수, 큐민, 고추태국 : 라임 + 민트, 실란트로, 샬롯, 마늘, 생강, 레몬그라스, 고량강, 타이바질, 피망이탈리아 : 토마토 + 바질, 마늘, 올리브유, 고추, 오레가노, 월계수잎ID : Shadybrianfarm세상 어디에도 마늘을 한쪽만 넣어서 충분히 향이 나는 레시피는 없다.ID : Toker98xx제발 손 좀 씻어라.ID : TheRobotRabbit좋은 소스는 어떤 음식도 맛있게 살릴 수 있어요. 적어도 3가지 정도의 소스는 냉장고에 있는 기본 재료로 만들 수 있도록 외워두세요. 레드와인 소스(레드와인 한 컵, 버터 조금, 소금, 양파, 후추)는 값싼 스테이크도 맛있게 만들어주죠. 간단한 마리네라 소스는 만드는 데 만원도 안 들어요. 하지만 이탈리안 레스토랑에서 파는 이만 원짜리 파스타만큼 좋은 소스죠. 당신이 좋아하는 소스는 레시피를 찾아서 꼭 외워두세요.ID : Uncle monty레몬이나 오렌지 같은 감귤류의 과일의 과즙이 필요하다면 전자레인지에 30초만 돌려보세요. 원래 과즙이 이렇게나 많았나? 하고 깜짝 놀라게 될 것입니다.ID : Ayestfu만약 수프가 조금 짜다면, 껍질 깎은 감자를 넣고 15분 후에 꺼내보세요. 뭐, 그래도 안 되면 별수 없고.ID : Mrpoopistan양파 카라멜라이징을 숙달하세요. 양파 카라멜라이징을 잘할 수 있다면 거의 모든 소스를 맛있게 할 수 있을 겁니다.ID : Funnywhennecessary내 최강 비밀병기는 머스타드지. 거의 모든 음식이 아주 조금의 머스타드를 넣으면 더 맛있어지거든.ID : Mzito싹양배추Brussel sprouts는 쓴맛이 나게 하는 화학물질을 증발시키려면 적어도 20분 정도는 구워야 합니다.ID : Hpshortshop717내가 요리에 관한 이야기를 할 때마다 빠트리지 않고 하는 이야기가 있어. 소금의 중요성. 요오드가 첨가된 일반 소금보다 코셔 소금Kosher Salt를 쓰는 게 간을 맞추기도 쉽고 맛도 좋아. 한 번 쓰기 시작하면 코셔 소금에서 절대 못 빠져나올 거라고 내가 장담하지.ID : Mrsmooseq양파, 샐러리, 당근, 마늘을 다져놓은 걸 미르포아Mire Poix라 부르는데, 이건 마법의 재료지. 주방에 항상 준비된 상태를 유지하길 바라. 주방에도 당신 인생에도 도움될 테니까.ID : Scartonbot구이 요리나 가금류 요리를 하면 내부까지 적당히 익었는지 걱정인데, 고기온도계를 하나 장만하면 모든 걱정 해결이지. 그리고 웬만하면 염지하는 법도 알아두면 좋아. 고기를 소금, 설탕, 향신료를 섞은 물에 담가 두는 법을 익혀 놓으면 닭가슴살도 뻑뻑하지 않게 조리할 수 있지. 아, 그리고 지방이 제일 맛있는 거예요. 살찐다고 겁내지 마요.익명게시자토마토 소스를 만들기 전에 토마토를 데쳐(30초 정도 끓는 물에 담갔다 빼세요) 껍질을 벗겨내세요. 토마토 껍질은 더럽게 쓰니까요.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/12773" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1937" />
+<meta property="og:title" content="22가지의 요리 팁 : 셰프가 전하는 그들만의 노하우" />
+<meta property="og:image" content="http://recipe1.ezmember.co.kr/cache/bbs/2016/08/22/21aaac2e57fb94963ac7fa15b8b10d2d.jpg" />
+<meta property="og:description" content="셰프들은 수년간 기술을 갈고 닦습니다. 그리고 시행착오 끝에 완벽한 음식을 만들기 위한 자신만의 노하우와 요령들을 터득하지요.미국 최대의 인터넷 커뮤니티인 레딧(바로가기)에서 셰프들은 각자의 요리 노하우를 기꺼이 공유했습니다. 다방면의 경력을 가진 셰프들의 요리 노하우가 들어 있는 이 글은 업장에서 일하는 전문 요리사에게도, 집에서 요리하는 주부에게도 도움이 될만합니다.우리는 그 노하우 중에서 몇 가지를 꼽았습니다. 일부는 오늘 저녁에라도 당장 당신의 주방에 적용될만한 것들도 있습니다. ID : BufaloBounce무엇을 굽더라도 절대 팬에 꽉 차게 하지 마세요. 더 큰 팬을 가지고 오던지, 조금씩 나눠서 여러 번 반복하든지 하세요. 감자나 채소를 볶을sauté 때 색이 제대로 나지 않고 바삭하게 구워지지 않는 건, 너무 양이 많아 채소에서 나온 즙에 잠겨 버렸기 때문입니다.ID : Chicostick추락하는 칼은 잡을 수가 없습니다. 추락 전에 주의하세요.ID : Pump N Dump루Roux를 만드는 데 한 가지 팁을 알려드리자면, 견과류 냄새가 날 때까지 볶으세요.익명게시자밥솥 뚜껑 좀 열어보지 마. 부탁할게. 제발 그 빌어먹을 밥솥 뚜껑 좀 가만 놔두란 말이야. 밥이 질거나 타는 게 걱정돼서 열어보고 싶다고 하지만 그건 물양을 잘못 맞췄거나 뚜껑을 열어서 그런 거야. 밥솥의 증기가 밥을 익히고 있는데 뚜껑을 열면 증기가 다 빠져나가 돌이킬 수 없게 돼버리는 거야.ID : Anxdiety첨가하고 싶은 양념의 냄새만 맡고 음식을 먹어보세요. 코를 막고 음식을 먹으면 맛을 느끼지 못하는 것과 정반대의 이치죠. 양념의 냄새가 음식과 섞여 음식에 넣지 않아도 잘 어울리는지 미리 알 수 있습니다.ID : Iam4real스테이크는 그릴에서 꺼내도 여열로 계속 익습니다.ID : Flashoutthepan흑 후추는 160도 정도에서 타버립니다. 꼭 마지막에 넣으세요.익명게시자한 셰프가 나에게 딸기 위에 후추를 갈아서 뿌리면 딸기 맛 사탕 같아진다고 해서 내가 해봤는데, 완전 강추!ID : Maxximillian“진짜 버터를 써, 마가린을 손에 들고 있는 순간부터 벌써 잘못된 거야.”ID : BenZonna129기본적인 맛의 조합을 배우세요. 가장 좋은 방법은 향신료 교역의 역사를 한 번 읽어 보는 것입니다. 어떤 향신료가 어느 음식에 쓰였는지 역사를 아는 게 조합을 배우는 가장 좋은 방법입니다. 예로 들어보면 ;프랑스 : 레몬 + 파슬리, 당근, 양파, 셀러리, 타라곤, 처빌, 세이지, 지역산 허브멕시코 : 라임 + 실란트로, 고수, 큐민, 고추태국 : 라임 + 민트, 실란트로, 샬롯, 마늘, 생강, 레몬그라스, 고량강, 타이바질, 피망이탈리아 : 토마토 + 바질, 마늘, 올리브유, 고추, 오레가노, 월계수잎ID : Shadybrianfarm세상 어디에도 마늘을 한쪽만 넣어서 충분히 향이 나는 레시피는 없다.ID : Toker98xx제발 손 좀 씻어라.ID : TheRobotRabbit좋은 소스는 어떤 음식도 맛있게 살릴 수 있어요. 적어도 3가지 정도의 소스는 냉장고에 있는 기본 재료로 만들 수 있도록 외워두세요. 레드와인 소스(레드와인 한 컵, 버터 조금, 소금, 양파, 후추)는 값싼 스테이크도 맛있게 만들어주죠. 간단한 마리네라 소스는 만드는 데 만원도 안 들어요. 하지만 이탈리안 레스토랑에서 파는 이만 원짜리 파스타만큼 좋은 소스죠. 당신이 좋아하는 소스는 레시피를 찾아서 꼭 외워두세요.ID : Uncle monty레몬이나 오렌지 같은 감귤류의 과일의 과즙이 필요하다면 전자레인지에 30초만 돌려보세요. 원래 과즙이 이렇게나 많았나? 하고 깜짝 놀라게 될 것입니다.ID : Ayestfu만약 수프가 조금 짜다면, 껍질 깎은 감자를 넣고 15분 후에 꺼내보세요. 뭐, 그래도 안 되면 별수 없고.ID : Mrpoopistan양파 카라멜라이징을 숙달하세요. 양파 카라멜라이징을 잘할 수 있다면 거의 모든 소스를 맛있게 할 수 있을 겁니다.ID : Funnywhennecessary내 최강 비밀병기는 머스타드지. 거의 모든 음식이 아주 조금의 머스타드를 넣으면 더 맛있어지거든.ID : Mzito싹양배추Brussel sprouts는 쓴맛이 나게 하는 화학물질을 증발시키려면 적어도 20분 정도는 구워야 합니다.ID : Hpshortshop717내가 요리에 관한 이야기를 할 때마다 빠트리지 않고 하는 이야기가 있어. 소금의 중요성. 요오드가 첨가된 일반 소금보다 코셔 소금Kosher Salt를 쓰는 게 간을 맞추기도 쉽고 맛도 좋아. 한 번 쓰기 시작하면 코셔 소금에서 절대 못 빠져나올 거라고 내가 장담하지.ID : Mrsmooseq양파, 샐러리, 당근, 마늘을 다져놓은 걸 미르포아Mire Poix라 부르는데, 이건 마법의 재료지. 주방에 항상 준비된 상태를 유지하길 바라. 주방에도 당신 인생에도 도움될 테니까.ID : Scartonbot구이 요리나 가금류 요리를 하면 내부까지 적당히 익었는지 걱정인데, 고기온도계를 하나 장만하면 모든 걱정 해결이지. 그리고 웬만하면 염지하는 법도 알아두면 좋아. 고기를 소금, 설탕, 향신료를 섞은 물에 담가 두는 법을 익혀 놓으면 닭가슴살도 뻑뻑하지 않게 조리할 수 있지. 아, 그리고 지방이 제일 맛있는 거예요. 살찐다고 겁내지 마요.익명게시자토마토 소스를 만들기 전에 토마토를 데쳐(30초 정도 끓는 물에 담갔다 빼세요) 껍질을 벗겨내세요. 토마토 껍질은 더럽게 쓰니까요.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/12773" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="22가지의 요리 팁 : 셰프가 전하는 그들만의 노하우" />
+<meta name="twitter:description" content="셰프들은 수년간 기술을 갈고 닦습니다. 그리고 시행착오 끝에 완벽한 음식을 만들기 위한 자신만의 노하우와 요령들을 터득하지요.미국 최대의 인터넷 커뮤니티인 레딧(바로가기)에서 셰프들은 각자의 요리 노하우를 기꺼이 공유했습니다. 다방면의 경력을 가진 셰프들의 요리 노하우가 들어 있는 이 글은 업장에서 일하는 전문 요리사에게도, 집에서 요리하는 주부에게도 도움이 될만합니다.우리는 그 노하우 중에서 몇 가지를 꼽았습니다. 일부는 오늘 저녁에라도 당장 당신의 주방에 적용될만한 것들도 있습니다. ID : BufaloBounce무엇을 굽더라도 절대 팬에 꽉 차게 하지 마세요. 더 큰 팬을 가지고 오던지, 조금씩 나눠서 여러 번 반복하든지 하세요. 감자나 채소를 볶을sauté 때 색이 제대로 나지 않고 바삭하게 구워지지 않는 건, 너무 양이 많아 채소에서 나온 즙에 잠겨 버렸기 때문입니다.ID : Chicostick추락하는 칼은 잡을 수가 없습니다. 추락 전에 주의하세요.ID : Pump N Dump루Roux를 만드는 데 한 가지 팁을 알려드리자면, 견과류 냄새가 날 때까지 볶으세요.익명게시자밥솥 뚜껑 좀 열어보지 마. 부탁할게. 제발 그 빌어먹을 밥솥 뚜껑 좀 가만 놔두란 말이야. 밥이 질거나 타는 게 걱정돼서 열어보고 싶다고 하지만 그건 물양을 잘못 맞췄거나 뚜껑을 열어서 그런 거야. 밥솥의 증기가 밥을 익히고 있는데 뚜껑을 열면 증기가 다 빠져나가 돌이킬 수 없게 돼버리는 거야.ID : Anxdiety첨가하고 싶은 양념의 냄새만 맡고 음식을 먹어보세요. 코를 막고 음식을 먹으면 맛을 느끼지 못하는 것과 정반대의 이치죠. 양념의 냄새가 음식과 섞여 음식에 넣지 않아도 잘 어울리는지 미리 알 수 있습니다.ID : Iam4real스테이크는 그릴에서 꺼내도 여열로 계속 익습니다.ID : Flashoutthepan흑 후추는 160도 정도에서 타버립니다. 꼭 마지막에 넣으세요.익명게시자한 셰프가 나에게 딸기 위에 후추를 갈아서 뿌리면 딸기 맛 사탕 같아진다고 해서 내가 해봤는데, 완전 강추!ID : Maxximillian“진짜 버터를 써, 마가린을 손에 들고 있는 순간부터 벌써 잘못된 거야.”ID : BenZonna129기본적인 맛의 조합을 배우세요. 가장 좋은 방법은 향신료 교역의 역사를 한 번 읽어 보는 것입니다. 어떤 향신료가 어느 음식에 쓰였는지 역사를 아는 게 조합을 배우는 가장 좋은 방법입니다. 예로 들어보면 ;프랑스 : 레몬 + 파슬리, 당근, 양파, 셀러리, 타라곤, 처빌, 세이지, 지역산 허브멕시코 : 라임 + 실란트로, 고수, 큐민, 고추태국 : 라임 + 민트, 실란트로, 샬롯, 마늘, 생강, 레몬그라스, 고량강, 타이바질, 피망이탈리아 : 토마토 + 바질, 마늘, 올리브유, 고추, 오레가노, 월계수잎ID : Shadybrianfarm세상 어디에도 마늘을 한쪽만 넣어서 충분히 향이 나는 레시피는 없다.ID : Toker98xx제발 손 좀 씻어라.ID : TheRobotRabbit좋은 소스는 어떤 음식도 맛있게 살릴 수 있어요. 적어도 3가지 정도의 소스는 냉장고에 있는 기본 재료로 만들 수 있도록 외워두세요. 레드와인 소스(레드와인 한 컵, 버터 조금, 소금, 양파, 후추)는 값싼 스테이크도 맛있게 만들어주죠. 간단한 마리네라 소스는 만드는 데 만원도 안 들어요. 하지만 이탈리안 레스토랑에서 파는 이만 원짜리 파스타만큼 좋은 소스죠. 당신이 좋아하는 소스는 레시피를 찾아서 꼭 외워두세요.ID : Uncle monty레몬이나 오렌지 같은 감귤류의 과일의 과즙이 필요하다면 전자레인지에 30초만 돌려보세요. 원래 과즙이 이렇게나 많았나? 하고 깜짝 놀라게 될 것입니다.ID : Ayestfu만약 수프가 조금 짜다면, 껍질 깎은 감자를 넣고 15분 후에 꺼내보세요. 뭐, 그래도 안 되면 별수 없고.ID : Mrpoopistan양파 카라멜라이징을 숙달하세요. 양파 카라멜라이징을 잘할 수 있다면 거의 모든 소스를 맛있게 할 수 있을 겁니다.ID : Funnywhennecessary내 최강 비밀병기는 머스타드지. 거의 모든 음식이 아주 조금의 머스타드를 넣으면 더 맛있어지거든.ID : Mzito싹양배추Brussel sprouts는 쓴맛이 나게 하는 화학물질을 증발시키려면 적어도 20분 정도는 구워야 합니다.ID : Hpshortshop717내가 요리에 관한 이야기를 할 때마다 빠트리지 않고 하는 이야기가 있어. 소금의 중요성. 요오드가 첨가된 일반 소금보다 코셔 소금Kosher Salt를 쓰는 게 간을 맞추기도 쉽고 맛도 좋아. 한 번 쓰기 시작하면 코셔 소금에서 절대 못 빠져나올 거라고 내가 장담하지.ID : Mrsmooseq양파, 샐러리, 당근, 마늘을 다져놓은 걸 미르포아Mire Poix라 부르는데, 이건 마법의 재료지. 주방에 항상 준비된 상태를 유지하길 바라. 주방에도 당신 인생에도 도움될 테니까.ID : Scartonbot구이 요리나 가금류 요리를 하면 내부까지 적당히 익었는지 걱정인데, 고기온도계를 하나 장만하면 모든 걱정 해결이지. 그리고 웬만하면 염지하는 법도 알아두면 좋아. 고기를 소금, 설탕, 향신료를 섞은 물에 담가 두는 법을 익혀 놓으면 닭가슴살도 뻑뻑하지 않게 조리할 수 있지. 아, 그리고 지방이 제일 맛있는 거예요. 살찐다고 겁내지 마요.익명게시자토마토 소스를 만들기 전에 토마토를 데쳐(30초 정도 끓는 물에 담갔다 빼세요) 껍질을 벗겨내세요. 토마토 껍질은 더럽게 쓰니까요.· 셰프뉴스에서 보기 : http://chefnews.kr/archives/12773" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://recipe1.ezmember.co.kr/cache/bbs/2016/08/22/21aaac2e57fb94963ac7fa15b8b10d2d.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1937?seq=1937';
+var _USER_ID_ = '';
+</script>
+
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=동치미">동치미</a></li><li><a href="/recipe/list.html?q=잡채">잡채</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=무생채">무생채</a></li><li><a href="/recipe/list.html?q=꼬막무침">꼬막무침</a></li><li><a href="/recipe/list.html?q=백종원">백종원</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1937&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1937",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/1937';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/1937';
+    var title = '22가지의 요리 팁 : 셰프가 전하는 그들만의 노하우';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=1937",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="1937">
+<input type="hidden" name="bid" value="2">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>22가지의 요리 팁 : 셰프가 전하는 그들만의 노하우</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">셰프뉴스<span>|</span>2016-08-22 오전 11:10<span>|</span><span class="cate_view">207</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1937"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1934"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <p></p><div style="text-align: center;"><img src="http://recipe.ezmember.co.kr/cache/bbs/2016/08/22/21aaac2e57fb94963ac7fa15b8b10d2d.jpg" style="max-width:100%;"></div><div style="text-align: center;"><br></div><p></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">셰프들은 수년간 기술을 갈고 닦습니다. 그리고 시행착오 끝에 완벽한 음식을 만들기 위한 자신만의 노하우와 요령들을 터득하지요.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">미국 최대의 인터넷 커뮤니티인 레딧(<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><a href="https://www.reddit.com/r/AskReddit/comments/15ivs8/chefs_of_reddit_what_are_some_some_tips_and/" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">바로가기</a></strong></span>)에서 셰프들은 각자의 요리 노하우를 기꺼이 공유했습니다. 다방면의 경력을 가진 셰프들의 요리 노하우가 들어 있는 이 글은 업장에서 일하는 전문 요리사에게도, 집에서 요리하는 주부에게도 도움이 될만합니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">우리는 그 노하우 중에서 몇 가지를 꼽았습니다. 일부는 오늘 저녁에라도 당장 당신의 주방에 적용될만한 것들도 있습니다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID : BufaloBounce</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">무엇을 굽더라도 절대 팬에 꽉 차게 하지 마세요. 더 큰 팬을 가지고 오던지, 조금씩 나눠서 여러 번 반복하든지 하세요. 감자나 채소를 볶을<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">sauté</em>&nbsp;</span>때 색이 제대로 나지 않고 바삭하게 구워지지 않는 건, 너무 양이 많아 채소에서 나온 즙에 잠겨 버렸기 때문입니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Chicostick</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">추락하는 칼은 잡을 수가 없습니다. 추락 전에 주의하세요.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID : Pump N Dump</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">루<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Roux</em></span>를 만드는 데 한 가지 팁을 알려드리자면, 견과류 냄새가 날 때까지 볶으세요.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">익명게시자</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">밥솥 뚜껑 좀 열어보지 마. 부탁할게. 제발 그 빌어먹을 밥솥 뚜껑 좀 가만 놔두란 말이야. 밥이 질거나 타는 게 걱정돼서 열어보고 싶다고 하지만 그건 물양을 잘못 맞췄거나 뚜껑을 열어서 그런 거야. 밥솥의 증기가 밥을 익히고 있는데 뚜껑을 열면 증기가 다 빠져나가 돌이킬 수 없게 돼버리는 거야.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID : Anxdiety</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">첨가하고 싶은 양념의 냄새만 맡고 음식을 먹어보세요. 코를 막고 음식을 먹으면 맛을 느끼지 못하는 것과 정반대의 이치죠. 양념의 냄새가 음식과 섞여 음식에 넣지 않아도 잘 어울리는지 미리 알 수 있습니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Iam4real</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">스테이크는 그릴에서 꺼내도 여열로 계속 익습니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Flashoutthepan</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">흑 후추는 160도 정도에서 타버립니다. 꼭 마지막에 넣으세요.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">익명게시자</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">한 셰프가 나에게 딸기 위에 후추를 갈아서 뿌리면 딸기 맛 사탕 같아진다고 해서 내가 해봤는데, 완전 강추!</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Maxximillian</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">“진짜 버터를 써, 마가린을 손에 들고 있는 순간부터 벌써 잘못된 거야.”</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;BenZonna129</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">기본적인 맛의 조합을 배우세요. 가장 좋은 방법은 향신료 교역의 역사를 한 번 읽어 보는 것입니다. 어떤 향신료가 어느 음식에 쓰였는지 역사를 아는 게 조합을 배우는 가장 좋은 방법입니다. 예로 들어보면 ;</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">프랑스 : 레몬 + 파슬리, 당근, 양파, 셀러리, 타라곤, 처빌, 세이지, 지역산 허브<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">멕시코 : 라임 + 실란트로, 고수, 큐민, 고추<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">태국 : 라임 + 민트, 실란트로, 샬롯, 마늘, 생강, 레몬그라스, 고량강, 타이바질, 피망<br style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">이탈리아 : 토마토 + 바질, 마늘, 올리브유, 고추, 오레가노, 월계수잎</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Shadybrianfarm</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">세상 어디에도 마늘을 한쪽만 넣어서 충분히 향이 나는 레시피는 없다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; line-height: 1.5;">Toker98xx</span></span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">제발 손 좀 씻어라.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;TheRobotRabbit</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">좋은 소스는 어떤 음식도 맛있게 살릴 수 있어요. 적어도 3가지 정도의 소스는 냉장고에 있는 기본 재료로 만들 수 있도록 외워두세요. 레드와인 소스(레드와인 한 컵, 버터 조금, 소금, 양파, 후추)는 값싼 스테이크도 맛있게 만들어주죠. 간단한 마리네라 소스는 만드는 데 만원도 안 들어요. 하지만 이탈리안 레스토랑에서 파는 이만 원짜리 파스타만큼 좋은 소스죠. 당신이 좋아하는 소스는 레시피를 찾아서 꼭 외워두세요.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Uncle monty</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">레몬이나 오렌지 같은 감귤류의 과일의 과즙이 필요하다면 전자레인지에 30초만 돌려보세요. 원래 과즙이 이렇게나 많았나? 하고 깜짝 놀라게 될 것입니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Ayestfu</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">만약 수프가 조금 짜다면, 껍질 깎은 감자를 넣고 15분 후에 꺼내보세요. 뭐, 그래도 안 되면 별수 없고.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Mrpoopistan</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">양파 카라멜라이징을 숙달하세요. 양파 카라멜라이징을 잘할 수 있다면 거의 모든 소스를 맛있게 할 수 있을 겁니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Funnywhennecessary</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">내 최강 비밀병기는 머스타드지. 거의 모든 음식이 아주 조금의 머스타드를 넣으면 더 맛있어지거든.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Mzito</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">싹양배추<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Brussel sprouts</em></span>는 쓴맛이 나게 하는 화학물질을 증발시키려면 적어도 20분 정도는 구워야 합니다.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Hpshortshop717</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">내가 요리에 관한 이야기를 할 때마다 빠트리지 않고 하는 이야기가 있어. 소금의 중요성. 요오드가 첨가된 일반 소금보다 코셔 소금Kosher Salt를 쓰는 게 간을 맞추기도 쉽고 맛도 좋아. 한 번 쓰기 시작하면 코셔 소금에서 절대 못 빠져나올 거라고 내가 장담하지.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Mrsmooseq</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">양파, 샐러리, 당근, 마늘을 다져놓은 걸 미르포아<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Mire Poix</em></span>라 부르는데, 이건 마법의 재료지. 주방에 항상 준비된 상태를 유지하길 바라. 주방에도 당신 인생에도 도움될 테니까.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">ID :&nbsp;Scartonbot</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">구이 요리나 가금류 요리를 하면 내부까지 적당히 익었는지 걱정인데, 고기온도계를 하나 장만하면 모든 걱정 해결이지. 그리고 웬만하면 염지하는 법도 알아두면 좋아. 고기를 소금, 설탕, 향신료를 섞은 물에 담가 두는 법을 익혀 놓으면 닭가슴살도 뻑뻑하지 않게 조리할 수 있지. 아, 그리고 지방이 제일 맛있는 거예요. 살찐다고 겁내지 마요.</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);">익명게시자</span></strong></h4><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">토마토 소스를 만들기 전에 토마토를 데쳐(30초 정도 끓는 물에 담갔다 빼세요) 껍질을 벗겨내세요. 토마토 껍질은 더럽게 쓰니까요.</p><p style="font-size: 14px;">· 셰프뉴스에서 보기 : http://chefnews.kr/archives/12773</p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1937"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1934"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="1937">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','227');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/227?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','227');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/09/f1d36f8d5b6c3698908b814d466edaa01.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','226');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/226?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','226');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/06/78d4179c9365b93d4f5b24d0f6b60bf21.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>357</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,139</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,817</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,236,082,799</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>

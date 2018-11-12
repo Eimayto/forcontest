@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<!--[if (IE 6)|(IE 7)|(IE 8)|(IE 9)]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="old_ie">
+<![endif]-->
+<![if !IE]>
+<html lang="ko" xmlns="http://www.w3.org/1999/xhtml" class="">
+<![endif]>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta property="fb:pages" content="1567451316868458" />
+<meta name="description" content="5만건 이상의 레시피, 편리한 검색, 추천 레시피, 인기쿡방 레시피, 매주 이벤트">
+<meta name="keywords" content="지난달 29일, 태국 방콕에서는 아시아 최고 레스토랑을 선정하는 A50BR(Asia’s 50 Best Restaurants)시상식이 열렸다. 한국 레스토랑 밍글스, 정식당, 라연이 각각 15위, 22위, 50위에 이름을 올렸다.1위는 태국 방콕의 가간Gaggan이 차지했다. 가간은 인도출신 헤드셰프 가간 아난드Gaggna Anand가 이끌고 있다. 고전적인 인도 음식을 현대적인 테크닉으로 풀어낸 그의 요리는 동서양의 조화를 잘 이뤘다는 평을 받았다. 가간은 페란 아드리아의 엘불리에서 최초의 인도인 연구원으로 활동하기도 했다.지난 해 2위를 차지한 일본 도쿄의 나리사와Narisawa는 순위를 지켰다. 일본은 총 10개의 레스토랑이 50위권에 이름을 올렸으며, 그 중 5개가 20위 안에 들었다. 도쿄에 위치한 프렌치 레스토랑 퀀테센스Quintessence는 지난해 49위에서 29계단을 올라 Highest Climber Award를 받았다.한국의 강민구 셰프가 이끄는 밍글스mingles는 10위에 이름을 올렸다. 총 10개의 새롭게 순위에 든 레스토랑 중에서 밍글스는 가장 높은 순위를 기록해 신인상Highest New Entry Award을 거머쥐었다.공로상Lifetime Achievement은 방콕의 남Nahm 레스토랑(8위)의 데이비드 톰슨David Thompson에게 돌아갔다. 셰프의 선택상Chef’s Choice Award은 폴 파이렛Paul Pairet이 선정되었으며, 최고의 페스트리 셰프상Best Pastry Chef은 체릴 고Cheryl Koh에게 주어졌다. 49위에 로카보르Locavore가 들면서 인도네시아는 처음으로 순위권에 들었다.올해 4회째 개최되는 A50BR(Asia’s 50 Best Restaurants)은 파인다이닝 요리를 선보이는 셰프 혹은 레스토랑이 대상이다. 이번 시상식에서는 총 13개 국가가 수상의 영광을 안았으며 10개의 새로운 레스토랑이 순위에 올랐다. | 아시아 50 베스트 레스토랑 Asia’s 50 Best Restaurants 2016순위이름지역지난 해 순위순위 변동1GagganBangkok, Thailand1No Change2NarisawaTokyo, Japan2No Change3Restaurant AndréSingapore5Up 24AmberHong Kong, China6Up 25Nihonryori RyuGinTokyo, Japan4Down 16Waku GhinSingapore9Up 37UltravioletShanghai, China3Down 48NahmBangkok, Thailand7Down 19Indian Accent, at The ManorNew Delhi, India22Up 1310Lung King HeenHong Kong, China20Up 1011HajimeOsaka, Japan14Up 312Les AmisSingapore13Up 1138 ½ Otto E Mezzo BombanaHong Kong, China8Down 514Burnt EndsSingapore30Up 1615MinglesSeoul, Korea New EntryNew EntryThe Best Restaurant in Korea16L’EffervescenceTokyo, Japan12Down 417Corner HouseSingapore New EntryNew Entry1818Fu He HuiShanghai, China19Up 119Issaya Siamese ClubBangkok, Thailand39Up 2020QuintessenceTokyo, Japan49Up 2921Shinji By KanesakaSingapore32Up 1122JungsikSeoul, Korea10Down 1223Eat MeBangkok, Thailand25Up 224TakazawaTokyo, Japan33Up 925Ministry of CrabColombo, Sri Lanka43Up 1826Sushi SatoTokyo, Japan40Up 1427The ChairmanHong Kong, China35Up 828Mr &amp; Mrs BundShanghai, China21Down 729JaanSingapore11Down 1830Le MoȗtTaichung, Taiwan26Down 431La Maison De La Nature GohFukoka, Japan New EntryNew Entry3131Tippling ClubSingapore36Up 533Tenku RyuGinHong Kong, China24Down 934Fook Lam MoonHong Kong, China15Down 1935Robuchon au DômeMacau, China23Down 1236Iggy’sSingapore18Down 1837DenTokyo, Japan New EntryNew Entry3838Wild RocketSingapore New EntryNew Entry3939Gallery VaskManila, Philippines New EntryNew EntryThe Best Restaurant in the Philippines40L’Atelier De Joel RobuchonHong Kong, China17Down 2341Bo InnovationHong Kong, China28Down 1342KikunoiKyoto, Japan New EntryNew Entry4343Cuisine Wat DamnakSiem Reap, Cambodia50Up 744Wasabi by MorimotoBombay, India29Down 1545BukharaNew Delhi, India41Down 446RawTaipei, Taiwan New EntryNew Entry4747NihonbashiColombo, Sri Lanka31Down 1648Ta VieHong Kong, China New EntryNew Entry4949LocavoreBali, Indonesia New EntryNew EntryThe Best Restaurant in Indonesia50La YeonSeoul, Korea38Down 12 | 개별상 INDIVIDUAL AWARDS상 명셰프레스토랑지역Asia’s Best Female ChefMargarita ForésCibo Grace Park LussoManila, the PhilippinesThe Diners Club® Lifetime Achievement AwardDavid ThompsonNahm, Long ChimBangkok, Thailand, SingaporeChefs’ ChoicePaul PairetUltraviolet Mr &amp; Mrs BundShanghai, ChinaOne To Watch, sponsored by Peroni Nastro AzzurroHiroyasu KawateFlorilègeTokyo, JapanHighest Climber AwardShuzo KishidaQuintessenceTokyo, JapanAsia’s Best Pastry Chef, sponsored by Cacao BarryCheryl KohTarteSingaporeHighest New Entry Award, sponsored by John PaulMingoo KangMinglesSeoul, Korea · 셰프뉴스에서 보기 : http://chefnews.kr/archives/11088">
+<meta name="google-site-verification" content="3eLg1zfxeZ_oO6oOOsvIxbtcW-FtDsViPVm7-CYOl8w" />
+<title>2016 아시아 50 베스트 레스토랑 발표 : 밍글스, 정식당, 라연 순위에 들어</title>
+<link rel="canonical" href="http://www.10000recipe.com/bbs/1269" />
+<meta property="kakao:title" content="2016 아시아 50 베스트 레스토랑 발표 : 밍글스, 정식당, 라연 순위에 들어" />
+<meta property="kakao:description" content="지난달 29일, 태국 방콕에서는 아시아 최고 레스토랑을 선정하는 A50BR(Asia’s 50 Best Restaurants)시상식이 열렸다. 한국 레스토랑 밍글스, 정식당, 라연이 각각 15위, 22위, 50위에 이름을 올렸다.1위는 태국 방콕의 가간Gaggan이 차지했다. 가간은 인도출신 헤드셰프 가간 아난드Gaggna Anand가 이끌고 있다. 고전적인 인도 음식을 현대적인 테크닉으로 풀어낸 그의 요리는 동서양의 조화를 잘 이뤘다는 평을 받았다. 가간은 페란 아드리아의 엘불리에서 최초의 인도인 연구원으로 활동하기도 했다.지난 해 2위를 차지한 일본 도쿄의 나리사와Narisawa는 순위를 지켰다. 일본은 총 10개의 레스토랑이 50위권에 이름을 올렸으며, 그 중 5개가 20위 안에 들었다. 도쿄에 위치한 프렌치 레스토랑 퀀테센스Quintessence는 지난해 49위에서 29계단을 올라 Highest Climber Award를 받았다.한국의 강민구 셰프가 이끄는 밍글스mingles는 10위에 이름을 올렸다. 총 10개의 새롭게 순위에 든 레스토랑 중에서 밍글스는 가장 높은 순위를 기록해 신인상Highest New Entry Award을 거머쥐었다.공로상Lifetime Achievement은 방콕의 남Nahm 레스토랑(8위)의 데이비드 톰슨David Thompson에게 돌아갔다. 셰프의 선택상Chef’s Choice Award은 폴 파이렛Paul Pairet이 선정되었으며, 최고의 페스트리 셰프상Best Pastry Chef은 체릴 고Cheryl Koh에게 주어졌다. 49위에 로카보르Locavore가 들면서 인도네시아는 처음으로 순위권에 들었다.올해 4회째 개최되는 A50BR(Asia’s 50 Best Restaurants)은 파인다이닝 요리를 선보이는 셰프 혹은 레스토랑이 대상이다. 이번 시상식에서는 총 13개 국가가 수상의 영광을 안았으며 10개의 새로운 레스토랑이 순위에 올랐다. | 아시아 50 베스트 레스토랑 Asia’s 50 Best Restaurants 2016순위이름지역지난 해 순위순위 변동1GagganBangkok, Thailand1No Change2NarisawaTokyo, Japan2No Change3Restaurant AndréSingapore5Up 24AmberHong Kong, China6Up 25Nihonryori RyuGinTokyo, Japan4Down 16Waku GhinSingapore9Up 37UltravioletShanghai, China3Down 48NahmBangkok, Thailand7Down 19Indian Accent, at The ManorNew Delhi, India22Up 1310Lung King HeenHong Kong, China20Up 1011HajimeOsaka, Japan14Up 312Les AmisSingapore13Up 1138 ½ Otto E Mezzo BombanaHong Kong, China8Down 514Burnt EndsSingapore30Up 1615MinglesSeoul, Korea New EntryNew EntryThe Best Restaurant in Korea16L’EffervescenceTokyo, Japan12Down 417Corner HouseSingapore New EntryNew Entry1818Fu He HuiShanghai, China19Up 119Issaya Siamese ClubBangkok, Thailand39Up 2020QuintessenceTokyo, Japan49Up 2921Shinji By KanesakaSingapore32Up 1122JungsikSeoul, Korea10Down 1223Eat MeBangkok, Thailand25Up 224TakazawaTokyo, Japan33Up 925Ministry of CrabColombo, Sri Lanka43Up 1826Sushi SatoTokyo, Japan40Up 1427The ChairmanHong Kong, China35Up 828Mr &amp; Mrs BundShanghai, China21Down 729JaanSingapore11Down 1830Le MoȗtTaichung, Taiwan26Down 431La Maison De La Nature GohFukoka, Japan New EntryNew Entry3131Tippling ClubSingapore36Up 533Tenku RyuGinHong Kong, China24Down 934Fook Lam MoonHong Kong, China15Down 1935Robuchon au DômeMacau, China23Down 1236Iggy’sSingapore18Down 1837DenTokyo, Japan New EntryNew Entry3838Wild RocketSingapore New EntryNew Entry3939Gallery VaskManila, Philippines New EntryNew EntryThe Best Restaurant in the Philippines40L’Atelier De Joel RobuchonHong Kong, China17Down 2341Bo InnovationHong Kong, China28Down 1342KikunoiKyoto, Japan New EntryNew Entry4343Cuisine Wat DamnakSiem Reap, Cambodia50Up 744Wasabi by MorimotoBombay, India29Down 1545BukharaNew Delhi, India41Down 446RawTaipei, Taiwan New EntryNew Entry4747NihonbashiColombo, Sri Lanka31Down 1648Ta VieHong Kong, China New EntryNew Entry4949LocavoreBali, Indonesia New EntryNew EntryThe Best Restaurant in Indonesia50La YeonSeoul, Korea38Down 12 | 개별상 INDIVIDUAL AWARDS상 명셰프레스토랑지역Asia’s Best Female ChefMargarita ForésCibo Grace Park LussoManila, the PhilippinesThe Diners Club® Lifetime Achievement AwardDavid ThompsonNahm, Long ChimBangkok, Thailand, SingaporeChefs’ ChoicePaul PairetUltraviolet Mr &amp; Mrs BundShanghai, ChinaOne To Watch, sponsored by Peroni Nastro AzzurroHiroyasu KawateFlorilègeTokyo, JapanHighest Climber AwardShuzo KishidaQuintessenceTokyo, JapanAsia’s Best Pastry Chef, sponsored by Cacao BarryCheryl KohTarteSingaporeHighest New Entry Award, sponsored by John PaulMingoo KangMinglesSeoul, Korea · 셰프뉴스에서 보기 : http://chefnews.kr/archives/11088" />
+<meta property="og:site_name" content="10000reicpe" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.10000recipe.com/bbs/1269" />
+<meta property="og:title" content="2016 아시아 50 베스트 레스토랑 발표 : 밍글스, 정식당, 라연 순위에 들어" />
+<meta property="og:image" content="http://recipe1.ezmember.co.kr/cache/bbs/2016/03/21/f243900fa36de2819f658c19b758de1c.jpg" />
+<meta property="og:description" content="지난달 29일, 태국 방콕에서는 아시아 최고 레스토랑을 선정하는 A50BR(Asia’s 50 Best Restaurants)시상식이 열렸다. 한국 레스토랑 밍글스, 정식당, 라연이 각각 15위, 22위, 50위에 이름을 올렸다.1위는 태국 방콕의 가간Gaggan이 차지했다. 가간은 인도출신 헤드셰프 가간 아난드Gaggna Anand가 이끌고 있다. 고전적인 인도 음식을 현대적인 테크닉으로 풀어낸 그의 요리는 동서양의 조화를 잘 이뤘다는 평을 받았다. 가간은 페란 아드리아의 엘불리에서 최초의 인도인 연구원으로 활동하기도 했다.지난 해 2위를 차지한 일본 도쿄의 나리사와Narisawa는 순위를 지켰다. 일본은 총 10개의 레스토랑이 50위권에 이름을 올렸으며, 그 중 5개가 20위 안에 들었다. 도쿄에 위치한 프렌치 레스토랑 퀀테센스Quintessence는 지난해 49위에서 29계단을 올라 Highest Climber Award를 받았다.한국의 강민구 셰프가 이끄는 밍글스mingles는 10위에 이름을 올렸다. 총 10개의 새롭게 순위에 든 레스토랑 중에서 밍글스는 가장 높은 순위를 기록해 신인상Highest New Entry Award을 거머쥐었다.공로상Lifetime Achievement은 방콕의 남Nahm 레스토랑(8위)의 데이비드 톰슨David Thompson에게 돌아갔다. 셰프의 선택상Chef’s Choice Award은 폴 파이렛Paul Pairet이 선정되었으며, 최고의 페스트리 셰프상Best Pastry Chef은 체릴 고Cheryl Koh에게 주어졌다. 49위에 로카보르Locavore가 들면서 인도네시아는 처음으로 순위권에 들었다.올해 4회째 개최되는 A50BR(Asia’s 50 Best Restaurants)은 파인다이닝 요리를 선보이는 셰프 혹은 레스토랑이 대상이다. 이번 시상식에서는 총 13개 국가가 수상의 영광을 안았으며 10개의 새로운 레스토랑이 순위에 올랐다. | 아시아 50 베스트 레스토랑 Asia’s 50 Best Restaurants 2016순위이름지역지난 해 순위순위 변동1GagganBangkok, Thailand1No Change2NarisawaTokyo, Japan2No Change3Restaurant AndréSingapore5Up 24AmberHong Kong, China6Up 25Nihonryori RyuGinTokyo, Japan4Down 16Waku GhinSingapore9Up 37UltravioletShanghai, China3Down 48NahmBangkok, Thailand7Down 19Indian Accent, at The ManorNew Delhi, India22Up 1310Lung King HeenHong Kong, China20Up 1011HajimeOsaka, Japan14Up 312Les AmisSingapore13Up 1138 ½ Otto E Mezzo BombanaHong Kong, China8Down 514Burnt EndsSingapore30Up 1615MinglesSeoul, Korea New EntryNew EntryThe Best Restaurant in Korea16L’EffervescenceTokyo, Japan12Down 417Corner HouseSingapore New EntryNew Entry1818Fu He HuiShanghai, China19Up 119Issaya Siamese ClubBangkok, Thailand39Up 2020QuintessenceTokyo, Japan49Up 2921Shinji By KanesakaSingapore32Up 1122JungsikSeoul, Korea10Down 1223Eat MeBangkok, Thailand25Up 224TakazawaTokyo, Japan33Up 925Ministry of CrabColombo, Sri Lanka43Up 1826Sushi SatoTokyo, Japan40Up 1427The ChairmanHong Kong, China35Up 828Mr &amp; Mrs BundShanghai, China21Down 729JaanSingapore11Down 1830Le MoȗtTaichung, Taiwan26Down 431La Maison De La Nature GohFukoka, Japan New EntryNew Entry3131Tippling ClubSingapore36Up 533Tenku RyuGinHong Kong, China24Down 934Fook Lam MoonHong Kong, China15Down 1935Robuchon au DômeMacau, China23Down 1236Iggy’sSingapore18Down 1837DenTokyo, Japan New EntryNew Entry3838Wild RocketSingapore New EntryNew Entry3939Gallery VaskManila, Philippines New EntryNew EntryThe Best Restaurant in the Philippines40L’Atelier De Joel RobuchonHong Kong, China17Down 2341Bo InnovationHong Kong, China28Down 1342KikunoiKyoto, Japan New EntryNew Entry4343Cuisine Wat DamnakSiem Reap, Cambodia50Up 744Wasabi by MorimotoBombay, India29Down 1545BukharaNew Delhi, India41Down 446RawTaipei, Taiwan New EntryNew Entry4747NihonbashiColombo, Sri Lanka31Down 1648Ta VieHong Kong, China New EntryNew Entry4949LocavoreBali, Indonesia New EntryNew EntryThe Best Restaurant in Indonesia50La YeonSeoul, Korea38Down 12 | 개별상 INDIVIDUAL AWARDS상 명셰프레스토랑지역Asia’s Best Female ChefMargarita ForésCibo Grace Park LussoManila, the PhilippinesThe Diners Club® Lifetime Achievement AwardDavid ThompsonNahm, Long ChimBangkok, Thailand, SingaporeChefs’ ChoicePaul PairetUltraviolet Mr &amp; Mrs BundShanghai, ChinaOne To Watch, sponsored by Peroni Nastro AzzurroHiroyasu KawateFlorilègeTokyo, JapanHighest Climber AwardShuzo KishidaQuintessenceTokyo, JapanAsia’s Best Pastry Chef, sponsored by Cacao BarryCheryl KohTarteSingaporeHighest New Entry Award, sponsored by John PaulMingoo KangMinglesSeoul, Korea · 셰프뉴스에서 보기 : http://chefnews.kr/archives/11088" />
+<meta property="og:locale" content="ko_KR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@10000recipe" />
+<meta name="twitter:title" content="2016 아시아 50 베스트 레스토랑 발표 : 밍글스, 정식당, 라연 순위에 들어" />
+<meta name="twitter:description" content="지난달 29일, 태국 방콕에서는 아시아 최고 레스토랑을 선정하는 A50BR(Asia’s 50 Best Restaurants)시상식이 열렸다. 한국 레스토랑 밍글스, 정식당, 라연이 각각 15위, 22위, 50위에 이름을 올렸다.1위는 태국 방콕의 가간Gaggan이 차지했다. 가간은 인도출신 헤드셰프 가간 아난드Gaggna Anand가 이끌고 있다. 고전적인 인도 음식을 현대적인 테크닉으로 풀어낸 그의 요리는 동서양의 조화를 잘 이뤘다는 평을 받았다. 가간은 페란 아드리아의 엘불리에서 최초의 인도인 연구원으로 활동하기도 했다.지난 해 2위를 차지한 일본 도쿄의 나리사와Narisawa는 순위를 지켰다. 일본은 총 10개의 레스토랑이 50위권에 이름을 올렸으며, 그 중 5개가 20위 안에 들었다. 도쿄에 위치한 프렌치 레스토랑 퀀테센스Quintessence는 지난해 49위에서 29계단을 올라 Highest Climber Award를 받았다.한국의 강민구 셰프가 이끄는 밍글스mingles는 10위에 이름을 올렸다. 총 10개의 새롭게 순위에 든 레스토랑 중에서 밍글스는 가장 높은 순위를 기록해 신인상Highest New Entry Award을 거머쥐었다.공로상Lifetime Achievement은 방콕의 남Nahm 레스토랑(8위)의 데이비드 톰슨David Thompson에게 돌아갔다. 셰프의 선택상Chef’s Choice Award은 폴 파이렛Paul Pairet이 선정되었으며, 최고의 페스트리 셰프상Best Pastry Chef은 체릴 고Cheryl Koh에게 주어졌다. 49위에 로카보르Locavore가 들면서 인도네시아는 처음으로 순위권에 들었다.올해 4회째 개최되는 A50BR(Asia’s 50 Best Restaurants)은 파인다이닝 요리를 선보이는 셰프 혹은 레스토랑이 대상이다. 이번 시상식에서는 총 13개 국가가 수상의 영광을 안았으며 10개의 새로운 레스토랑이 순위에 올랐다. | 아시아 50 베스트 레스토랑 Asia’s 50 Best Restaurants 2016순위이름지역지난 해 순위순위 변동1GagganBangkok, Thailand1No Change2NarisawaTokyo, Japan2No Change3Restaurant AndréSingapore5Up 24AmberHong Kong, China6Up 25Nihonryori RyuGinTokyo, Japan4Down 16Waku GhinSingapore9Up 37UltravioletShanghai, China3Down 48NahmBangkok, Thailand7Down 19Indian Accent, at The ManorNew Delhi, India22Up 1310Lung King HeenHong Kong, China20Up 1011HajimeOsaka, Japan14Up 312Les AmisSingapore13Up 1138 ½ Otto E Mezzo BombanaHong Kong, China8Down 514Burnt EndsSingapore30Up 1615MinglesSeoul, Korea New EntryNew EntryThe Best Restaurant in Korea16L’EffervescenceTokyo, Japan12Down 417Corner HouseSingapore New EntryNew Entry1818Fu He HuiShanghai, China19Up 119Issaya Siamese ClubBangkok, Thailand39Up 2020QuintessenceTokyo, Japan49Up 2921Shinji By KanesakaSingapore32Up 1122JungsikSeoul, Korea10Down 1223Eat MeBangkok, Thailand25Up 224TakazawaTokyo, Japan33Up 925Ministry of CrabColombo, Sri Lanka43Up 1826Sushi SatoTokyo, Japan40Up 1427The ChairmanHong Kong, China35Up 828Mr &amp; Mrs BundShanghai, China21Down 729JaanSingapore11Down 1830Le MoȗtTaichung, Taiwan26Down 431La Maison De La Nature GohFukoka, Japan New EntryNew Entry3131Tippling ClubSingapore36Up 533Tenku RyuGinHong Kong, China24Down 934Fook Lam MoonHong Kong, China15Down 1935Robuchon au DômeMacau, China23Down 1236Iggy’sSingapore18Down 1837DenTokyo, Japan New EntryNew Entry3838Wild RocketSingapore New EntryNew Entry3939Gallery VaskManila, Philippines New EntryNew EntryThe Best Restaurant in the Philippines40L’Atelier De Joel RobuchonHong Kong, China17Down 2341Bo InnovationHong Kong, China28Down 1342KikunoiKyoto, Japan New EntryNew Entry4343Cuisine Wat DamnakSiem Reap, Cambodia50Up 744Wasabi by MorimotoBombay, India29Down 1545BukharaNew Delhi, India41Down 446RawTaipei, Taiwan New EntryNew Entry4747NihonbashiColombo, Sri Lanka31Down 1648Ta VieHong Kong, China New EntryNew Entry4949LocavoreBali, Indonesia New EntryNew EntryThe Best Restaurant in Indonesia50La YeonSeoul, Korea38Down 12 | 개별상 INDIVIDUAL AWARDS상 명셰프레스토랑지역Asia’s Best Female ChefMargarita ForésCibo Grace Park LussoManila, the PhilippinesThe Diners Club® Lifetime Achievement AwardDavid ThompsonNahm, Long ChimBangkok, Thailand, SingaporeChefs’ ChoicePaul PairetUltraviolet Mr &amp; Mrs BundShanghai, ChinaOne To Watch, sponsored by Peroni Nastro AzzurroHiroyasu KawateFlorilègeTokyo, JapanHighest Climber AwardShuzo KishidaQuintessenceTokyo, JapanAsia’s Best Pastry Chef, sponsored by Cacao BarryCheryl KohTarteSingaporeHighest New Entry Award, sponsored by John PaulMingoo KangMinglesSeoul, Korea · 셰프뉴스에서 보기 : http://chefnews.kr/archives/11088" />
+<meta name="twitter:image" content="http://recipe1.ezmember.co.kr/cachehttp://recipe1.ezmember.co.kr/cache/bbs/2016/03/21/f243900fa36de2819f658c19b758de1c.jpg" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/bootstrap_20180417.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/ez_recipe_20180913.css" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="http://recipe1.ezmember.co.kr/img/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+// Common Javascript
+var _WWW_URL_ = 'http://www.10000recipe.com';
+var _IMG_URL_ = 'http://recipe1.ezmember.co.kr';
+var _FILE_URL_ = 'http://recipe1.ezmember.co.kr/cache';
+var _CURRENT_PAGE_ = 'http://www.10000recipe.com/bbs/1269?seq=1269';
+var _USER_ID_ = '';
+</script>
+
+</head>
+<body>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/jquery-ui-1.11.4.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="http://recipe1.ezmember.co.kr/static/css/jquery-ui-1.11.4_201507011.css" /><script>
+$(document).ready(function() {
+    doRTKeyword();
+
+    $("#srhRecipeText").keypress(function(event) {
+        if (event.which == 13) {
+            event.preventDefault();
+            $("#frmTopRecipeSearch").submit();
+        }
+    }).autocomplete({
+        delay: 200,
+        source: "/recipe/ajax.html?q_mode=autoComplete",
+        focus: function(event, ui) {
+            return false;
+        },
+        select: function(event, ui) {
+            this.value = ui.item.label;
+            return false;
+        }
+    }).focus();
+
+});
+
+
+
+var curRtword = 2;
+function doRTKeyword()
+{
+    var backRtword = (curRtword == 1) ? 2 : 1;
+    $("#RtwordDiv_"+curRtword).hide();
+    $("#RtwordDiv_"+backRtword).show();
+    curRtword = backRtword;
+}
+</script>
+
+<a href="#" id="btnGogoTop" class="rmenu_top" style="display:none"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+    <div class="gnb">
+        <div class="gnb_top_wrap">
+            <div class="gnb_top">
+                <h1><a href="/index.html"><img src="http://recipe1.ezmember.co.kr/img/logo4.png" alt="로고" ></a></h1>
+                <div class="gnb_search">
+                    <form id="frmTopRecipeSearch" method="get" action="/recipe/list.html">
+                    <div class="input-group">
+                        <input id="srhRecipeText" name="q" type="text" class="form-control" placeholder="" value="" style="ime-mode:active;">
+                        <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" onClick="$('#frmTopRecipeSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+                        </span>
+                    </div>
+                    </form>
+                    <div class="gnb_search_word">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=동치미">동치미</a></li><li><a href="/recipe/list.html?q=잡채">잡채</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=무생채">무생채</a></li><li><a href="/recipe/list.html?q=꼬막무침">꼬막무침</a></li><li><a href="/recipe/list.html?q=백종원">백종원</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li></ul>                        <div class="gnb_search_btn">
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
+                            <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="gnb_right">
+                                        <li><a href="/user/login.html"><img src="http://recipe1.ezmember.co.kr/img/ico_user.png" alt="로그인"></a></li>
+                                        <li>
+                        <a id="btnTopWrite" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="레시피등록" data-original-title="레시피등록"><img src="http://recipe1.ezmember.co.kr/img/tmn_write.png"></a>
+                        <div class="write_layer document_common_layer" style="display:none;left:-230px;">
+                            <a href="/inbox/insert.html" class="w_layer2"><img src="http://recipe1.ezmember.co.kr/img/btn_write1.gif"><span>직접 등록하기</span></a><a id="btnBlogForm" href="javascript:void(0)" class="w_layer3" data-toggle="modal" data-target="#divModalBlogForm"><img src="http://recipe1.ezmember.co.kr/img/btn_write2.gif"><span>블로그 가져오기</span></a>
+                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+
+        <div class="gnb_nav">
+            <ul class="gnb_nav_ea10">
+                <li><a href="/index.html">홈</a></li>
+                <li><a href="/recipe/list.html">레시피</a></li>
+                <li><a href="/talk/list.html">토크</a></li>
+                <li><a href="/bbs/list.html" class="active">요리정보</a></li>
+                <li><a id="liTopMenu_brand" href="/brand/home.html">브랜드</a></li>
+                <li><a href="/chef/chef_list.html">쉐프</a></li>
+                <li><a href="/ranking/home.html">랭킹</a></li>
+                <!--li><a href="/market/list.html">최저가</a></li-->
+                <li><a href="/event/list.html">이벤트</a></li>
+                <li><a href="/profile/index.html">MY홈</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script>
+var fromOther = 'n';
+$(document).ready(function() {
+    $(".ellipsis_title").ellipsis({row: 1});
+    $(".ellipsis_title2").ellipsis({row: 2});
+
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > $(window).height()*1.5) {
+            $("#btnGogoTop").slideDown(300);
+        } else {
+            $("#btnGogoTop").slideUp(300);
+        }
+    });
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(function() {
+    $('#memLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        $(".document_common_layer:not('.mem_layer')").hide();
+        if ($('.mem_layer').is(':visible')) {
+            $('.mem_layer').hide();
+        } else {
+            $('.mem_layer').show();
+        }
+    });
+
+    $('#btnTopWrite').click(function (e) {
+        // Used to stop the event bubbling..
+        $(".document_common_layer:not('.write_layer')").hide();
+        e.stopPropagation();
+        if ($('html').is('.old_ie')) {
+            //$('#divBrowserGuideModal').modal({backdrop:'static'});
+            $('#divBrowserGuideModal').modal('show');
+        } else {
+            if ($('.write_layer').is(':visible')) {
+                $('.write_layer').hide();
+            } else {
+                $('.write_layer').show();
+            }
+        }
+    });
+    $(document).click(function () {
+        $('.document_common_layer').hide();
+    });
+
+    $("#btnBlogContentsList").click(function() {
+        $("#btnBlogContentsList").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogContentsList").width()+'px"></span>');
+        el = $(this);
+        var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val();
+        $.get("/common/ajx_common.html?"+params, function(html) {
+            $("#btnBlogContentsList").html('조회');
+            $("#divBlogContentsList").html(html);
+        });
+    });
+    $('#divModalBlogForm').on('show.bs.modal',function() {
+        $.ajax({
+            type: "POST",
+            url: "/common/ajx_common.html",
+            data: "q_mode=get_blog_info",
+            dataType: "json",
+            success: function(json) {
+                if (json['portal']) {
+                    $("[id^=q_portal_]").filter('[value='+json['portal']+']').trigger('click');
+                }
+                if (json['blog_id']) {
+                    $("#q_blogid").val(json['blog_id']);
+                    $("#q_blog_select_type_id").trigger('click');
+                }
+            },
+            error: function () {
+
+            }
+        });
+    });
+});
+var _blogIsSubmit = false;
+function doChangePortal(portal) {
+    var header = '';
+    var tail = '';
+    if (portal == 'Naver') {
+        header = 'http://blog.naver.com/';
+        tail = '';
+    } else if (portal == 'Daum') {
+        header = 'http://blog.daum.net/';
+        tail = '';
+    } else if (portal == 'Tistory') {
+        header = 'http://';
+        tail = '.tistory.com';
+    }
+    $("#txtBlogHeader").text(header);
+    $("#txtBlogTail").text(tail);
+}
+
+function doBlogSelect() {
+     var select_type = $(':radio[name="q_blog_select_type"]:checked').val();
+     if (select_type == 'url') {
+        var q_link = $("#q_blogurl").val();
+        if ($.trim(q_link) == '') {
+            alert('URL을 입력해 주세요.');
+            $("#q_blogurl").focus();
+            return;
+        } else {
+            setBlogContents(q_link);
+        }
+     } else {
+        getBlogContentsList();
+     }
+}
+function getBlogContentsList(page,added_params) {
+    if (page == 0) return;
+    if (!page) {
+        page = 1;
+    }
+    if ($("#q_blogid").val() == '') {
+        alert("블로그 주소를 입력해 주세요.");
+        return;
+    }
+    //var blog_url = $("#txtBlogHeader").text() + $("#q_blogid").val() + $("#txtBlogTail");
+
+    if (_blogIsSubmit) {
+        alert("처리중 입니다. 잠시만 기다리세요.");
+        return;
+    }
+
+    if (page > parseInt($("#q_page").val(),10)) {
+        $("#btnBlogNext").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogNext").width()+'px"></span>');
+    } else if (page < parseInt($("#q_page").val(),10)) {
+        $("#btnBlogPrev").html('<span class="fa fa-spinner fa-spin" style="width:'+$("#btnBlogPrev").width()+'px"></span>');
+    }
+
+    $("#q_page").val(page);
+    _blogIsSubmit = true;
+    var params = 'q_mode=get_blog_contents_list&q_portal='+$("[name=q_portal]:checked").val()+'&q_blogid='+$("#q_blogid").val()+'&q_scal='+$("#q_scal").val()+'&q_page='+page;
+    if (added_params) {
+        if (added_params.substring(0,1) != '&') params += '&';
+        params += added_params;
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "/common/ajx_common.html",
+        data: params,
+        success: function(html) {
+            $("#divBlogContentsList").html(html);
+            $("[id^=spanBlogContentsTitle_]").ellipsis();
+            $('#divModalBlogContentsList').modal('show');
+            _blogIsSubmit = false;
+            return html;
+        },
+        error: function () {
+            alert('예기치 못한 오류로 인해 실패했습니다.');
+            _blogIsSubmit = false;
+        }
+    });
+}
+function setBlogContents(q_link) {
+    if (typeof q_link == 'undefined' || q_link == '') {
+        q_link = $("#listBlog [id^=q_link_]:checked").val();
+
+        if (!q_link) {
+            alert('블로그 컨텐츠를 선택하세요.');
+            return;
+        }
+    }
+    $("#btnSetBlogContents").html('<span class="fa fa-spinner fa-spin" style="width:' + $("#btnSetBlogContents").width() + 'px"></span>');
+    if(fromOther == 'n') document.location.href = '/inbox/insert.html?ref_blog_url=' + encodeURIComponent(q_link);
+    else if(fromOther == 'review') document.location.href = '/event/ins_review.html?seq=1269&review_seq=&ref_blog_url=' + encodeURIComponent(q_link);
+}
+function doChangeBlogSelectType(select_type) {
+    if (select_type == 'url') {
+        $("#top_blog_select_id").hide();
+        $("#top_blog_select_url").show();
+    } else {
+        $("#top_blog_select_url").hide();
+        $("#top_blog_select_id").show();
+    }
+
+}
+</script>
+
+<div class="modal fade" id="divModalBlogForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">블로그 찾기</h4>
+      </div>
+      <div class="modal-body">
+        <dl class="blog_select">
+          <dt>1. 레시피가 있는 블로그를 선택해 주세요.</dt>
+          <dd>
+            <span class="blog_t1"><label class="radio-inline"><input type="radio" name="q_portal" value="Naver" id="q_portal_Naver" onclick="doChangePortal(this.value)" aria-label="" checked="checked">네이버</label></span>
+            <span class="blog_t2"><label class="radio-inline"><input type="radio" name="q_portal" value="Daum" id="q_portal_Daum" onclick="doChangePortal(this.value)" aria-label="">다음</label></span>
+            <span class="blog_t3"><label class="radio-inline"><input type="radio" name="q_portal" value="Tistory" id="q_portal_Tistory" onclick="doChangePortal(this.value)" aria-label="">티스토리</label></span>
+          </dd>
+        </dl>
+        <dl class="blog_select">
+          <dt>2. 글을 가져올 방식을 선택해 주세요.</dt>
+          <dd>
+            <div style="padding-bottom:7px"><span style="color:#666;"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="id" id="q_blog_select_type_id" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 ID를 입력하여 글 선택하기</label></span></div>
+            <div><span style="color:#666"><label class="radio-inline"><input type="radio" name="q_blog_select_type" value="url" id="q_blog_select_type_url" onclick="doChangeBlogSelectType(this.value)" aria-label="">블로그 글 URL을 입력하여 내용 가져오기</label></span></div>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_id" class="blog_select" style="display:none">
+          <dt>3. 블로그 ID를 입력해 주세요.</dt>
+          <dd><span id="txtBlogHeader">http://blog.naver.com/</span> <input type="text" name="q_blogid" id="q_blogid" value="" class="form-control" placeholder="" style="width:200px">
+              <span id="txtBlogTail"></span>
+          </dd>
+        </dl>
+        <dl id="top_blog_select_url" class="blog_select" style="display:none">
+          <dt>3. 블로그 글 URL을 입력해 주세요.</dt>
+          <dd>
+            <input type="text" name="q_blogurl" id="q_blogurl" value="" class="form-control" placeholder="" style="width:400px">
+            <div><span>(블로그 글 URL은 네이버/다음/티스토리 만 가능합니다)</span></div>
+          </dd>
+        </dl>
+            </div>
+      <div class="modal-footer">
+        <button type="button" id="btnBlogContentsList" onclick="doBlogSelect()" class="btn-lg btn-primary" rel="popover_blog">조회</button>
+        <button type="button" class="btn-lg btn-default" data-dismiss="modal">취소</button>
+        <input type="hidden" name="q_page" id="q_page" value="1">
+        <input type="hidden" name="q_scal" id="q_scal" value="10">
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id="divModalBlogContentsList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100002">
+  <div class="modal-dialog" style="width:520px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">글을 선택하세요</h4>
+      </div>
+      <div class="modal-body" id="divBlogContentsList">
+
+      </div>
+      <div class="modal-footer">
+
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="divBrowserGuideModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:100001">
+  <div class="modal-dialog" style="width:820px">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="gridSystemModalLabel">브라우저 업데이트 안내</h4>
+      </div>
+      <div class="modal-body">
+        <!--
+            <h3>Internet Explorer 10 이하 버전을 사용중이시군요!</h3>
+            <p></p>
+            <h4 style="color:#de4830">레시피 등록은,</h4>
+            <h4 style="color:#de4830">IE 11이상 또는 크롬(Chrome) 브라우저 사용이 필수입니다.</h4>
+        -->
+            <div style="width:800px; height:560px; background:#fff; text-align:center;">
+              <div sthyle="padding-top:5px;"><img src="http://recipe1.ezmember.co.kr/img/update_icon.gif" /></div>
+              <div style="font-size:30px; font-weight:bold; color:#444; padding-top:25px;">브라우저를 최신버전으로 업그레이드 해주세요!</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">레시피 등록을 위해서는 지금 사용하고 있는<br />브라우저 버전을 업그레이드 하거나 다른 웹 브라우저를 사용해야 됩니다.</div>
+              <div style="font-size:18px; color:#777; padding-top:25px;">아래의 브라우저 사진을 클릭하여 업그레이드 하세요.</div>
+              <div style="padding-top:30px;">
+                <a href="https://www.google.com/chrome/" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_03.gif" alt="chrome" style="border:none;"></a>
+                <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" style="margin:0 4px;"><img src="http://recipe1.ezmember.co.kr/img/update_b_02.gif" alt="IE" style="border:none;"></a>
+              </div>
+            </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+<div class="container sub_bg">
+    <script type="text/javascript">
+
+$(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=read&seq=1269",
+        success: function(result) { }
+    });
+    });
+
+function doCommentSubmit()
+{
+    var txtVal = $("#cmtTextarea").val();
+    if(!txtVal)
+    {
+        alert('의견을 입력해주세요.');
+        return ;
+    }
+    if(txtVal.length < 4)
+    {
+        alert('의견은 4자 이상으로 작성해 주세요.');
+        return ;
+    }
+    $.ajax({
+        type: "POST",
+        url: "/bbs/ajax.html",
+        data : $("#insCmtFrm").serialize(),
+        success: function(result) {
+            if(result == 'SUCCESS')
+            {
+                $("#cmtTextarea").val('');
+                getCommentList();
+                var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                $("#recipeCommentListCount").html(ccnt+1);
+            }
+            else if(result == 'NO_PARAM')
+            {
+                alert('파라미터 부족. 다시 확인해 주세요.')
+            }
+            else
+            {
+                alert('등록 실패! 잠시후 다시 시도해 주세요.')
+            }
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+        }
+    });
+}
+
+function doCommentDelete(commentSeq)
+{
+    if(confirm('정말 삭제할까요?'))
+    {
+        $.ajax({
+            type: "GET",
+            url: "/bbs/ajax.html",
+            data: "q_mode=deleteComment&commentSeq="+commentSeq,
+            success: function(result) {
+                if(result == 'SUCCESS')
+                {
+                    getCommentList();
+                    var ccnt = parseInt($("#recipeCommentListCount").html(),10);
+                    $("#recipeCommentListCount").html(ccnt-1);
+                }
+            },
+            error: function () {
+                alert('의견 조회 실패! 잠시후 다시 시도해 주세요.')
+            }
+        });
+    }
+}
+
+function copyBbsUrl()
+{
+    var url = 'http://www.10000recipe.com/bbs/1269';
+
+    if(document.all)
+    {
+        window.clipboardData.setData("Text", url);
+        alert ("복사되었습니다.\nCtrl+V로 붙여넣기 하세요..");
+    }
+    else
+    {
+        prompt('아래 URL을 복사(Ctrl+C)하여\n원하는 곳에 붙여넣기(Ctrl+V)하세요.',url );
+    }
+}
+
+function snsWriter(site)
+{
+    var link = _WWW_URL_ + '/bbs/1269';
+    var title = '2016 아시아 50 베스트 레스토랑 발표 : 밍글스, 정식당, 라연 순위에 들어';
+    EZ.snsSender(site,link,title);
+}
+
+function getCommentList(page)
+{
+    $.ajax({
+        type: "GET",
+        url: "/bbs/ajax.html",
+        data: "q_mode=getListComment&seq=1269",
+        success: function(result) {
+            $("#recipeCommentList_1").html(result);
+        },
+        error: function () {
+            alert('의견 조회 실패! 잠시후 다시 시도해 주세요.');
+        }
+    });
+}
+
+function deleteBBS()
+{
+    if (confirm("정말로 삭제하시겠습니까?"))
+    {
+        $('#myform').submit();
+    }
+}
+
+</script>
+
+<style type="text/css">
+.rrcollect {font-size:14px;margin-bottom:20px;padding:5px 0 5px 0;}
+.rrcollect > a {color:#0000FF;}
+.rrcollect > b {font-size:18px;}
+.rrcollect > span {color:#999;}
+</style>
+
+<form name="myform" id="myform" method="post" action="/bbs/insert.html">
+<input type="hidden" name="q_mode" value="delete">
+<input type="hidden" name="seq" value="1269">
+<input type="hidden" name="bid" value="2">
+<input type="hidden" name="cid" value="0">
+</form>
+
+<div id="contents_area" class="col-xs-9">
+    <div class="talk_list">
+        <h2>2016 아시아 50 베스트 레스토랑 발표 : 밍글스, 정식당, 라연 순위에 들어</h2>
+        <div class="row view_btn st2">
+            <p class="info_writer">셰프뉴스<span>|</span>2016-03-21 오후 15:45<span>|</span><span class="cate_view">104</span><span>|</span><span class="cate_comment">0</span></p>
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1534"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1262"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="talk_content">
+            <p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"></p><div style="text-align: center;"><img src="http://recipe.ezmember.co.kr/cache/bbs/2016/03/21/f243900fa36de2819f658c19b758de1c.jpg" style="max-width:100%;"></div><div style="text-align: center;"><br></div><p></p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">지난달 29일, 태국 방콕에서는 아시아 최고 레스토랑을 선정하는&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><a href="http://www.theworlds50best.com/asia/" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">A50BR</a></strong></span>(<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Asia’s 50 Best Restaurants</em></span>)시상식이 열렸다. 한국 레스토랑 밍글스, 정식당, 라연이 각각 15위, 22위, 50위에 이름을 올렸다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">1위는&nbsp;태국 방콕의 가간<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Gaggan</em></span>이 차지했다. 가간은 인도출신 헤드셰프 가간 아난드<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Gaggna Anand</em></span>가 이끌고 있다. 고전적인 인도 음식을 현대적인 테크닉으로 풀어낸 그의 요리는 동서양의 조화를 잘 이뤘다는 평을 받았다. 가간은 페란 아드리아의 엘불리에서 최초의 인도인 연구원으로 활동하기도 했다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">지난 해 2위를 차지한 일본 도쿄의 나리사와<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);">Narisawa</span></em>는 순위를 지켰다. 일본은 총 10개의 레스토랑이 50위권에 이름을 올렸으며, 그 중 5개가 20위 안에 들었다. 도쿄에 위치한 프렌치 레스토랑&nbsp;퀀테센스<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Quintessence</em></span>는 지난해 49위에서 29계단을 올라&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Highest Climber Award</em></span>를 받았다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">한국의 강민구 셰프가 이끄는 밍글스<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">mingles</em></span>는 10위에 이름을 올렸다. &nbsp;총 10개의 새롭게 순위에 든 레스토랑 중에서 밍글스는&nbsp;가장 높은 순위를 기록해 신인상<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Highest New Entry Award</em></span>을 거머쥐었다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">공로상<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Lifetime Achievement</em></span>은 방콕의 남<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);">Nahm</span></em>&nbsp;레스토랑(8위)의 데이비드 톰슨<em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);">David Thompson</span></em>에게 돌아갔다. 셰프의 선택상<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Chef’s Choice Award</em></span>은 폴 파이렛<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Paul Pairet</em></span>이 선정되었으며, 최고의 페스트리 셰프상<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Best Pastry Chef</em></span>은 체릴 고<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Cheryl Koh</em></span>에게 주어졌다.&nbsp;49위에 로카보르<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Locavore</em></span>가 들면서 인도네시아는 처음으로 순위권에 들었다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">올해 4회째 개최되는&nbsp;<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><a href="http://www.theworlds50best.com/asia/" target="_blank" style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(255, 102, 0); text-decoration: none; transition: all 0.2s ease-in-out;">A50BR</a></strong></span>(<span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; color: rgb(153, 153, 153);"><em style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">Asia’s 50 Best Restaurants</em></span>)은 파인다이닝 요리를 선보이는 셰프 혹은 레스토랑이 대상이다.&nbsp;이번 시상식에서는 총 13개 국가가 수상의 영광을 안았으며 10개의 새로운 레스토랑이 순위에 올랐다.</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 아시아 50 베스트 레스토랑 Asia’s 50 Best Restaurants 2016</strong></span></h4><table width="479" style="padding: 0px; margin: 0px 0px 1.5em; outline: none; list-style: none; border: 1px solid rgb(238, 238, 238); box-sizing: border-box; border-spacing: 0px; width: 620px; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><tbody style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="55" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">순위</td><td width="130" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">이름</td><td width="147" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">지역</td><td width="75" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">지난 해 순위</td><td width="72" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">순위 변동</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">1</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Gaggan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bangkok, Thailand</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">1</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">No Change</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">2</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Narisawa</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">2</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">No Change</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">3</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Restaurant André</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">5</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 2</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">4</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Amber</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">6</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 2</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">5</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Nihonryori RyuGin</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">4</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 1</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">6</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Waku Ghin</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">9</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 3</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">7</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Ultraviolet</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Shanghai, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">3</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 4</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">8</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Nahm</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bangkok, Thailand</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">7</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 1</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">9</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Indian Accent, at The Manor</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Delhi, India</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">22</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 13</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">10</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Lung King Heen</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">20</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 10</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">11</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hajime</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Osaka, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">14</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 3</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">12</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Les Amis</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">13</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 1</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">13</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">8 ½ Otto E Mezzo Bombana</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">8</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 5</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">14</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Burnt Ends</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">30</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 16</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">15</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Mingles</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Seoul, Korea New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">The Best Restaurant in Korea</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">16</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">L’Effervescence</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">12</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 4</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">17</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Corner House</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">18</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">18</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Fu He Hui</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Shanghai, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">19</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 1</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">19</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Issaya Siamese Club</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bangkok, Thailand</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">39</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 20</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">20</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Quintessence</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">49</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 29</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">21</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Shinji By Kanesaka</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">32</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 11</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">22</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Jungsik</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Seoul, Korea</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">10</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 12</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">23</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Eat Me</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bangkok, Thailand</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">25</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 2</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">24</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Takazawa</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">33</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 9</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">25</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Ministry of Crab</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Colombo, Sri Lanka</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">43</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 18</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">26</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Sushi Sato</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">40</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 14</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">27</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">The Chairman</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">35</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 8</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">28</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Mr &amp; Mrs Bund</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Shanghai, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">21</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 7</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">29</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Jaan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">11</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 18</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">30</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Le Moȗt</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Taichung, Taiwan</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">26</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 4</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">31</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">La Maison De La Nature Goh</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Fukoka, Japan New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">31</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">31</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tippling Club</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">36</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 5</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">33</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tenku RyuGin</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">24</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 9</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">34</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Fook Lam Moon</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">15</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 19</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">35</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Robuchon au Dôme</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Macau, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">23</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 12</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">36</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Iggy’s</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">18</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 18</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">37</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Den</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">38</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">38</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Wild Rocket</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">39</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">39</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Gallery Vask</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Manila, Philippines New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">The Best Restaurant in the Philippines</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">40</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">L’Atelier De Joel Robuchon</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">17</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 23</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">41</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bo Innovation</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">28</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 13</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">42</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Kikunoi</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Kyoto, Japan New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">43</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">43</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Cuisine Wat Damnak</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Siem Reap, Cambodia</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">50</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Up 7</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">44</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Wasabi by Morimoto</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bombay, India</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">29</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 15</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">45</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bukhara</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Delhi, India</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">41</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 4</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">46</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Raw</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Taipei, Taiwan New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">47</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">47</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Nihonbashi</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Colombo, Sri Lanka</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">31</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Down 16</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">48</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Ta Vie</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hong Kong, China New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">49</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">49</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Locavore</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bali, Indonesia New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">New Entry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">The Best Restaurant in Indonesia</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">50</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">La Yeon</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">Seoul, Korea</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">38</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px; border-top-style: none; border-left-style: none; border-color: initial; box-sizing: border-box;">Down 12</td></tr></tbody></table><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><h4 style="padding: 0px; margin: 25px 0px 10px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-weight: normal; font-family: Helvetica; line-height: 1em; font-size: 18px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"><span style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(255, 102, 0);"><strong style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;">| 개별상&nbsp;INDIVIDUAL AWARDS</strong></span></h4><table width="669" style="padding: 0px; margin: 0px 0px 1.5em; outline: none; list-style: none; border: 1px solid rgb(238, 238, 238); box-sizing: border-box; border-spacing: 0px; width: 620px; color: rgb(51, 51, 51); font-family: Signika; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);"><tbody style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td width="311" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">상 명</td><td width="144" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">셰프</td><td width="107" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">레스토랑</td><td width="107" style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">지역</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Asia’s Best Female Chef</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Margarita Forés</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Cibo Grace Park Lusso</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Manila, the Philippines</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">The Diners Club® Lifetime Achievement Award</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">David Thompson</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Nahm, Long Chim</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Bangkok, Thailand, Singapore</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Chefs’ Choice</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Paul Pairet</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Ultraviolet Mr &amp; Mrs Bund</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Shanghai, China</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">One To Watch, sponsored by Peroni Nastro Azzurro</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Hiroyasu Kawate</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Florilège</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Highest Climber Award</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Shuzo Kishida</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Quintessence</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tokyo, Japan</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box;"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Asia’s Best Pastry Chef, sponsored by Cacao Barry</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Cheryl Koh</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 1px 0px; border-style: none dotted solid none; border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Tarte</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 0px 1px; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: rgb(238, 238, 238); box-sizing: border-box;">Singapore</td></tr><tr style="padding: 0px; margin: 0px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; background: rgb(249, 249, 249);"><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">Highest New Entry Award, sponsored by John Paul</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">Mingoo Kang</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px 1px 0px 0px; border-top-style: none; border-right-style: dotted; border-left-style: none; border-right-color: rgb(238, 238, 238); box-sizing: border-box;">Mingles</td><td style="padding: 0.4em; margin: 0px; outline: none; list-style: none; border-width: 0px; border-top-style: none; border-left-style: none; border-color: initial; box-sizing: border-box;">Seoul, Korea</td></tr></tbody></table><p style="padding: 0px; margin: 0px 0px 20px; outline: none; list-style: none; border: 0px none; box-sizing: border-box; font-family: nanumbarungothic; color: rgb(51, 51, 51); font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255);">&nbsp;</p><p style="font-size: 14px;">· 셰프뉴스에서 보기 : http://chefnews.kr/archives/11088</p>                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block; text-align:center;"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1557771002660658"
+                 data-ad-slot="5197810383"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>       
+                        
+        </div>
+
+<!-- 네임택 -->
+<div class="view_nametag">
+    <div class="view_nametag_pic"><img src="http://recipe1.ezmember.co.kr/cache/rpn/2015/11/27/ff202e1b816c130cea50734751bec63f1.jpg" style=""></div>
+    <dl class="view_nametag_cont">
+        <dt><b>CHEF NEWS</b>셰프뉴스</dt>
+        <dd>요리사에게 가장 신뢰도 높은 미디어            <a href="http://www.chefnews.kr" target="_blank">www.chefnews.kr</a></dd>
+    </dl>
+</div>
+<!-- 네임택 -->
+<div class="view_tag"><a href="/recipe/list.html?q=A50BR">#A50BR</a><a href="/recipe/list.html?q=ASIA'S 60 BEST RESTAURANTS">#ASIA'S 60 BEST RESTAURANTS</a><a href="/recipe/list.html?q=BANGKOK">#BANGKOK</a><a href="/recipe/list.html?q=JUNGSIK">#JUNGSIK</a><a href="/recipe/list.html?q=LA YEON">#LA YEON</a><a href="/recipe/list.html?q=MINGLES">#MINGLES</a><a href="/recipe/list.html?q=NARISAWA">#NARISAWA</a><a href="/recipe/list.html?q=THAILAND">#THAILAND</a><a href="/recipe/list.html?q=가간">#가간</a><a href="/recipe/list.html?q=나리사와">#나리사와</a><a href="/recipe/list.html?q=나연">#나연</a><a href="/recipe/list.html?q=밍글스">#밍글스</a><a href="/recipe/list.html?q=방콕">#방콕</a><a href="/recipe/list.html?q=산펠레그리노">#산펠레그리노</a><a href="/recipe/list.html?q=아시아 50 베스트레스토랑">#아시아 50 베스트레스토랑</a><a href="/recipe/list.html?q=아시아 베스트 레스토랑">#아시아 베스트 레스토랑</a><a href="/recipe/list.html?q=정식당">#정식당</a><a href="/recipe/list.html?q=태국">#태국</a></div>        <div class="row view_btn st2">
+
+            <div class="view_btn_r">
+                <a href="javascript:void(0)" onClick="snsWriter('kakaoStory')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_ks.gif" data-toggle="tooltip" title="" data-original-title="카카오스토리"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('facebook')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_f.gif" data-toggle="tooltip" title="" data-original-title="페이스북"></a>
+                <a href="javascript:void(0)" onClick="snsWriter('twitter')"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_t.gif" data-toggle="tooltip" title="" data-original-title="트위터"></a>
+                <a href="javascript:copyBbsUrl()"><img src="http://recipe1.ezmember.co.kr/img/icon_sns2_url.gif" data-toggle="tooltip" title="" data-original-title="주소복사"></a>
+            </div>
+        </div>
+        <div class="row view_btn">
+            <div class="view_btn_r">
+                <a href="/bbs/list.html?bid=2"><img src="http://recipe1.ezmember.co.kr/img/btn_v_list.gif" data-toggle="tooltip" title="" data-original-title="목록"></a>
+                <a href="/bbs/view.html?seq=1534"><img src="http://recipe1.ezmember.co.kr/img/btn_v_pre.gif" data-toggle="tooltip" title="" data-original-title="이전"></a>
+                <a href="/bbs/view.html?seq=1262"><img src="http://recipe1.ezmember.co.kr/img/btn_v_next.gif" data-toggle="tooltip" title="" data-original-title="다음"></a>
+            </div>
+        </div>
+        <div class="blank_bottom"></div>
+        <div class="view_reply">
+            <div class="reply_tit">의견 <span id="recipeCommentListCount">0</span></div>
+            <div id="recipeCommentList_1"></div>
+
+            <div class="reply_write">
+                <form id="insCmtFrm" method="post">
+                    <input type="hidden" name="q_mode" value="insertComment">
+                    <input type="hidden" name="bbs_no" value="1269">
+                    <div class="info_pic"><img class="media-object" src="http://recipe1.ezmember.co.kr/img/df/pf_100_100.png" data-holder-rendered="true"></div>
+                    <div class="input-group">
+                        <textarea id="cmtTextarea" onclick="EZ.ATLogin(); return false;" name="comment_txt" class="form-control" placeholder="" style="height:100px; width:100%; resize:none;"></textarea>
+                        <span class="input-group-btn"><button class="btn btn-default" type="button" onclick="doCommentSubmit()" style="height:100px; width:100px;">등록</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!--/view_reply-->
+    </div>
+    <!--/talk_list -->
+</div>
+    <div id="right_area" class="col-xs-3">
+    <div class="list-group talk_smn">
+    <a href="/bbs/list.html?bid=1" class="list-group-item">매거진</a>
+    <a href="/bbs/list.html?bid=2" class="list-group-item active">뉴스</a>
+    <a href="/bbs/list.html?bid=3" class="list-group-item">요리정보</a>
+    <a href="/bbs/list.html?bid=3&cid=1" class="list-group-item s_sub">요리팁 &amp; 노하우</a>
+    <a href="/bbs/list.html?bid=3&cid=2" class="list-group-item s_sub">재료</a>
+    <a href="/bbs/list.html?bid=3&cid=3" class="list-group-item s_sub">살림</a>
+    <a href="/bbs/list.html?bid=4" class="list-group-item">요리모음</a>
+</div>
+<div class="blank_bottom"></div>
+<div style="text-align:center;margin-top:10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 10k_w_right_300_250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1557771002660658"
+     data-ad-slot="7619851795"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','227');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/227?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','227');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/09/f1d36f8d5b6c3698908b814d466edaa01.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','226');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/226?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','226');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/11/06/78d4179c9365b93d4f5b24d0f6b60bf21.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','224');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/224?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','224');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/30/2b003646e65f80023f229cf10a7d1a5b1.jpg" style="width:100%;"></a>
+</div>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+    EZ.countLog('event_bbs_view_right','web','read','208');
+});
+//-->
+</script>
+<div style="margin:10px;">
+    <a href="/event/208?q_from=event_bbs_view_right" onClick="EZ.countLog('event_bbs_view_right','web','click','208');"><img src="http://recipe1.ezmember.co.kr/cache/rpe/2018/10/08/ca2a069e1c3ff91bb69be44a670b636d1.jpg" style="width:100%;"></a>
+</div>
+
+
+    
+    <div style="text-align:center;margin-top:10px">
+    
+        
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    </div>
+    
+        <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_600 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:600px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="8777892938"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+    <div style="text-align:center;margin-top:10px">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 10k_w_right_300_250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-1557771002660658"
+         data-ad-slot="7619851795"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+        
+    </div><!-- /right_area -->
+    <div class="col-xs-12 sub_bg_btm"></div>
+</div><!-- /container -->
+<script>
+var curVRPage = 1;
+var totalVRcnt = 0;
+function getViewRecipeList(page)
+{
+    if($("#rRecipContDivPage_"+page).length > 0)
+    {
+        $("[id^='rRecipContDivPage_']").hide();
+        $("#rRecipContDivPage_"+page).show();
+        curVRPage = page;
+        return ;
+    }
+    var rvArr = storageUtil.get('stRecentViewRecipe');
+    if(!rvArr || rvArr == 'FAIL')
+    {
+        $("#recentRecipeDiv").hide();
+        return ;
+    }
+    totalVRcnt = rvArr.length;
+    var scale = 6;
+    var skip = (page-1) * scale;
+    var lastpage = Math.ceil(totalVRcnt/scale);
+    var hstr = '';
+    hstr += '<div id="rRecipContDivPage_'+page+'" class="row">';
+    if(page > 1) hstr += '<a href="javascript:void(0);" class="list_btn_pre" onClick="getViewRecipeList('+(page-1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_l.png" alt="이전"></a>';
+    if(page < lastpage) hstr += '<a href="javascript:void(0);" class="list_btn_next" onClick="getViewRecipeList('+(page+1)+')"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow1_r.png" alt="다음"></a>';
+    for(var i=skip; i<skip+scale; i++)
+    {
+        var rvs = rvArr[i];
+        if(!rvs) continue;
+        hstr += '<div class="col-xs-2">';
+        hstr += '<a class="thumbnail" href="/recipe/'+rvs.seq+'"><img src="'+rvs.thumb+'" style="width:180px; height:180px;">';
+        hstr += '<div class="caption elipsis_rrtitle"><b>'+rvs.title+'</b></div></a>';
+        hstr += '</div>';
+    }
+    hstr += '</div>';
+    if(page != 1 && curVRPage > page) $("#recentRecipeContDiv").prepend(hstr);
+    else  $("#recentRecipeContDiv").append(hstr);
+    getViewRecipeList(page);
+    $(".elipsis_rrtitle").ellipsis({row: 2});
+}
+
+$(document).ready(function () {
+    getViewRecipeList(1);
+})
+</script>
+<div id="recentRecipeDiv" class="container">
+  <div class="rcp_lately_list">
+    <h3>최근 본 레시피</h3>
+    <div id="recentRecipeContDiv"></div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+    $('#appDownLayerBtn').click(function (e) {
+        // Used to stop the event bubbling..
+        e.stopPropagation();
+        if ($('.app_layer').is(':visible')) {
+            $('.app_layer').hide();
+        } else {
+            $('.app_layer').show();
+        }
+    });
+    $(document).click(function () {
+        $('.app_layer').hide();
+    });
+});
+
+function customerPropose()
+{
+    if(!$("#customerSend").val()) {
+        alert('의견을 입력해주세요.');
+        $("#customerSend").focus();
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: "/customer/insert.html",
+        data: {
+            q_mode : 'insert',
+            bid : '4',
+			board_txt : $("#customerSend").val()
+        },
+        dataType: "json",
+        success: function(result) {
+			if (result.result == 'SUCCESS') {
+	            alert('의견이 접수되었습니다. 감사합니다.');
+	            $("#customerSend").val('');
+			} else if (result.result == 'ERROR') {
+                alert(result.msg);
+            }
+        }
+    });
+}
+//-->
+</script>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 intro" style="width:440px;">
+                <p class="f_link">
+                    <a href="http://www.ezhld.co.kr/2012_ezhld/company/company.html" target="_blank">회사소개</a><span>|</span>
+                    <a href="http://www.10000recipe.com/ad/" target="_blank">광고문의</a><span>|</span>
+                    <a href="/user/rules.html?f=privacy" target="_blank">개인정보처리방침</a><span>|</span>
+                    <a href="/user/rules.html?f=contract" target="_blank">이용약관 </a><span>|</span>
+                    <a href="/customer/list.html">고객센터</a>
+                </p>
+                <p class="f_info">대표 : 이인경 / E : help@10000recipe.com / F : 02) 323-5049 <br>서울 금천구 가산동 371-50 에이스하이엔드타워 3차 1106-1호 <br>문의 : 070-4896-6416 (운영시간-오전10:00~오후5:00)</p>
+                <p class="f_info">(주)이지에이치엘디 / 사업자등록번호 117-81-44101 / 통신판매업신고 <br>제 2009-서울금천-0631호 / 벤처기업확인 / <a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" style="color:#999">사업자정보확인</a> <br>서울지방중소기업청 제 031134233-1-01643호</p>
+                <p class="copyright">Copyright <b>©EZHLD</b> Inc. All Rights Reserved</p>
+            </div>
+            <div class="col-xs-2 banner" style="width:500px;">
+                <div class="app_layer" style="display:none;">
+                    <p class="tit">모바일 만개의 레시피 다운받기</p>
+                    <div class="layer_l"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr1.gif" alt="안드로이드"><a href="https://market.android.com/details?id=com.ezhld.recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                    <div class="layer_r"><img src="http://recipe1.ezmember.co.kr/img/img_ezqr2.gif" alt="아이폰"><a href="https://itunes.apple.com/kr/app/yoribaeggwa-mangaeyi-resipi/id494190282?mt=8" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btn_go.gif" alt="바로가기"></a></div>
+                </div>
+                <a href="javascript:void(0);" id="appDownLayerBtn"><img src="http://recipe1.ezmember.co.kr/img/btm_app2.gif" alt="app다운로드"></a>
+                <div class="banner_sns">
+                    <a href="https://www.facebook.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_1.gif" alt="페이스북"></a>
+                    <a href="https://www.instagram.com/10000recipe/" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_2.gif" alt="인스타그램"></a>
+                    <a href="https://www.youtube.com/channel/UCKA_6r3CWC76x_EaFO6jsPA" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_3.gif" alt="유투브"></a>
+                    <a href="http://tvcast.naver.com/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_4.gif" alt="네이버TV"></a>
+                    <a href="http://m.post.naver.com/my.nhn?memberNo=11566067" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_5.gif" alt="네이버포스트"></a>
+                    <a href="https://tv.kakao.com/channel/2134164/video" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_6.gif" alt="카카오TV"></a>
+                    <a href="https://story.kakao.com/ch/10000recipe" target="_blank"><img src="http://recipe1.ezmember.co.kr/img/btm_sns_7.gif" alt="카카오스토리"></a>
+                </div>
+            </div>
+            <div class="col-xs-3 comment">
+                <textarea id="customerSend" name="board_txt" class="form-control" placeholder="만개의레시피에 전하고 싶은 의견을 남겨주세요. 회원님의 의견에 항상 귀 기울이겠습니다."></textarea>
+                <button class="btn btn-default" onclick="customerPropose();">의견제출</button>
+                <p class="noti">개별회신을 원하시면 <a href="/customer/list.html?bid=3" style="text-decoration:underline; color:#666;">여기</a>에 문의하세요.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer st2">
+    <div class="container">
+        <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
+        <ul class="btm_stats">
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>357</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,139</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,817</b></li>
+            <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,236,082,799</b></li>
+        </ul>
+        <div class="btm_mail">
+            <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/coreutil.min_20170112.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://recipe1.ezmember.co.kr/static/js/ui.min_20150609.js" charset="utf-8"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62003031-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_255869&src.rand=[timestamp]" style="display:none;"/>
+<img src="//kr-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_281041&src.rand=[timestamp]" style="display:none;"/>
+<iframe src="//static-tagr.gd1.mookie1.com/s1/sync-apac.html?cc=KR" style="display:none;"></iframe>
+
+</body>
+</html>
