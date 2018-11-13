@@ -1,6 +1,7 @@
 var body;
 var output;
 var i;
+var allText;
 var recipe;
 var number;
 var page;
@@ -49,14 +50,14 @@ function On1Click(){
 		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
 	  rawFile.open("GET", file, false);
-		//value = value+rawFile.readyState+"----> 1</br></br>";
+		//value = value+rawFile.readyState+"----> 1<br><br>";
 		//value = "";
-		//value = value+rawFile.status+"----> 3</br></br>";
+		//value = value+rawFile.status+"----> 3<br><br>";
 	   rawFile.onreadystatechange = function ()
 	   {
-			 //value = value+rawFile.readyState+"----> 4</br></br>";
-			 //value = value+rawFile.onreadystatechange+"----> 5</br></br>";
-			 //value = value+rawFile.status+"----> 6</br></br>";
+			 //value = value+rawFile.readyState+"----> 4<br><br>";
+			 //value = value+rawFile.onreadystatechange+"----> 5<br><br>";
+			 //value = value+rawFile.status+"----> 6<br><br>";
 	        if(rawFile.readyState === 4)
 	        {
 	            if(rawFile.status === 200 || rawFile.status == 0)
@@ -76,7 +77,7 @@ function On1Click(){
             body = body.replace(jung[0], '');
             //jung[1]=번호, jung[2]=요리이름, jung[3]=간단레시피주소, jung[4]=이미지주소, jung[5]=상세레시피주소
             if(new RegExp(recipe).test(jung[2])){
-               output[i] = number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)</br><a href="http://www.10000recipe.com/recipe/'+jung[5]+'" target="_blank">'+jung[4]+' title="http://www.10000recipe.com/recipe/'+jung[5]+'" width="30%"></a></br>';
+               output[i] = number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)<br><a href="http://www.10000recipe.com/recipe/'+jung[5]+'" target="_blank">'+jung[4]+' title="http://www.10000recipe.com/recipe/'+jung[5]+'" width="30%"></a><br>';
                i += 1;
                number+=1;
             }
@@ -98,13 +99,13 @@ function On1Click(){
         outputmessage = outputmessage+output[repeat];
       }
       if (page > 1 && page < pagemax) {
-          message.innerHTML = outputmessage + '</br><a onClick="before()" href="#top" class="next">이전</a> <a onClick="next()" class="next">다음</a>';
+          message.innerHTML = outputmessage + '<br><a onClick="before()" href="#top" class="next">이전</a> <a onClick="next()" class="next">다음</a>';
       }
       else if (page==1 && pagemax > 1) {
-          message.innerHTML = outputmessage + '</br><a onClick="next()" href="#top" class="next">다음</a>';
+          message.innerHTML = outputmessage + '<br><a onClick="next()" href="#top" class="next">다음</a>';
       }
       else if (page == pagemax && page > 1){
-          message.innerHTML = outputmessage + '</br><a onClick="before()" href="#top" class="next">이전</a>';
+          message.innerHTML = outputmessage + '<br><a onClick="before()" href="#top" class="next">이전</a>';
       }
       else{
         message.innerHTML = outputmessage;
@@ -114,49 +115,44 @@ function On1Click(){
 		//});
 	//}
 }
-function change(data){
-	while(/<h1><b>\d\./.test(data)){
-		var jung = /<h1><b>\d\.([^<]+)/.exec(data);
-		var data = data.replace(jung[0],'');
-		output = output+jung[1];
-		if(/<dt>.주재료.<.dt>/.test(data)){
-			var jung = /<dt>.주재료.<.dt>[\r\n][^<]+<dd>([^<]+)/.exec(data);
-			var data = data.replace(jung[0],'');
-			output = output+"|"+jung[1];
-		}
-		if(/<dt>.양념 및 소스재료.<.dt>/.test(data)){
-			var jung = /<dt>.양념 및 소스재료.<.dt>[\r\n][^<]+<dd>([^<]+)/.exec(data);
-			var data = data.replace(jung[0],'');
-			output = output+","+jung[1]+"\n";
-		}
-	}
-	return output;
-}
-function On2Click(){
-	alert("삭제된 기능입니다");
-	/*var count=Math.floor(prompt('재료의 개수를 입력하세요'));
-	var m = {};
-	var i;
-
-	for(i = 0; i < count; i++){
-		m[i] = prompt((i+1)+'번째 재료를 입력하세요');
-	}
-	//모듈 로드
-	var client = require('cheerio-httpcli');
-
-	// 다운로드 ---- ( ※ 2)
-	var i;
-	for(i=3; i<=1947;i++){
-		var url = "http://jpub.tistory."+i;
-		var param = {};
-
-		client.fetch(url, param, function (err, $, res) {
-		// 에러 체크
-		if (err) { console.log("Error:", err); return; }
-
-		// 다운로드한 결과를 화면에 출력  ---- ( ※ 3)
-		var body = $.html();
-		console.log(body);
-		});
-	}*/
+function button1(choose){
+  var message = '';
+  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/mainpage.txt";
+  var for_for;
+  var rawFile = new XMLHttpRequest();
+  rawFile.open("GET", file, false);
+  rawFile.onreadystatechange = function ()
+  {
+      if(rawFile.readyState === 4)
+      {
+          if(rawFile.status === 200 || rawFile.status == 0)
+          {
+              allText = rawFile.responseText;
+          }
+      }
+  }
+  rawFile.send(null);
+  for(for_for=1;for_for<=4;for_for++){
+    var jung = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
+    allText = allText.replace(jung[0],'');
+    message = message+jung[1];
+    var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
+    allText = allText.replace(jung[0],'');
+    message = message+'|'+jung[1]+'\n';
+  }
+  for(for_for=1;for_for<=32;for_for++){
+    var jung = new RegExp('<div class="thumbs_hb"><img src="([^"]+)').exec(allText);
+    allText = allText.replace(jung[0],'');
+    var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
+    allText = allText.replace(jung[0],'');
+  }
+  for(for_for=1;for_for<=4;for_for++){
+    var jung = new RegExp('<div class="thumbs_hb"><img src="([^"]+)').exec(allText);
+    allText = allText.replace(jung[0],'');
+    message = message+jung[1];
+    var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
+    allText = allText.replace(jung[0],'');
+    message = message+'|'+jung[1]+'\n';
+  }
+  alert(message);
 }
