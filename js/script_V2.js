@@ -132,27 +132,45 @@ function button1(choose){
       }
   }
   rawFile.send(null);
-  for(for_for=1;for_for<=4;for_for++){
-    var jung = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
-    allText = allText.replace(jung[0],'');
-    message = message+jung[1];
-    var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
-    allText = allText.replace(jung[0],'');
-    message = message+'|'+jung[1]+'\n';
+  if(choose == 1){
+    for(for_for=1;for_for<=4;for_for++){
+      var jung1 = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
+      allText = allText.replace(jung1[0],'');
+      var jung2 = /<a class="thumbnail" href="([^"]+)/.exec(allText);
+      allText = allText.replace(jung2[0],'');
+      var jung3 = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
+      allText = allText.replace(jung3[0],'');
+      if(for_for !== 4){
+          message = message+for_for+'. <a href="'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'</a><br><img src="'+jung3[1]+'" width="30%"><br>';
+      }
+      else{
+        message = message+for_for+'. <a href="'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'</a><br><img src="'+jung3[1]+'" width="30%">';
+      }
+    }
   }
-  for(for_for=1;for_for<=32;for_for++){
-    var jung = new RegExp('<div class="thumbs_hb"><img src="([^"]+)').exec(allText);
-    allText = allText.replace(jung[0],'');
-    var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
-    allText = allText.replace(jung[0],'');
+  else{
+    for(for_for=1;for_for<=36;for_for++){
+      var jung = /<a class="thumbnail" href="([^"]+)/.exec(allText);
+      allText = allText.replace(jung[0],'');
+      var jung = new RegExp('<div class="thumbs_hb"><img src="([^"]+)').exec(allText);
+      allText = allText.replace(jung[0],'');
+      var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
+      allText = allText.replace(jung[0],'');
+    }
+    for(for_for=1;for_for<=4;for_for++){
+      var jung1 = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
+      allText = allText.replace(jung1[0],'');
+      var jung2 = /<a class="thumbnail" href="([^"]+)/.exec(allText);
+      allText = allText.replace(jung2[0],'');
+      var jung3 = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
+      allText = allText.replace(jung3[0],'');
+      if(for_for !== 4){
+          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'</a><br><img src="'+jung3[1]+'" width="30%"><br>';
+      }
+      else{
+        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'</a><br><img src="'+jung3[1]+'" width="30%">';
+      }
+    }
   }
-  for(for_for=1;for_for<=4;for_for++){
-    var jung = new RegExp('<div class="thumbs_hb"><img src="([^"]+)').exec(allText);
-    allText = allText.replace(jung[0],'');
-    message = message+jung[1];
-    var jung = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
-    allText = allText.replace(jung[0],'');
-    message = message+'|'+jung[1]+'\n';
-  }
-  alert(message);
+  document.getElementById('message').innerHTML = message;
 }
