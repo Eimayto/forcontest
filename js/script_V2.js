@@ -118,7 +118,7 @@ function On1Click(){
 function button1(choose){
   var r;
   var message = '';
-  var file = "https://www.10000recipe.com/index.html";
+  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/mainpage.txt";
   var for_for;
   var rawFile = new XMLHttpRequest();
   rawFile.open("GET", file, false);
