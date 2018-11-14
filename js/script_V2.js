@@ -121,7 +121,6 @@ function button1(choose){
   var file = "https://www.10000recipe.com/index.html";
   var for_for;
   var rawFile = new XMLHttpRequest();
-  rawFile.open("GET", file, false);
   rawFile.onreadystatechange = function ()
   {
       if(rawFile.readyState === 4)
@@ -132,6 +131,7 @@ function button1(choose){
           }
       }
   }
+  rawFile.open("GET", file, true);
   rawFile.send();
   if(choose == 1){
     for(for_for=1;for_for<=4;for_for++){
