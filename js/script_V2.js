@@ -116,6 +116,7 @@ function On1Click(){
 	//}
 }
 function button1(choose){
+  var r;
   var message = '';
   var file = "https://www.10000recipe.com/index.html";
   var for_for;
@@ -131,7 +132,7 @@ function button1(choose){
           }
       }
   }
-  rawFile.send(null);
+  rawFile.send();
   if(choose == 1){
     for(for_for=1;for_for<=4;for_for++){
       var jung1 = new RegExp('<h4><span class="jq_elips">([^<]+)').exec(allText);
