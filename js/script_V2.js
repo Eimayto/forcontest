@@ -30,34 +30,11 @@ function On1Click(){
 	var message = document.getElementById('message');
 	var bunsu = document.getElementById('bunsu');
 	message.innerHTML = "";
-	//모듈 로드
-	/*var client = require('cheerio-httpcli');
-
-	// 다운로드 ---- ( ※ 2)
-	var i;
-	for(i=3; i<=1947;i++){
-		var url = "http://jpub.tistory."+i;
-		var param = {};
-
-		client.fetch(url, param, function (err, $, res) {
-		// 에러 체크
-		if (err) { console.log("Error:", err); return; }
-
-		// 다운로드한 결과를 화면에 출력  ---- ( ※ 3)
-		var body = $.html();
-		console.log(body);*/
-		//alert(i);
 		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
 	  rawFile.open("GET", file, false);
-		//value = value+rawFile.readyState+"----> 1<br><br>";
-		//value = "";
-		//value = value+rawFile.status+"----> 3<br><br>";
 	   rawFile.onreadystatechange = function ()
 	   {
-			 //value = value+rawFile.readyState+"----> 4<br><br>";
-			 //value = value+rawFile.onreadystatechange+"----> 5<br><br>";
-			 //value = value+rawFile.status+"----> 6<br><br>";
 	        if(rawFile.readyState === 4)
 	        {
 	            if(rawFile.status === 200 || rawFile.status == 0)
@@ -68,10 +45,6 @@ function On1Click(){
 	        }
 	    }
 	    rawFile.send(null);
-			//body = change(body);
-			//var body = document.getElementById("message").innerHTML;
-			//var jung = new RegExp("<b>([^<]+)");
-			//var b = body.match(jung)[1];
 			while(/(\d).([^|]+).([^|]+).([^|]+).([\d]+)/.test(body)){
             var jung = /(\d).([^|]+).([^|]+).([^|]+).([\d]+)/.exec(body);
             body = body.replace(jung[0], '');
@@ -111,9 +84,6 @@ function On1Click(){
         message.innerHTML = outputmessage;
       }
 			bunsu.innerHTML = page+'번째 page / 총 '+pagemax+'pages';
-		//message.innerHTML = value;
-		//});
-	//}
 }
 function button1(choose){
   var r;
