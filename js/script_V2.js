@@ -47,7 +47,7 @@ function On1Click(){
 		var body = $.html();
 		console.log(body);*/
 		//alert(i);
-		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
+		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
 	  rawFile.open("GET", file, false);
 		//value = value+rawFile.readyState+"----> 1<br><br>";
@@ -118,7 +118,7 @@ function On1Click(){
 function button1(choose){
   var r;
   var message = '';
-  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/mainpage.txt";
+  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/download/mainpage.txt";
   var for_for;
   var rawFile = new XMLHttpRequest();
   rawFile.open("GET", file, false);
