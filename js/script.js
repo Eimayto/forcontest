@@ -55,7 +55,7 @@ function On1Click(){
 		//alert(i);
 		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
-	  rawFile.open("GET", file, false)
+	  rawFile.open("GET", file, false);
 		//value = value+rawFile.readyState+"----> 1</br></br>";
 		//value = "";
 		//value = value+rawFile.status+"----> 3</br></br>";
