@@ -30,7 +30,7 @@ function On1Click(){
 	var message = document.getElementById('message');
 	var bunsu = document.getElementById('bunsu');
 	message.innerHTML = "";
-		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/file"+i+".txt";
+		var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/download/file"+i+".txt";
 		var rawFile = new XMLHttpRequest();
 	  rawFile.open("GET", file, false);
 	   rawFile.onreadystatechange = function ()
@@ -88,7 +88,7 @@ function On1Click(){
 function button1(choose){
   var r;
   var message = '';
-  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/js/download/mainpage.txt";
+  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/download/mainpage.txt";
   var for_for;
   var rawFile = new XMLHttpRequest();
   rawFile.open("GET", file, false);
