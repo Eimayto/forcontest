@@ -94,7 +94,7 @@ function doRTKeyword()
                     </div>
                     </form>
                     <div class="gnb_search_word">
-<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=김치찌개">김치찌개</a></li><li><a href="/recipe/list.html?q=두부조림">두부조림</a></li><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=계란찜">계란찜</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=무생채">무생채</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li><li><a href="/recipe/list.html?q=소고기무국">소고기무국</a></li><li><a href="/recipe/list.html?q=제육볶음">제육볶음</a></li><li><a href="/recipe/list.html?q=콩나물국">콩나물국</a></li></ul>                        <div class="gnb_search_btn">
+<ul id="RtwordDiv_1" style="display:none;"><li><a href="/recipe/list.html?q=동치미">동치미</a></li><li><a href="/recipe/list.html?q=잡채">잡채</a></li><li><a href="/recipe/list.html?q=떡볶이">떡볶이</a></li><li><a href="/recipe/list.html?q=깍두기">깍두기</a></li><li><a href="/recipe/list.html?q=김장김치">김장김치</a></li></ul><ul id="RtwordDiv_2" style="display:none;"><li><a href="/recipe/list.html?q=닭볶음탕">닭볶음탕</a></li><li><a href="/recipe/list.html?q=꼬막무침">꼬막무침</a></li><li><a href="/recipe/list.html?q=고구마">고구마</a></li><li><a href="/recipe/list.html?q=백김치">백김치</a></li><li><a href="/recipe/list.html?q=된장찌개">된장찌개</a></li></ul>                        <div class="gnb_search_btn">
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_l.gif" alt="이전"></a>
                             <a href="javascript:void(0);" onClick="doRTKeyword()"><img src="http://recipe1.ezmember.co.kr/img/btn_arrow2_r.gif" alt="다음"></a>
                         </div>
@@ -479,84 +479,38 @@ function setRecvDiv(mode)
         <dd style="width:945px;overflow:hidden">
             <ul class="home_recipe2 st2" id="id_themes_bestvideo" style="position:relative;left:0;height:230px;width:1890px">
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6869996">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/01365a0a9760e2295dc9e568415d8df41_f.jpg" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6864948">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/02/08/4f970d89d822607311d4e47c6c533b971_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">부드러운 순살로만 빠르게 완성! 치즈닭갈비</h4>
+                            <h4><span class="jq_elips">초간단 전 만들기!햄두부전★</h4>
                             <p class="jq_elips">by 만개의레시피</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6868649">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/04/19/a73118374c1e2459e7fcb9f5ed6cffab1_f.jpg" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6900042">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/3d8341bfaa1f4b9059098aa6717b49441_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">심쿵 유발!! 맥주 안주로.. 이거 만한게 없지! 새우강정</h4>
+                            <h4><span class="jq_elips">TV요리) 돼지고기불고기 고기는 옳다! [만개의레시피]</h4>
                             <p class="jq_elips">by 만개의레시피</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899597">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/07/2545b48aa13d6014b85319346cd70dfb1_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6900188">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/15/cfd898c9cc365d754cd3f9a3212137f11_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">옥수수찹쌀죽 ☆ 속이 편안해져요 ~_~</h4>
+                            <h4><span class="jq_elips">달걀치즈토스트 ★ 부들부들 달걀을 품었다!</h4>
                             <p class="jq_elips">by 만개의레시피</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899397">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/2bd6563fe5a1e18e6feabd6193da06621_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6871939">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/a866717699fe982b409e219b82cacbc41_f.jpg" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">닭똥집튀김이 쫄깃바삭해서 한잔 더!</h4>
+                            <h4><span class="jq_elips">한끼 도시락으로 최고! 쉬림프박스</h4>
                             <p class="jq_elips">by 만개의레시피</p>
-                        </div>
-                    </a>
-                </li>
-                        </ul>
-        </dd>
-    </dl>
-    <dl class="home_cont">
-        <dt>
-            <h3><a href="/issue/view.html?cid=zipbob">누구나 집에서 쉽게 요리를~</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=zipbob" class="btn_more">더보기</a></div>
-        </dt>
-        <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_zipbob" style="position:relative;left:0;height:230px;width:1890px">
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6880237">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/29/c3ae75162036adcd6b346f52078a87c61_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">백종원의 김치찌개 - 집밥백선생3 42회</h4>
-                            <p class="jq_elips">by 집밥백선생</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6880236">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/29/1309775e003cf00033cefe9136cb3c221_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">백종원의 꽈리고추찜 - 집밥백선생3 42회</h4>
-                            <p class="jq_elips">by 집밥백선생</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6880235">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/29/d69cb941541981e7ecba5bcb11d2cb4c1_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">백종원의 명란달걀말이 - 집밥백선생3 42회</h4>
-                            <p class="jq_elips">by 집밥백선생</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6879948">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/1f1290750a53e195bb298fb675d3731f1_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">백종원의 꽃게찜 - 집밥백선생3 41회</h4>
-                            <p class="jq_elips">by 집밥백선생</p>
                         </div>
                     </a>
                 </li>
@@ -611,44 +565,182 @@ function setRecvDiv(mode)
     </dl>
     <dl class="home_cont">
         <dt>
-            <h3><a href="/issue/view.html?cid=cchannel">C Channel</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=cchannel" class="btn_more">더보기</a></div>
+            <h3><a href="/issue/view.html?cid=gdubu33">영상으로 만나는 오늘의 요리</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=gdubu33" class="btn_more">더보기</a></div>
         </dt>
         <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_cchannel" style="position:relative;left:0;height:230px;width:1890px">
+            <ul class="home_recipe2 st2" id="id_themes_gdubu33" style="position:relative;left:0;height:230px;width:1890px">
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6873886">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/23afcb2070c74d08b88f1d66b50ac4751_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6900270">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/94143ac03a791314a548833e4ecca2371_f.jpg" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">파이의 혁신! 바삭촉촉한 함박스테이크 파이</h4>
-                            <p class="jq_elips">by C Channel</p>
+                            <h4><span class="jq_elips">체온상승주스 후끈 달아오르는구마잉~☆</h4>
+                            <p class="jq_elips">by 만개의 레시피</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6873824">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/07/31/9cc5b3950d87d4e7194bed4fbd53374a1_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6900269">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/3ca8fc31a43f62f79f69ae030d6097011_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">매시포테이토 돼지고기 말이</h4>
-                            <p class="jq_elips">by C Channel</p>
+                            <h4><span class="jq_elips">소떡강정 ★ 널 보니 마음이 소떡소떡</h4>
+                            <p class="jq_elips">by 만개의 레시피</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6873823">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/07/31/1e8baeb26f0e316ce7dc17ed9de0fbda1_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6900267">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/289223697527f46718d0a1f5889311e31_f.jpg" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">스크램블 에그 라이스버거</h4>
-                            <p class="jq_elips">by C Channel</p>
+                            <h4><span class="jq_elips">된장찌개 보글보글 냄새만으로도 침샘자극 ★</h4>
+                            <p class="jq_elips">by 만개의 레시피</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6873821">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/07/31/1f53cdb0af23629422a055c2b5d1c3661_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6900263">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/af383e83a477d7f006562e14991432481_f.jpg" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">촉촉한 가지 데리야키 덮밥</h4>
-                            <p class="jq_elips">by C Channel</p>
+                            <h4><span class="jq_elips">군고구마의 계절이 다가오고있다!</h4>
+                            <p class="jq_elips">by 만개의 레시피</p>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+        </dd>
+    </dl>
+    <dl class="home_cont">
+        <dt>
+            <h3><a href="/issue/view.html?cid=zipbob">누구나 집에서 쉽게 요리를~</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=zipbob" class="btn_more">더보기</a></div>
+        </dt>
+        <dd style="width:945px;overflow:hidden">
+            <ul class="home_recipe2 st2" id="id_themes_zipbob" style="position:relative;left:0;height:230px;width:1890px">
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6880237">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/29/c3ae75162036adcd6b346f52078a87c61_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">백종원의 김치찌개 - 집밥백선생3 42회</h4>
+                            <p class="jq_elips">by 집밥백선생</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6880236">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/29/1309775e003cf00033cefe9136cb3c221_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">백종원의 꽈리고추찜 - 집밥백선생3 42회</h4>
+                            <p class="jq_elips">by 집밥백선생</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6880235">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/29/d69cb941541981e7ecba5bcb11d2cb4c1_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">백종원의 명란달걀말이 - 집밥백선생3 42회</h4>
+                            <p class="jq_elips">by 집밥백선생</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6879948">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/1f1290750a53e195bb298fb675d3731f1_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">백종원의 꽃게찜 - 집밥백선생3 41회</h4>
+                            <p class="jq_elips">by 집밥백선생</p>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+        </dd>
+    </dl>
+    <dl class="home_cont">
+        <dt>
+            <h3><a href="/issue/view.html?cid=10000mag">다양한 테마로 다섯가지 요리를 추천</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=10000mag" class="btn_more">더보기</a></div>
+        </dt>
+        <dd style="width:945px;overflow:hidden">
+            <ul class="home_recipe2 st2" id="id_themes_10000mag" style="position:relative;left:0;height:230px;width:1890px">
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6885308">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/12/93f1d1b6d2ffcea135134688e880e1291_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">갑자기 나타난 통풍, 원인과 건강한 예방 식습관은?</h4>
+                            <p class="jq_elips">by 만개의 매거진</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6885305">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/12/3888add144c3d93eac30186724a86eb31_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">음식 더 오랫동안 보관하기 꿀팁!어떻게 보관해야 될까요???</h4>
+                            <p class="jq_elips">by 만개의 매거진</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6885177">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/09/48a87d12fd5646276b169efd16c21a891_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">점점 늘어나는 뱃살~식욕 억제 식품 알아보고 과식금지!</h4>
+                            <p class="jq_elips">by 만개의 매거진</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6885176">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/09/973e6304318e729a31d248be7f3d7b3c1_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">국민질환 당뇨! 당뇨 예방 음식</h4>
+                            <p class="jq_elips">by 만개의 매거진</p>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+        </dd>
+    </dl>
+    <dl class="home_cont">
+        <dt>
+            <h3><a href="/issue/view.html?cid=10000know">알아두면 무조건 좋은</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=10000know" class="btn_more">더보기</a></div>
+        </dt>
+        <dd style="width:945px;overflow:hidden">
+            <ul class="home_recipe2 st2" id="id_themes_10000know" style="position:relative;left:0;height:230px;width:1890px">
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6900040">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/729964ca2e7657275f5382d71dac18b61_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">밀가루 종류별로 알려드릴께요 : ) [만개의노하우]</h4>
+                            <p class="jq_elips">by 만개의 노하우</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899728">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/e907abce5aecf906375804ddec3c74a21_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">올리고당조리법 ☆ 음식의 단맛과 윤기까지 싹-</h4>
+                            <p class="jq_elips">by 만개의 노하우</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899727">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/87e714bc830dfde17229e8af0135f9511_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">소금조리법 ☆ 소금의 종류가 이렇게 많았다구요!?</h4>
+                            <p class="jq_elips">by 만개의 노하우</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899724">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/c16c8ab66e4f34463ef31bf03f398d111_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">새우젓보관법 ☆ 잘쓰면 감칠맛 대-박!</h4>
+                            <p class="jq_elips">by 만개의 노하우</p>
                         </div>
                     </a>
                 </li>
@@ -695,6 +787,98 @@ function setRecvDiv(mode)
                         <div class="caption">
                             <h4><span class="jq_elips">푸드에세이 냠냠 ★ 블루베리편</h4>
                             <p class="jq_elips">by 냠냠</p>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+        </dd>
+    </dl>
+    <dl class="home_cont">
+        <dt>
+            <h3><a href="/issue/view.html?cid=manmul">살림9단들의 특급 알짜 레시피</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=manmul" class="btn_more">더보기</a></div>
+        </dt>
+        <dd style="width:945px;overflow:hidden">
+            <ul class="home_recipe2 st2" id="id_themes_manmul" style="position:relative;left:0;height:230px;width:1890px">
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899984">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/6a5d6c1a748a0fff347ee68360e01b881_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">신효섭의 한방수육- 살림9단 만물상 268회</h4>
+                            <p class="jq_elips">by 살림9단의 만물상</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899983">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/125fe5c75992b451fda0a8a0437a034f1_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">유귀열의 배추 김장김치- 살림9단 만물상 268회</h4>
+                            <p class="jq_elips">by 살림9단의 만물상</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899980">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/432afb29a2754443c27649bbf0fba9461_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">이보은의 동치미- 살림9단 만물상 268회</h4>
+                            <p class="jq_elips">by 살림9단의 만물상</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6899412">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/d49e7d181136c92db5817d58f5f0b8521_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">조영신의 오삼불고기- 살림9단 만물상 267회</h4>
+                            <p class="jq_elips">by 살림9단의 만물상</p>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+        </dd>
+    </dl>
+    <dl class="home_cont">
+        <dt>
+            <h3><a href="/issue/view.html?cid=jungbal">정발쌤TV</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=jungbal" class="btn_more">더보기</a></div>
+        </dt>
+        <dd style="width:945px;overflow:hidden">
+            <ul class="home_recipe2 st2" id="id_themes_jungbal" style="position:relative;left:0;height:230px;width:1890px">
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6887222">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/04/13/76ddaa49743cb489b3fe87d945c6ec751_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는 주꾸미볶음☆</h4>
+                            <p class="jq_elips">by 정발쌤TV</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6887168">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/bbb74d8af672d6049ad51601941a63241_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는 매콤짬뽕라면☆</h4>
+                            <p class="jq_elips">by 정발쌤TV</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6887161">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/a660c025b51e611fc815745019a323941_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는 갈릭스노잉피자☆</h4>
+                            <p class="jq_elips">by 정발쌤TV</p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="pull-left">
+                    <a class="thumbnail" href="/recipe/6884016">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/cfe69dddbfa073e284784e203de7b5eb1_f.png" alt="recipe"></div>
+                        <div class="caption">
+                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는~발렌타인 기념 러블리♥'바크 초콜렛'만들기!바크초콜렛</h4>
+                            <p class="jq_elips">by 정발쌤TV</p>
                         </div>
                     </a>
                 </li>
@@ -841,228 +1025,44 @@ function setRecvDiv(mode)
     </dl>
     <dl class="home_cont">
         <dt>
-            <h3><a href="/issue/view.html?cid=jungbal">정발쌤TV</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=jungbal" class="btn_more">더보기</a></div>
+            <h3><a href="/issue/view.html?cid=cchannel">C Channel</a></h3>
+            <div class="home_cont_r2"><a href="/issue/view.html?cid=cchannel" class="btn_more">더보기</a></div>
         </dt>
         <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_jungbal" style="position:relative;left:0;height:230px;width:1890px">
+            <ul class="home_recipe2 st2" id="id_themes_cchannel" style="position:relative;left:0;height:230px;width:1890px">
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6887222">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/04/13/76ddaa49743cb489b3fe87d945c6ec751_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6873886">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/23afcb2070c74d08b88f1d66b50ac4751_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는 주꾸미볶음☆</h4>
-                            <p class="jq_elips">by 정발쌤TV</p>
+                            <h4><span class="jq_elips">파이의 혁신! 바삭촉촉한 함박스테이크 파이</h4>
+                            <p class="jq_elips">by C Channel</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6887168">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/bbb74d8af672d6049ad51601941a63241_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6873824">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/07/31/9cc5b3950d87d4e7194bed4fbd53374a1_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는 매콤짬뽕라면☆</h4>
-                            <p class="jq_elips">by 정발쌤TV</p>
+                            <h4><span class="jq_elips">매시포테이토 돼지고기 말이</h4>
+                            <p class="jq_elips">by C Channel</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6887161">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/a660c025b51e611fc815745019a323941_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6873823">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/07/31/1e8baeb26f0e316ce7dc17ed9de0fbda1_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는 갈릭스노잉피자☆</h4>
-                            <p class="jq_elips">by 정발쌤TV</p>
+                            <h4><span class="jq_elips">스크램블 에그 라이스버거</h4>
+                            <p class="jq_elips">by C Channel</p>
                         </div>
                     </a>
                 </li>
                             <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6884016">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/cfe69dddbfa073e284784e203de7b5eb1_f.png" alt="recipe"></div>
+                    <a class="thumbnail" href="/recipe/6873821">
+                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2017/07/31/1f53cdb0af23629422a055c2b5d1c3661_f.png" alt="recipe"></div>
                         <div class="caption">
-                            <h4><span class="jq_elips">친절한 정발쌤과 함께하는~발렌타인 기념 러블리♥'바크 초콜렛'만들기!바크초콜렛</h4>
-                            <p class="jq_elips">by 정발쌤TV</p>
-                        </div>
-                    </a>
-                </li>
-                        </ul>
-        </dd>
-    </dl>
-    <dl class="home_cont">
-        <dt>
-            <h3><a href="/issue/view.html?cid=gdubu33">영상으로 만나는 오늘의 요리</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=gdubu33" class="btn_more">더보기</a></div>
-        </dt>
-        <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_gdubu33" style="position:relative;left:0;height:230px;width:1890px">
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6900042">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/3d8341bfaa1f4b9059098aa6717b49441_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">TV요리) 돼지고기불고기 고기는 옳다! [만개의레시피]</h4>
-                            <p class="jq_elips">by 만개의 레시피</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6900041">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/946429710f59a0961f15d125198f54a61_f.jpg" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">[읽어주는레시피] 여기 밥도둑이써여! 달걀장조림 [만개의레시피]</h4>
-                            <p class="jq_elips">by 만개의 레시피</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899968">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/8d36e2a465d49872ce2d1440a9c41a031_f.jpg" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">고추장찌개 칼칼~하게 끓여먹으면 감기 뚝! </h4>
-                            <p class="jq_elips">by 만개의 레시피</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899967">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/d0f4d7dce2b476ded48c8804891a79d21_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">오레오스쿱쿠키 결이 살아있쟈낭!★</h4>
-                            <p class="jq_elips">by 만개의 레시피</p>
-                        </div>
-                    </a>
-                </li>
-                        </ul>
-        </dd>
-    </dl>
-    <dl class="home_cont">
-        <dt>
-            <h3><a href="/issue/view.html?cid=manmul">살림9단들의 특급 알짜 레시피</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=manmul" class="btn_more">더보기</a></div>
-        </dt>
-        <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_manmul" style="position:relative;left:0;height:230px;width:1890px">
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899984">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/6a5d6c1a748a0fff347ee68360e01b881_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">신효섭의 한방수육- 살림9단 만물상 268회</h4>
-                            <p class="jq_elips">by 살림9단의 만물상</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899983">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/125fe5c75992b451fda0a8a0437a034f1_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">유귀열의 배추 김장김치- 살림9단 만물상 268회</h4>
-                            <p class="jq_elips">by 살림9단의 만물상</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899980">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/432afb29a2754443c27649bbf0fba9461_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">이보은의 동치미- 살림9단 만물상 268회</h4>
-                            <p class="jq_elips">by 살림9단의 만물상</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899412">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/d49e7d181136c92db5817d58f5f0b8521_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">조영신의 오삼불고기- 살림9단 만물상 267회</h4>
-                            <p class="jq_elips">by 살림9단의 만물상</p>
-                        </div>
-                    </a>
-                </li>
-                        </ul>
-        </dd>
-    </dl>
-    <dl class="home_cont">
-        <dt>
-            <h3><a href="/issue/view.html?cid=10000mag">다양한 테마로 다섯가지 요리를 추천</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=10000mag" class="btn_more">더보기</a></div>
-        </dt>
-        <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_10000mag" style="position:relative;left:0;height:230px;width:1890px">
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6885308">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/12/93f1d1b6d2ffcea135134688e880e1291_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">갑자기 나타난 통풍, 원인과 건강한 예방 식습관은?</h4>
-                            <p class="jq_elips">by 만개의 매거진</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6885305">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/12/3888add144c3d93eac30186724a86eb31_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">음식 더 오랫동안 보관하기 꿀팁!어떻게 보관해야 될까요???</h4>
-                            <p class="jq_elips">by 만개의 매거진</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6885177">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/09/48a87d12fd5646276b169efd16c21a891_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">점점 늘어나는 뱃살~식욕 억제 식품 알아보고 과식금지!</h4>
-                            <p class="jq_elips">by 만개의 매거진</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6885176">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/03/09/973e6304318e729a31d248be7f3d7b3c1_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">국민질환 당뇨! 당뇨 예방 음식</h4>
-                            <p class="jq_elips">by 만개의 매거진</p>
-                        </div>
-                    </a>
-                </li>
-                        </ul>
-        </dd>
-    </dl>
-    <dl class="home_cont">
-        <dt>
-            <h3><a href="/issue/view.html?cid=10000know">알아두면 무조건 좋은</a></h3>
-            <div class="home_cont_r2"><a href="/issue/view.html?cid=10000know" class="btn_more">더보기</a></div>
-        </dt>
-        <dd style="width:945px;overflow:hidden">
-            <ul class="home_recipe2 st2" id="id_themes_10000know" style="position:relative;left:0;height:230px;width:1890px">
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6900040">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/729964ca2e7657275f5382d71dac18b61_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">밀가루 종류별로 알려드릴께요 : ) [만개의노하우]</h4>
-                            <p class="jq_elips">by 만개의 노하우</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899728">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/e907abce5aecf906375804ddec3c74a21_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">올리고당조리법 ☆ 음식의 단맛과 윤기까지 싹-</h4>
-                            <p class="jq_elips">by 만개의 노하우</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899727">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/87e714bc830dfde17229e8af0135f9511_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">소금조리법 ☆ 소금의 종류가 이렇게 많았다구요!?</h4>
-                            <p class="jq_elips">by 만개의 노하우</p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="pull-left">
-                    <a class="thumbnail" href="/recipe/6899724">
-                        <div class="thumbs_hb"><img src="http://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/c16c8ab66e4f34463ef31bf03f398d111_f.png" alt="recipe"></div>
-                        <div class="caption">
-                            <h4><span class="jq_elips">새우젓보관법 ☆ 잘쓰면 감칠맛 대-박!</h4>
-                            <p class="jq_elips">by 만개의 노하우</p>
+                            <h4><span class="jq_elips">촉촉한 가지 데리야키 덮밥</h4>
+                            <p class="jq_elips">by C Channel</p>
                         </div>
                     </a>
                 </li>
@@ -1214,11 +1214,11 @@ function customerPropose()
     <div class="container">
         <img src="http://recipe1.ezmember.co.kr/img/logo6.png">
         <ul class="btm_stats">
-            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>358</b></li>
-            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,138</b></li>
-            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>105,999</b></li>
+            <li><a href="/brand/apply.html" style="color:#fff;"><span class="btm_stats_1"></span>제휴업체수</a><b>357</b></li>
+            <li><a href="/chef/apply.html" style="color:#fff;"><span class="btm_stats_2"></span>총 쉐프수</a><b>2,140</b></li>
+            <li><a href="/recipe/list.html" style="color:#fff;"><span class="btm_stats_3"></span>총 레시피수</a><b>106,240</b></li>
             <li><span class="btm_stats_4"></span>월 방문자수<b>5,140,000</b></li>
-            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,239,282,454</b></li>
+            <li><span class="btm_stats_5"></span>총 레시피 조회수<b>1,242,845,511</b></li>
         </ul>
         <div class="btm_mail">
             <a href="mailto:marketing@10000recipe.com"><img src="http://recipe1.ezmember.co.kr/img/btm_img2.png"></a>
