@@ -145,20 +145,6 @@ function button1(choose){
   }
   document.getElementById('message').innerHTML = message;
 }
-function normal2(){
-  var file = "https://raw.githubusercontent.com/Eimayto/forcontest/master/download/mainpage.txt";
-  var for_for;
-  var rawFile = new XMLHttpRequest();
-  rawFile.open("GET", file, false);
-  rawFile.onreadystatechange = function ()
-  {
-      if(rawFile.readyState === 4)
-      {
-          if(rawFile.status === 200 || rawFile.status == 0)
-          {
-              allText = rawFile.responseText;
-          }
-      }
-  }
-  rawFile.send();
+function button2(){
+  document.getElementById('message').innerHTML="<img src='https://raw.githubusercontent.com/Eimayto/forcontest/master/15b64e7355c331829957ba510cc7242d1_f.png'>";
 }
