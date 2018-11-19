@@ -146,5 +146,6 @@ function button1(choose){
   document.getElementById('message').innerHTML = message;
 }
 function button2(){
-  document.getElementById('message').innerHTML="<img src='https://raw.githubusercontent.com/Eimayto/forcontest/master/15b64e7355c331829957ba510cc7242d1_f.png'>";
+  //document.getElementById('message').innerHTML="<img src='https://raw.githubusercontent.com/Eimayto/forcontest/master/15b64e7355c331829957ba510cc7242d1_f.png'>";
+  document.getElementById('message').innerHTML="<img src='http://recipe1.ezmember.co.kr/cache/recipe/2017/02/08/4f970d89d822607311d4e47c6c533b971_f.png'>";
 }
