@@ -136,10 +136,10 @@ function button1(choose){
       var jung3 = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
       allText = allText.replace(jung3[0],'');
       if(for_for !== 4){
-          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%"></a><br>';
+          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung3[1]+'"></a><br>';
       }
       else{
-        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%"></a>';
+        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung3[1]+'"></a>';
       }
     }
   }
