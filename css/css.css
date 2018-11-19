@@ -1,13 +1,44 @@
+.container{
+  overflow: hidden;
+  width: auto;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.container input#input{
+  width: auto;
+  height: auto;
+  background: #2b303b;
+  border: none;
+  font-size: 40pt;
+  float: left;
+  color: #fff;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin-right: 20px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.container input#input::-webkit-input-placeholder {
+   color: #65737e;
+}
+
+.container input#input:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;
+}
+
+.container input#input::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;
+}
+
+.container input#input:-ms-input-placeholder {
+   color: #65737e;
+}
+
 #message{
-  font-size: 50px;
+  font-size: 40px;
   width: 130%;
   line-height: 100px;
-}
-#input{
-  height: 40px;
-  weight: 100%;
-  background-color: #e2e2e2;
-  font-size:20pt; color:#00c739; font-weight:bold;
 }
 .normal {
 	-moz-box-shadow: 3px 4px 0px 0px #899599;
@@ -29,7 +60,7 @@
 	cursor:pointer;
 	color:#3a8a9e;
 	font-family:Arial;
-	font-size:50px;
+	font-size:40px;
 	padding:21px 45px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #e1e2ed;
@@ -69,7 +100,7 @@
 	cursor:pointer;
 	color:#333333;
 	font-family:Arial;
-	font-size:50px;
+	font-size:40px;
 	padding:0px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffee66;

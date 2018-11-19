@@ -5,31 +5,17 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/css.css"/>
 	<script src="js/script_V2.js">
-	/*var number = 3
-	while (number != 1 && number != 2){
-    alert("1. 레시피 검색\n2.재료로 만들 수 있는 레시피 검색");//1.레검 2. 재만레검
-	try {
-		number = Number(prompt('둘중 하나를 골라주세요.\n입력: '));
-	}
-	catch(err) {
-		print("숫자로 입력하여주세요.");
-		number = 3;
-	}
-	}
-	if (number==1){
-    recipe = prompt('검색하고자 하는 레시피를 입력해주세요.\n입력: ')
-	}*/
 	</script>
 </head>
 <body>
-	<div style="font-size:50px;color:blue;margin-bottom: 15px;">프로그램 제목: 정민이와 현오의 맛있는 레시피</div>
-	<div style="font-size:50px;color:blue;margin-bottom: 15px;">만든이: 김정민 & 최현오</div>
-	<div style="font-size:50px;color:#433930;margin-bottom: 15px;">KB 디지털 Mentoring 국민은행 소프트웨어 경진대회
+	<div style="font-size:40px;color:blue;margin-bottom: 15px;">프로그램 제목: 정민이와 현오의 맛있는 레시피</div>
+	<div style="font-size:40px;color:blue;margin-bottom: 15px;">만든이: 김정민 & 최현오</div>
+	<div style="font-size:40px;color:#433930;margin-bottom: 15px;">KB 디지털 Mentoring 국민은행 소프트웨어 경진대회
 	<br>공모주제: 이웃의 삶에 도움이 되는 소프트웨어 개발</div>
 	<!--<button onClick="normal()" class = "normal"><strong><b style="font-size: 30px;color: green;width: 100px">레시피 검색</b></strong></button>
 	<button onClick="On2Click()" class = "normal"><strong><b style="font-size: 30px;color: green;">???????????</b></strong></button>-->
 	<a onClick="button1(1)" class="normal">인기동영상</a> <a onClick="button1(2)" class="normal">오늘의 요리</a> <a onClick="button2()" class="normal">TEST</a><br><br>
-	<input type="text" id="input" placeholder="요리명을 입력하십시오"> <a onClick="normal()" class="normal">레시피 검색</a>
-	<div id='message'></div><div id='bunsu' style='font-size: 50px;'></div>
+  <div class="container" style="display:inline"><input type="search" id="input" placeholder="주재료를 입력하세요"></div><a onClick="normal()" class="normal">검색</a>
+	<div id='message'></div><div id='bunsu' style='font-size: 40px;'></div>
 </body>
 </html>
