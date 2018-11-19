@@ -3,6 +3,12 @@
   width: 130%;
   line-height: 100px;
 }
+#input{
+  height: 40px;
+  weight: 100%;
+  background-color: #e2e2e2;
+  font-size:20pt; color:#00c739; font-weight:bold;
+}
 .normal {
 	-moz-box-shadow: 3px 4px 0px 0px #899599;
 	-webkit-box-shadow: 3px 4px 0px 0px #899599;
