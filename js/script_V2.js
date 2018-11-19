@@ -9,10 +9,11 @@ var outputmessage;
 //var value = "";
 function normal(){
    page = 1;
-   recipe = "";
+   /*recipe = "";
    while(recipe == ""){
       recipe = prompt('주재료를 입력하세요');
-   }
+   }*/
+   recipe = document.getElementById('input').value;
    On1Click();
 }
 function next(){
