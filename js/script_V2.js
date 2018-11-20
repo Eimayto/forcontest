@@ -7,14 +7,19 @@ var number;
 var page;
 var outputmessage;
 //var value = "";
+function nosearch(){
+  document.getElementById('message').innerHTML = "검색 결과가 없습니다";
+  document.getElementById('bunsu').innerHTML = '';
+}
 function normal(){
    page = 1;
-   /*recipe = "";
-   while(recipe == ""){
-      recipe = prompt('주재료를 입력하세요');
-   }*/
    recipe = document.getElementById('input').value;
-   On1Click();
+   if(recipe == ''){
+     nosearch();
+   }
+   else{
+     On1Click();
+   }
 }
 function next(){
     page+=1;
@@ -57,8 +62,7 @@ function On1Click(){
             }
       }
       if(i==1){
-        alert("검색결과가 없습니다");
-        bunsu.innerHTML = "";
+        nosearch();
         return false;
       }
       var max = page*10;
@@ -145,8 +149,4 @@ function button1(choose){
     }
   }
   document.getElementById('message').innerHTML = message;
-}
-function button2(){
-  //document.getElementById('message').innerHTML="<img src='https://raw.githubusercontent.com/Eimayto/forcontest/master/15b64e7355c331829957ba510cc7242d1_f.png'>";
-  document.getElementById('message').innerHTML="<img src='http://recipe1.ezmember.co.kr/cache/recipe/2017/02/08/4f970d89d822607311d4e47c6c533b971_f.png'>";
 }
