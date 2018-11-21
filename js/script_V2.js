@@ -56,7 +56,7 @@ function On1Click(){
             body = body.replace(jung[0], '');
             //jung[1]=번호, jung[2]=요리이름, jung[3]=간단레시피주소, jung[4]=이미지주소, jung[5]=상세레시피주소
             if(new RegExp(recipe).test(jung[2])){
-               output[i] = number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)<br><a href="http://www.10000recipe.com/recipe/'+jung[5]+'" target="_blank">'+jung[4]+' title="http://www.10000recipe.com/recipe/'+jung[5]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung[5]+'"></a><br>';
+               output[i] = number+'. <a href="'+jung[3]+'"target="_blank" title="'+jung[3]+'">'+jung[2]+'</a> ('+jung[1]+'번째 요리)<br><a href="http://www.10000recipe.com/recipe/'+jung[5]+'" target="_blank">'+jung[4]+' title="http://www.10000recipe.com/recipe/'+jung[5]+'" width="30%"></a><br>';
                i += 1;
                number+=1;
             }
@@ -117,10 +117,10 @@ function button1(choose){
       var jung3 = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
       allText = allText.replace(jung3[0],'');
       if(for_for !== 4){
-          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung3[1]+'"></a><br>';
+          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%"></a><br>';
       }
       else{
-        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung3[1]+'"></a>';
+        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%"></a>';
       }
     }
   }
@@ -141,10 +141,10 @@ function button1(choose){
       var jung3 = /<div class="thumbs_hb"><img src="([^"]+)/.exec(allText);
       allText = allText.replace(jung3[0],'');
       if(for_for !== 4){
-          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung3[1]+'"></a><br>';
+          message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%"></a><br>';
       }
       else{
-        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%" alt="http://www.10000recipe.com/recipe/'+jung3[1]+'"></a>';
+        message = message+for_for+'. <a href="http://www.10000recipe.com'+jung2[1]+'"title="http://www.10000recipe.com'+jung2[1]+'"target="_blank">'+jung1[1]+'<br><img src="'+jung3[1]+'" width="30%"></a>';
       }
     }
   }
