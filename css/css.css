@@ -1,15 +1,15 @@
 .container{
   overflow: hidden;
-  width: auto;
+  width: 200px;
   vertical-align: middle;
   white-space: nowrap;
 }
 .container input#input{
-  width: auto;
+  width: 200px;
   height: auto;
   background: #2b303b;
   border: none;
-  font-size: auto;
+  font-size: 30px;
   float: left;
   color: #fff;
   margin-top: 20px;
@@ -34,7 +34,10 @@
 .container input#input:-ms-input-placeholder {
    color: #65737e;
 }
-
+#bunsu{
+  font-size: auto;
+  line-height: auto;
+}
 #message{
   font-size: auto;
   line-height: auto;
@@ -99,7 +102,7 @@
 	cursor:pointer;
 	color:#333333;
 	font-family:Arial;
-	font-size:40px;
+	font-size:auto;
 	padding:0px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffee66;
