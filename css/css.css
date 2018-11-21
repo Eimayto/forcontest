@@ -36,9 +36,8 @@
 }
 
 #message{
-  font-size: 40px;
-  width: 130%;
-  line-height: 100px;
+  font-size: auto;
+  line-height: auto;
 }
 .normal {
 	-moz-box-shadow: 3px 4px 0px 0px #899599;
