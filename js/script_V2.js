@@ -71,6 +71,9 @@ function On1Click(){
       var repeat;
       outputmessage = '';
       for(repeat=min;repeat<=max;repeat++){
+        if(repeat%10 == 1){
+          outputmessage = outputmessage+"<br>";
+        }
         if(typeof output[repeat] == "undefined"){
           break;
         }
