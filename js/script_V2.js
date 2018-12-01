@@ -128,7 +128,7 @@ function button1(choose){
     }
   }
   else{
-    for(for_for=1;for_for<=48;for_for++){
+    for(for_for=1;for_for<=36;for_for++){
       var jung = /<a class="thumbnail" href="([^"]+)/.exec(allText);
       allText = allText.replace(jung[0],'');
       var jung = new RegExp('<div class="thumbs_hb"><img src="([^"]+)').exec(allText);
